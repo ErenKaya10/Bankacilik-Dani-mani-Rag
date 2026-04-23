@@ -1,0 +1,38 @@
+{
+  "kategori_to_id": {
+    "kart_aktivasyon": 0,
+    "kart_iptal": 1,
+    "ucret_ve_komisyonlar": 2,
+    "kart_basvuru": 3,
+    "kart_faiz": 4,
+    "havale_iban": 5,
+    "sifre_unuttum": 6,
+    "sube_atm": 7,
+    "dolandiricilik": 8,
+    "musteri_hizmetleri": 9,
+    "ihtiyac_kredisi_basvuru": 10,
+    "ihtiyac_kredisi_faiz": 11,
+    "konut_kredisi_basvuru": 12,
+    "konut_kredisi_faiz": 13,
+    "tasit_kredisi_basvuru": 14,
+    "tasit_kredisi_faiz": 15
+  },
+  "id_to_kategori": {
+    "0": "kart_aktivasyon",
+    "1": "kart_iptal",
+    "2": "ucret_ve_komisyonlar",
+    "3": "kart_basvuru",
+    "4": "kart_faiz",
+    "5": "havale_iban",
+    "6": "sifre_unuttum",
+    "7": "sube_atm",
+    "8": "dolandiricilik",
+    "9": "musteri_hizmetleri",
+    "10": "ihtiyac_kredisi_basvuru",
+    "11": "ihtiyac_kredisi_faiz",
+    "12": "konut_kredisi_basvuru",
+    "13": "konut_kredisi_faiz",
+    "14": "tasit_kredisi_basvuru",
+    "15": "tasit_kredisi_faiz"
+  }
+}

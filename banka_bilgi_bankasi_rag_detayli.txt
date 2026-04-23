@@ -1,0 +1,2725 @@
+================================================================================
+AETHER BANK - RAG BİLGİ BANKASI (16 KATEGORİ - DETAYLI)
+================================================================================
+
+
+============================================================
+KATEGORİ: KART_AKTIVASYON
+============================================================
+
+[BÖLÜM 1]
+🏦 **YENİ KART AKTİVASYONU - ADIM ADIM REHBER**
+
+Yeni banka/kredi kartınızı aktif etmek için aşağıdaki yöntemlerden birini kullanabilirsiniz:
+
+📱 **MOBİL UYGULAMA ÜZERİNDEN (En Hızlı Yöntem):**
+1. Aether Bank mobil uygulamasını açın
+2. Ana sayfada "Kartlarım" menüsüne girin
+3. "Kart Aktifleştir" butonuna tıklayın
+4. Kartınızın son 4 hanesini girin
+5. Doğum tarihinizi girin (GG/AA/YYYY)
+6. Cep telefonunuza SMS ile gönderilen aktivasyon kodunu girin
+7. "Onayla" butonuna tıklayın
+8. Aktivasyon tamamlandı bildirimini bekleyin
+
+🏧 **ATM'DEN AKTİVASYON:**
+1. En yakın Aether Bank ATM'sine gidin
+2. Kartınızı ATM'ye takın
+3. Ekranda "Kart İşlemleri" menüsünü seçin
+4. "Kart Aktifleştir" seçeneğine tıklayın
+5. Telefonunuza gelen SMS kodunu girin
+6. Yeni şifrenizi belirleyin (4 haneli)
+7. İşlem tamamlandı ekranını bekleyin
+
+📞 **MÜŞTERİ HİZMETLERİNDEN AKTİVASYON:**
+1. 0850 123 45 67'yi arayın
+2. Sesli yanıt sisteminde 1'i tuşlayın (Kart İşlemleri)
+3. 1'i tuşlayarak "Kart Aktivasyonu" menüsünü seçin
+4. Müşteri temsilcisine bağlanmak için 0'ı tuşlayın
+5. Güvenlik sorularını yanıtlayın
+6. Aktivasyon işlemini tamamlayın
+
+💻 **İNTERNET ŞUBESİNDEN AKTİVASYON:**
+1. www.aetherbank.com.tr adresine gidin
+2. İnternet şubesine giriş yapın
+3. "Kartlar" menüsünü tıklayın
+4. "Kart Aktivasyonu" seçeneğini seçin
+5. Kart bilgilerinizi girin
+6. SMS ile gelen kodu onaylayın
+
+⏱️ **AKTİVASYON SÜRESİ:** İşlem anında gerçekleşir (1-2 dakika)
+
+📌 **ÖNEMLİ NOTLAR:**
+• Kartınız teslim alındıktan sonra 30 gün içinde aktifleştirilmelidir
+• Aktifleştirilmeyen kartlar otomatik iptal edilir
+• Aktivasyon sonrası ilk ATM kullanımında şifrenizi değiştirmeniz önerilir
+• Aktivasyon ücretsizdir
+----------------------------------------
+
+[BÖLÜM 2]
+❓ **KART AKTİVASYONU - SIKÇA SORULAN SORULAR**
+
+**S: Kartım geldi ama aktifleştiremiyorum, ne yapmalıyım?**
+C: Öncelikle şunları kontrol edin:
+   • Kartınızın üzerindeki çipli bölümde hasar olup olmadığı
+   • Telefonunuza SMS gelip gelmediği
+   • Mobil uygulamanın güncel versiyonu
+   
+   Hala sorun yaşıyorsanız:
+   • Farklı bir aktivasyon yöntemi deneyin (ATM veya telefon)
+   • Müşteri hizmetlerini arayın: 0850 123 45 67
+   • En yakın şubemize uğrayın
+
+**S: Aktivasyon kodu SMS olarak gelmiyor, ne yapmalıyım?**
+C: 
+   1. Telefon numaranızın güncel olduğundan emin olun
+   2. SMS kutusunu kontrol edin (spam/junk klasörü)
+   3. 5 dakika bekleyin, hala gelmezse tekrar deneyin
+   4. Hala gelmiyorsa müşteri hizmetlerini arayın
+
+**S: Aktivasyon sonrası kart hemen kullanılır mı?**
+C: Evet, aktivasyon işlemi başarılı olduğu anda kartınızı kullanmaya başlayabilirsiniz. İlk alışverişinizde küçük bir tutarla deneme yapmanız önerilir.
+
+**S: Yurt dışındayken kart aktivasyonu yapabilir miyim?**
+C: Evet, yapabilirsiniz:
+   • Mobil uygulama yurt dışında da çalışır
+   • +90 850 123 45 67'yi arayabilirsiniz
+   • İnternet şubesinden aktivasyon yapabilirsiniz
+
+**S: Başkası adına kart aktifleştirebilir miyim?**
+C: Hayır, güvenlik nedeniyle kart aktivasyonu sadece kart sahibi tarafından yapılabilir. Vekalet durumunda şubeden işlem yapılması gerekir.
+
+**S: Aktivasyon ücretli mi?**
+C: Hayır, kart aktivasyonu tamamen ücretsizdir.
+
+**S: Kartımı aktifleştirdikten sonra şifremi değiştirmeli miyim?**
+C: Evet, ilk ATM kullanımında şifrenizi değiştirmeniz güvenlik açısından önemlidir. Doğum tarihi, 1234 gibi basit şifreler kullanmayın.
+----------------------------------------
+
+[BÖLÜM 3]
+🌍 **YURT DIŞI KART AKTİVASYONU VE KULLANIMI**
+
+**YURT DIŞINDA KART AKTİVASYONU:**
+
+✈️ **Seyahat Öncesi Yapılması Gerekenler:**
+1. Mobil uygulamadan "Yurt Dışı Kullanım" iznini aktifleştirin
+2. Seyahat tarihlerinizi ve gideceğiniz ülkeleri bildirin
+3. Günlük harcama limitinizi kontrol edin
+4. İletişim bilgilerinizin güncel olduğundan emin olun
+
+🌐 **Aktivasyon Yöntemleri:**
+• **Mobil Uygulama:** Yurt dışı erişime açıktır, VPN gerekmez
+• **Telefon:** +90 850 123 45 67 (uluslararası hat)
+• **Web:** www.aetherbank.com.tr (internet şubesi)
+
+💱 **YURT DIŞI KULLANIM AVANTAJLARI:**
+• **Döviz Kuru:** Merkez Bankası kuru + %0,5 komisyon
+• **İşlem Ücreti:** POS'tan yapılan alışverişlerde ek ücret yok
+• **ATM'den Para Çekme:** İşlem başına 10 TL + %1 komisyon
+• **Günlük Limit:** 5.000 TL (yurt dışı için ayrı limit)
+
+⚠️ **DİKKAT EDİLMESİ GEREKENLER:**
+• Seyahat öncesi bankanıza bilgi verin
+• Acil durumlar için +90 850 123 45 67'yi kaydedin
+• Kartınızı kaybetmeniz durumunda hemen bloke ettirin
+• 3D Secure işlemleri için telefonunuzun açık olması gerekir
+
+📞 **ACİL DURUM NUMARALARI:**
+• Kart Bloke/İptal: +90 850 123 45 67 (7/24)
+• Yardım Masası: +90 850 123 45 68
+• VISA Küresel Yardım: +1 303 967 1090
+----------------------------------------
+
+
+============================================================
+KATEGORİ: KART_IPTAL
+============================================================
+
+[BÖLÜM 1]
+🚨 **KART İPTALİ - KAYIP/ÇALINTI DURUMUNDA ACİL EYLEM PLANI**
+
+**KARTINIZ KAYBOLDUYSA VEYA ÇALINDIYSA HEMEN ŞU ADIMLARI UYGULAYIN:**
+
+🛑 **1. ACİL DURUM - KARTI DONDRUN:**
+   • Mobil uygulamayı açın
+   • "Kartlarım" menüsüne girin
+   • İlgili kartın yanındaki "..." işaretine tıklayın
+   • "Kartı Dondur" seçeneğini seçin
+   • ✅ Kartınız anında geçici olarak bloke olur
+   • Bu işlem 7/24 yapılabilir ve ücretsizdir
+
+📞 **2. MÜŞTERİ HİZMETLERİNİ ARAYIN:**
+   • Telefon: 0850 123 45 67
+   • Sesli yanıt sisteminde 6'yı tuşlayın (Acil/Kayıp/Çalıntı)
+   • Müşteri temsilcisine durumu bildirin
+   • Kayıt altına alınmasını sağlayın
+   • Size verilen referans numarasını not edin
+
+👮 **3. RESMİ İHBARDA BULUNUN:**
+   • En yakın polis merkezine/kolluk kuvvetlerine gidin
+   • Kayıp/çalıntı tutanağı oluşturun
+   • Tutanakta şunları belirtin:
+     - Kartın kaybolduğu/çalındığı tarih ve saat
+     - Son kullanılan yer (hatırlıyorsanız)
+     - Şüpheli işlemler varsa detayları
+   • Tutanağın bir kopyasını mutlaka saklayın
+
+🔄 **4. YENİ KART BAŞVURUSU YAPIN:**
+   • İptal işlemi tamamlandıktan sonra
+   • Mobil uygulamadan "Yeni Kart Başvurusu" yapın
+   • Veya en yakın şubeye başvurun
+   • Yeni kartınız 3-5 iş günü içinde adresinize gelir
+
+💰 **5. İTİRAZLI İŞLEMLERİ BİLDİRİN:**
+   • Hesap özetinizi kontrol edin
+   • Yapmadığınız işlemleri tespit edin
+   • İtiraz formu doldurun
+   • 10 gün içinde iade süreci başlatılır
+
+⚠️ **UNUTMAYIN:**
+• Kartınızı iptal ettirdikten sonra otomatik ödeme talimatlarınızı güncelleyin
+• Aboneliklerinize (Netflix, Spotify vb.) yeni kart bilgilerinizi tanımlayın
+• E-ticaret sitelerinde kayıtlı kartınızı silip yeniden ekleyin
+• Kartınızın iptal edildiğine dair SMS ve e-posta bildirimi alacaksınız
+----------------------------------------
+
+[BÖLÜM 2]
+💰 **KART İPTALİ ÜCRETLERİ VE İADE KOŞULLARI**
+
+📊 **KAYIP/ÇALINTI DURUMUNDA ÜCRETLER:**
+| İşlem | Ücret | Açıklama |
+|-------|-------|----------|
+| Kart İptal Ücreti | 15 TL | Kayıp/çalıntı bildirimi |
+| Yeni Kart Basımı | 25 TL | Fiziksel kart üretimi |
+| Normal Kargo | 10 TL | 3-5 iş günü |
+| Acil Kargo | 30 TL | 1 iş günü |
+| **Toplam** | **50 TL** | Normal teslimat ile |
+
+💳 **İSTEĞE BAĞLI İPTALLERDE:**
+• Kullanmadığınız kartları iptal etmek ücretsizdir
+• Yıllık ücret iadesi için:
+  - Kartın son kullanım tarihine kadar kalan süre hesaplanır
+  - Kalan ay sayısına göre oransal iade yapılır
+  - Örnek: 12 ayın 6 ayı kullanılmışsa, kalan 6 ayın ücreti iade edilir
+  - İade tutarı 15-30 gün içinde hesaba yansır
+
+🔄 **TAKSİTLİ ALIŞVERİŞLERİN DURUMU:**
+• İptal edilen kartın taksitli alışverişleri yeni kartınıza otomatik aktarılır
+• Taksit sayıları ve tutarları değişmez
+• Hesap özetinizde aynı şekilde görünmeye devam eder
+• Aktarım 3-5 iş günü içinde tamamlanır
+
+⭐ **PUAN TRANSFERİ:**
+• Birikmiş puanlarınız yeni kartınıza aktarılır
+• Puan kaybı yaşanmaz
+• Aktarım süresi: 5-7 iş günü
+• Puanların nakde dönüşümü talep ederseniz:
+  - 100 puan = 1 TL olarak hesaplanır
+  - Minimum dönüşüm: 500 puan
+  - İade 15 iş günü içinde yapılır
+
+📌 **ÖNEMLİ NOTLAR:**
+• Ücretler her yıl Ocak ayında güncellenir
+• Maaş müşterilerine %20 indirim uygulanır
+• 25 yaş altı gençlere ilk kayıp/çalıntıda ücret alınmaz
+• Engelli müşteriler ücretten muaftır
+----------------------------------------
+
+[BÖLÜM 3]
+🔄 **KART İPTALİ SONRASI YAPILMASI GEREKENLER**
+
+**1. OTOMATİK ÖDEME TALİMATLARINIZI GÜNCELLEYİN:**
+
+📋 **Kontrol edilmesi gereken ödemeler:**
+• Fatura ödemeleri (elektrik, su, doğalgaz, telefon, internet)
+• Kredi kartı borç ödemeleri (varsa)
+• Sigorta primleri (sağlık, araç, konut)
+• Okul taksitleri (öğrenci kredisi, burs)
+• Abonelikler (Netflix, Spotify, Amazon Prime, YouTube Premium, Disney+)
+• Spor salonu üyelikleri
+• Dernek/vakıf aidatları
+• Kira ödemeleri (otomatik talimat varsa)
+
+**2. DİJİTAL CÜZDANLARI GÜNCELLEYİN:**
+• Apple Pay
+• Google Pay
+• Samsung Pay
+• Diğer mobil cüzdan uygulamaları
+
+**3. E-TİCARET SİTELERİNDE KART BİLGİLERİNİZİ YENİLEYİN:**
+• Trendyol, Hepsiburada, Amazon, N11, GittiGidiyor
+• Yemek sepeti uygulamaları (Yemeksepeti, Getir, Migros)
+• Taksi/uçuş uygulamaları (BiTaksi, Uber, THY, Pegasus)
+• Otel rezervasyon siteleri (Booking, Airbnb)
+
+**4. GEÇİCİ ÇÖZÜM - SANAL KART KULLANIMI:**
+• Yeni kartınız gelene kadar mobil uygulamadan anında sanal kart oluşturun
+• Sanal kart limitini ihtiyacınıza göre belirleyin
+• Online alışverişlerinizde sanal kartı kullanabilirsiniz
+• Sanal kart bilgileri anında oluşturulur ve SMS ile gönderilir
+
+**5. GÜVENLİK ÖNLEMLERİ:**
+• Hesap hareketlerinizi düzenli kontrol edin
+• Şüpheli işlem görürseniz hemen bildirin
+• 3 ayda bir şifrelerinizi değiştirin
+• Kartınızın arkasındaki CVV kodunu kimseyle paylaşmayın
+
+📞 **YARDIM İÇİN:**
+• Müşteri Hizmetleri: 0850 123 45 67
+• E-posta: kartislemleri@aetherbank.com.tr
+• Şube Randevu: Mobil uygulama > Randevu Al
+----------------------------------------
+
+
+============================================================
+KATEGORİ: UCRET_VE_KOMISYONLAR
+============================================================
+
+[BÖLÜM 1]
+🏦 **HESAP İŞLETİM ÜCRETLERİ - 2026 GÜNCEL TARİFE**
+
+📊 **VADESİZ TL HESAPLARI:**
+| Hesap Türü | Aylık Ücret | Yıllık Ücret | Muafiyet Şartları |
+|------------|-------------|--------------|-------------------|
+| Standart Bireysel | 15 TL | 180 TL | - |
+| Öğrenci Hesabı | ÜCRETSİZ | ÜCRETSİZ | 25 yaş altı, öğrenci belgesi |
+| Emekli Hesabı | ÜCRETSİZ | ÜCRETSİZ | Emekli maaşı bankamızdan |
+| Genç Hesap (18-25) | ÜCRETSİZ | ÜCRETSİZ | İlk 3 yıl |
+| Birikim Hesabı | 10 TL | 120 TL | 5.000 TL üzeri bakiye |
+| Maaş Hesabı | ÜCRETSİZ | ÜCRETSİZ | Maaş ödemesi bankamızdan |
+| Varlık Yönetim | ÜCRETSİZ | ÜCRETSİZ | 100.000 TL+ bakiye |
+
+💱 **DÖVİZ HESAPLARI:**
+| Döviz Cinsi | Aylık Ücret | Yıllık Ücret | İşlem Ücreti |
+|-------------|-------------|--------------|---------------|
+| USD Hesabı | 2 USD | 24 USD | %0,2 (min 5 USD) |
+| EUR Hesabı | 2 EUR | 24 EUR | %0,2 (min 5 EUR) |
+| GBP Hesabı | 1.5 GBP | 18 GBP | %0,2 (min 5 GBP) |
+| CHF Hesabı | 2 CHF | 24 CHF | %0,2 (min 5 CHF) |
+| Çoklu Döviz | 5 USD | 60 USD | Tüm dövizler dahil |
+
+📈 **VADELİ HESAPLAR:**
+| Vade | Stopaj Oranı | İşletim Ücreti |
+|------|--------------|-----------------|
+| 0-6 ay | %5 | ÜCRETSİZ |
+| 6-12 ay | %3 | ÜCRETSİZ |
+| 1 yıl üzeri | %0 | ÜCRETSİZ |
+
+✅ **ÜCRET MUAFİYETİ ŞARTLARI:**
+1. **Maaş müşterileri:** Maaş ödemesi bankamızdan yapılanlar
+2. **Emekliler:** SGK/T.C. Emekli Sandığı maaşı alanlar
+3. **Öğrenciler:** 25 yaş altı, öğrenci belgesi ibraz edenler
+4. **Gençler:** 18-25 yaş arası (ilk 3 yıl)
+5. **Kredi kartı asli üyeleri:** Aylık 1.000 TL+ harcama yapanlar
+6. **BES müşterileri:** Aylık 500 TL+ katkı yapanlar
+7. **Yatırımcılar:** 100.000 TL+ portföyü olanlar
+
+📌 **NOTLAR:**
+• Hesap işletim ücretleri her ayın 1'inde otomatik tahsil edilir
+• Muafiyet durumunuz varsa ücret iadesi için şubeye başvurun
+• Ücretler her yıl Ocak ayında TÜFE oranında güncellenir
+• İtirazlar için 30 gün içinde başvuru yapılmalıdır
+----------------------------------------
+
+[BÖLÜM 2]
+💸 **HAVALE VE EFT ÜCRETLERİ - 2026 GÜNCEL TARİFE**
+
+📊 **BANKALARARASI TRANSFER (EFT) ÜCRETLERİ:**
+
+| MİKTAR ARALIĞI | STANDART ÜCRET | MOBİL İNDİRİMLİ |
+|----------------|----------------|-----------------|
+| 0 - 1.000 TL | 3,50 TL | 2,80 TL |
+| 1.001 - 5.000 TL | 5,75 TL | 4,60 TL |
+| 5.001 - 25.000 TL | 8,90 TL | 7,12 TL |
+| 25.001 - 100.000 TL | 15,40 TL | 12,32 TL |
+| 100.001 - 250.000 TL | Binde 1,5 (max 250 TL) | %20 indirimli |
+| 250.001 TL ve üzeri | Binde 1,5 (max 375 TL) | %20 indirimli |
+
+🏦 **BANKA İÇİ HAVALE (Aynı Banka):**
+| İşlem Türü | Ücret | Limit | İşlem Süresi |
+|------------|-------|-------|--------------|
+| TL Havale | ÜCRETSİZ | Limitsiz | Anında |
+| USD Havale | 10 USD | 50.000 USD | 1-2 saat |
+| EUR Havale | 8 EUR | 50.000 EUR | 1-2 saat |
+| GBP Havale | 10 GBP | 50.000 GBP | 1-2 saat |
+
+⚡ **FAST (Anlık Transfer) ÜCRETLERİ:**
+| Zaman Dilimi | Ücret | Limit | İşlem Süresi |
+|--------------|-------|-------|--------------|
+| 08:30 - 17:00 | 2,25 TL | 25.000 TL | 10 saniye |
+| 17:00 - 08:30 | 1,12 TL | 25.000 TL | 10 saniye |
+| Hafta Sonu | 1,12 TL | 25.000 TL | 10 saniye |
+| Resmi Tatil | 1,12 TL | 25.000 TL | 10 saniye |
+
+🌍 **ULUSLARARASI TRANSFER ÜCRETLERİ:**
+| Transfer Türü | Ücret | Aracı Banka | İşlem Süresi |
+|---------------|-------|-------------|--------------|
+| Swift USD | 25 USD + %0,2 | Var | 2-5 iş günü |
+| Swift EUR | 20 EUR + %0,2 | Var | 2-5 iş günü |
+| Swift GBP | 25 GBP + %0,2 | Var | 2-5 iş günü |
+| SEPA (EUR) | 5 EUR | Yok | 1-2 iş günü |
+
+📱 **MOBİL UYGULAMAYA ÖZEL İNDİRİMLER:**
+• Tüm EFT'lerde %20 indirim
+• FAST işlemlerine ek indirim yok
+• Otomatik ödeme talimatlarında %10 indirim
+• Toplu ödeme talimatlarında özel fiyatlandırma
+
+🏢 **KURUMSAL MÜŞTERİ TARİFELERİ:**
+• İşlem hacmine göre özel fiyatlandırma
+• Aylık paket seçenekleri
+• Limitsiz işlem paketleri
+• API entegrasyonu ile özel tarife
+
+📌 **İŞLEM SAATLERİ:**
+• EFT: Hafta içi 08:30 - 17:00
+• FAST: 7/24 (yılbaşı dahil)
+• Havale: 7/24 (anında)
+• İBAN: TR12 0001 2003 4567 8900 1234 56
+----------------------------------------
+
+[BÖLÜM 3]
+💳 **KREDİ KARTI ÜCRETLERİ VE KOMİSYONLAR**
+
+📊 **YILLIK KART ÜCRETLERİ:**
+
+| KART TİPİ | STANDART | ÖZEL TASARIM | EK KART |
+|-----------|----------|--------------|---------|
+| Classic Kart | 150 TL | 175 TL | 75 TL |
+| Gold Kart | 300 TL | 350 TL | 100 TL |
+| Platinum Kart | 750 TL | 850 TL | 150 TL |
+| Black/Infinite | 1.500 TL | 1.750 TL | 200 TL |
+| Business Kart | 500 TL | 600 TL | 125 TL |
+| Sanal Kart | ÜCRETSİZ | - | - |
+| Ön Ödemeli Kart | 50 TL | 75 TL | - |
+
+💰 **NAKİT AVANS ÜCRET VE FAİZLERİ:**
+| İşlem Türü | Oran/Ücret | Min | Max |
+|------------|------------|-----|-----|
+| İşlem Ücreti | %5 | 15 TL | 250 TL |
+| Akdi Faiz (Aylık) | %3,25 | - | - |
+| BSMV | %5 | - | - |
+| KKDF | %15 | - | - |
+| **Toplam Maliyet** | **%5 + %3,8 faiz** | - | - |
+
+**Örnek Hesaplama:** 1.000 TL nakit avans çekerseniz:
+• İşlem ücreti: 50 TL
+• 30 gün faiz: 38 TL
+• Vergiler: ~7 TL
+• TOPLAM: 1.095 TL geri ödeme
+
+⚠️ **GECİKME FAİZİ VE CEZALAR:**
+| Durum | Oran/Ücret | Açıklama |
+|-------|------------|----------|
+| Gecikme Faizi (Aylık) | %4,50 | Asgari tutar ödenmezse |
+| Gecikme Bildirim SMS'i | 2 TL/adet | 7. gün, 15. gün |
+| Limit Aşım Ücreti | 45 TL/ay | Limit %10'a kadar aşılabilir |
+| Yasal Takip | %9 faiz + masraflar | 90 gün gecikmede |
+
+📈 **PUAN KAZANMA ORANLARI:**
+| Kart Tipi | Harcama/Puan | 1 Puan Değeri | Yıllık Max Puan |
+|-----------|--------------|---------------|-----------------|
+| Classic | 100 TL'ye 1 puan | 0,01 TL | 5.000 puan |
+| Gold | 50 TL'ye 1 puan | 0,02 TL | 10.000 puan |
+| Platinum | 20 TL'ye 1 puan | 0,05 TL | 25.000 puan |
+| Black | 10 TL'ye 1 puan | 0,10 TL | 50.000 puan |
+
+🎁 **PUAN KULLANIM ALANLARI:**
+• Alışverişlerde anında indirim (100 puan = 1 TL)
+• Yemeksepeti, Trendyol vb. sitelerde puanla ödeme
+• Sinema, tiyatro biletleri
+• Uçak millerine dönüşüm
+• Akaryakıt indirimleri
+• Otel konaklamaları
+
+📌 **ÖNEMLİ NOTLAR:**
+• Yıllık ücretler her yıl Ocak ayında tahsil edilir
+• Yıllık 10.000 TL harcamaya yıllık ücret iadesi
+• Otomatik fatura talimatı verenlere %25 indirim
+• Mobil uygulamadan başvuranlara ilk yıl ücretsiz
+• Sadakat müşterilerine özel kampanyalar
+----------------------------------------
+
+
+============================================================
+KATEGORİ: KART_BASVURU
+============================================================
+
+[BÖLÜM 1]
+💳 **KREDİ KARTI BAŞVURUSU - ADIM ADIM REHBER**
+
+📋 **GEREKLİ BELGELER:**
+
+**Kimlik Belgeleri (Bir tanesi yeterli):**
+• T.C. kimlik kartı (çipli)
+• Ehliyet (yeni tip, fotoğraflı)
+• Pasaport (geçerli)
+• Sürücü belgesi
+
+**Gelir Belgeleri (Bir tanesi yeterli):**
+• Maaş bordrosu (son 3 ay)
+• SGK hizmet dökümü (e-Devlet'ten alınabilir)
+• Serbest meslek makbuzları (son 3 ay)
+• Emekli maaşı belgesi
+• Kira geliri belgesi (varsa)
+• 4A/4B/4C hizmet dökümü
+
+**İkametgah Belgeleri:**
+• Adres beyanı (mobil uygulamada onaylı)
+• Son 3 ay içinde alınmış abonelik faturası (elektrik, su, doğalgaz)
+• e-Devlet ikametgah belgesi
+
+💻 **BAŞVURU YÖNTEMLERİ:**
+
+**1. MOBİL UYGULAMA (En Hızlı - 5 dakika):**
+• Aether Bank mobil uygulamasını açın
+• Ana sayfada "Kartlar" > "Kredi Kartı Başvurusu" menüsüne girin
+• T.C. kimlik numaranızı girin
+• Gelir bilgilerinizi ve mesleğinizi seçin
+• İletişim adresinizi kontrol edin/güncelleyin
+• Fotoğraflı kimliğinizle selfie çekerek kimlik doğrulama yapın
+• Ekrandaki sözleşmeyi okuyup onaylayın
+• Başvurunuz alındı SMS'i alırsınız
+• 5-10 dakika içinde sonuç SMS ile bildirilir
+
+**2. İNTERNET ŞUBESİ:**
+• www.aetherbank.com.tr adresine giriş yapın
+• "Kredi Kartı Başvurusu" menüsünü seçin
+• Formu doldurun (kimlik, gelir, adres bilgileri)
+• Gerekli belgeleri yükleyin (fotoğraf veya PDF)
+• Başvuruyu gönderin
+• 24 saat içinde sonuçlandırılır
+
+**3. ŞUBEDEN (Randevulu):**
+• Mobil uygulamadan "Randevu Al" > "Kart Başvurusu" seçin
+• Uygun gün ve saati seçin
+• Randevu saatinde şubeye gidin
+• Yanınızda kimlik ve gelir belgenizi bulundurun
+• Müşteri temsilcisi form doldurmanıza yardımcı olur
+• Belgelerinizi teslim edin
+• 3 iş günü içinde sonuçlanır
+
+📊 **BAŞVURU DEĞERLENDİRME KRİTERLERİ:**
+| Kriter | İstenen Değer | Etki Oranı |
+|--------|---------------|------------|
+| Kredi Notu (Findeks) | 1200+ | %40 |
+| Düzenli Gelir | Asgari ücret + | %30 |
+| Kredi Kaydı | Temiz ödeme geçmişi | %15 |
+| Mevcut Borç | Gelirin %50'sini geçmemeli | %10 |
+| Yaş | 18-65 arası | %5 |
+
+⏱️ **KART TESLİMAT SÜRESİ:**
+| Bölge | Normal Teslimat | Acil Teslimat (+20 TL) |
+|-------|-----------------|----------------------|
+| İstanbul | 2-3 iş günü | 1 iş günü |
+| Ankara/İzmir | 3-4 iş günü | 1-2 iş günü |
+| Diğer İller | 4-5 iş günü | 2-3 iş günü |
+| Kırsal Bölgeler | 5-7 iş günü | - |
+
+📞 **BAŞVURU TAKİBİ:**
+• SMS ile bilgilendirme yapılır
+• Mobil uygulama > "Başvuru Takibi"
+• Müşteri Hizmetleri: 0850 123 45 67
+• Şubelerden öğrenebilirsiniz
+----------------------------------------
+
+[BÖLÜM 2]
+❓ **KREDİ KARTI BAŞVURUSU - SIKÇA SORULAN SORULAR**
+
+**S: Kredi kartı başvurusu için yaş sınırı var mı?**
+C: 
+• **18-20 yaş:** Ebeveyn onayı ile + limit 2.000 TL
+• **20-25 yaş:** Öğrenci kartı (limit 2.000-5.000 TL)
+• **25-65 yaş:** Standart başvuru (gelire göre limit)
+• **65 yaş üstü:** Ek gelir belgesi veya kefil
+
+**S: Kredi notum düşük, yine de başvurabilir miyim?**
+C: Kredi notu aralıklarına göre seçenekler:
+• **900 altı:** Ön ödemeli kart (yükleme kartı)
+• **900-1200:** Düşük limitli kart (2.000-3.000 TL)
+• **1200-1500:** Standart kart (5.000-15.000 TL)
+• **1500-1800:** Gold kart (15.000-30.000 TL)
+• **1800 üstü:** Platinum kart (30.000 TL+)
+
+**S: Öğrenciyken kredi kartı alabilir miyim?**
+C: Evet, 18 yaş üstü öğrenciler için özel kartlar var:
+• Limit: 2.000 TL - 5.000 TL arası
+• Yıllık ücret: İlk yıl ücretsiz
+• Gerekenler: Öğrenci belgesi + veli onayı (18-20 yaş için)
+• Ek özellik: Yemek ve kırtasiye kampanyaları
+
+**S: Ek kart başvurusu nasıl yapılır?**
+C: Ek kart aile bireyleri için:
+• Kimler alabilir: Eş, 18+ çocuk, anne-baba
+• Limit: Ana kart limitini paylaşır
+• Aylık ücret: 75 TL (ana karta eklenir)
+• Başvuru: Mobil uygulama > "Ek Kart Başvurusu"
+• Teslimat: 3-5 iş günü
+
+**S: Başvurum reddedildi, ne yapmalıyım?**
+C: 
+1. Red sebebini öğrenin (müşteri hizmetleri)
+2. Kredi notunuzu yükseltin:
+   • Düzenli ödeme yapın
+   • Mevcut borçlarınızı azaltın
+   • Kredi kartı limitlerinizi düşürün
+3. 3 ay sonra tekrar başvurun
+4. Alternatif: Bankkart/ön ödemeli kart
+
+**S: Ne kadar limit alabilirim?**
+C: Limit hesaplama formülü:
+• Aylık net gelir x 2 = Standart limit
+• Aylık net gelir x 3 = Gold limit
+• Aylık net gelir x 4 = Platinum limit
+• Aylık net gelir x 5 = Black limit
+
+**S: Yabancı uyruklular başvurabilir mi?**
+C: Evet, gerekli belgeler:
+• Geçerli ikamet izni
+• Çalışma izni (çalışıyorsa)
+• Yabancı kimlik numarası
+• Pasaport
+• Gelir belgesi
+----------------------------------------
+
+[BÖLÜM 3]
+💳 **KREDİ KARTI ÇEŞİTLERİ VE KARŞILAŞTIRMA**
+
+📊 **KART TÜRLERİ VE ÖZELLİKLERİ:**
+
+| Özellik | CLASSIC | GOLD | PLATINUM | BLACK |
+|---------|---------|------|----------|-------|
+| **Limit Aralığı** | 5.000-15.000 TL | 15.000-30.000 TL | 30.000-75.000 TL | 75.000 TL+ |
+| **Yıllık Ücret** | 150 TL | 300 TL | 750 TL | 1.500 TL |
+| **Taksit Sayısı** | 6 aya kadar | 9 aya kadar | 12 aya kadar | Limitsiz |
+| **Puan Kazanma** | 100 TL'ye 1 puan | 50 TL'ye 1 puan | 20 TL'ye 1 puan | 10 TL'ye 1 puan |
+| **Nakit Avans Oranı** | %5 + %3,25 | %4,5 + %3,25 | %4 + %3,25 | %3,5 + %3,25 |
+| **Yurt Dışı Kullanım** | Standart | Özel kur | En iyi kur | Sıfır komisyon |
+| **Havalimanı Lounge** | - | Yılda 2 kez | Yılda 6 kez | Limitsiz |
+| **Acil Yardım** | - | - | 7/24 | VIP hizmet |
+
+🎁 **KAMPANYA VE AVANTAJLAR:**
+
+**CLASSIC KART:**
+• Yeni müşterilere hoş geldin puanı: 250 TL
+• İlk 3 ay faizsiz nakit avans
+• Anlaşmalı markalarda %10 indirim
+• Otomatik fatura talimatına %5 iade
+
+**GOLD KART:**
+• Hoş geldin puanı: 500 TL
+• İlk 6 ay faizsiz nakit avans
+• Anlaşmalı restoranlarda %15 indirim
+• Yılda 2 kez yurt dışı seyahat sigortası
+• Araç kiralama %20 indirim
+
+**PLATINUM KART:**
+• Hoş geldin puanı: 1.000 TL
+• İlk 9 ay faizsiz nakit avans
+• Lüks otellerde %25 indirim
+• Yılda 6 kez havalimanı lounge
+• Kapsamlı seyahat sigortası
+• Özel etkinlik davetleri
+
+**BLACK KART:**
+• Hoş geldin puanı: 2.500 TL
+• İlk 12 ay faizsiz nakit avans
+• Özel butik hizmetleri
+• Sınırsız lounge erişimi
+• VIP seyahat asistanı
+• Özel sağlık sigortası
+
+📱 **DİJİTAL KART ÖZELLİKLERİ:**
+• Anında sanal kart oluşturma
+• Tek kullanımlık kart numarası
+• Limit kontrolü
+• Anında bloke/dondurma
+• Harcama bildirimleri
+• Puan takibi
+
+📌 **SEÇİM REHBERİ:**
+• **Classic:** Öğrenciler, yeni mezunlar, düşük limit ihtiyacı
+• **Gold:** Memurlar, maaşlı çalışanlar, orta seviye harcama
+• **Platinum:** Yöneticiler, sık seyahat edenler, yüksek gelirliler
+• **Black:** VIP müşteriler, özel hizmet bekleyenler
+----------------------------------------
+
+
+============================================================
+KATEGORİ: KART_FAIZ
+============================================================
+
+[BÖLÜM 1]
+📊 **KREDİ KARTI FAİZ ORANLARI VE HESAPLAMA (2026)**
+
+📈 **GÜNCEL FAİZ ORANLARI:**
+
+| Faiz Türü | Aylık Oran | Yıllık Oran | BSMV | KKDF |
+|-----------|------------|-------------|------|------|
+| Akdi Faiz (Alışveriş) | %3,25 | %46,80 | %5 | - |
+| Akdi Faiz (Nakit Avans) | %3,50 | %51,10 | %5 | %15 |
+| Gecikme Faizi | %4,50 | %69,70 | %5 | %15 |
+| Temerrüt Faizi | %5,00 | %79,60 | %5 | %15 |
+
+🧮 **FAİZ HESAPLAMA ÖRNEKLERİ:**
+
+**ÖRNEK 1 - Dönem borcunun tamamı ödenmezse:**
+• Borç tutarı: 1.000 TL
+• Akdi faiz: %3,25
+• Hesaplama: 1.000 x 0,0325 = 32,50 TL faiz
+• BSMV: 32,50 x 0,05 = 1,62 TL
+• **Toplam: 34,12 TL** (asgari ödeme yapılmışsa)
+
+**ÖRNEK 2 - Asgari tutar ödenmezse (gecikme):**
+• Borç tutarı: 1.000 TL
+• Gecikme faizi: %4,50
+• Hesaplama: 1.000 x 0,045 = 45 TL faiz
+• BSMV: 45 x 0,05 = 2,25 TL
+• KKDF: 45 x 0,15 = 6,75 TL
+• **Toplam: 54 TL**
+
+**ÖRNEK 3 - 3 ay gecikme durumu:**
+• 1. ay: 1.000 TL + 54 TL = 1.054 TL
+• 2. ay: 1.054 x 1,045 = 1.101 TL + vergiler
+• 3. ay: 1.101 x 1,045 = 1.150 TL + vergiler
+• **3 ay sonra toplam borç: ~1.250 TL**
+
+📉 **ASGARİ ÖDEME TUTARLARI:**
+| Kart Tipi | Asgari Ödeme Oranı | 1.000 TL için Asgari |
+|-----------|-------------------|---------------------|
+| Classic Kart | %20 | 200 TL |
+| Gold Kart | %25 | 250 TL |
+| Platinum Kart | %30 | 300 TL |
+| Black Kart | %35 | 350 TL |
+| Nakit Avans | %30 | 300 TL |
+
+⚠️ **ÖDEME GECİKİRSE NE OLUR?**
+
+**Gecikme Takvimi:**
+• **1-7 gün:** Hatırlatma SMS'i (ücretsiz)
+• **8-15 gün:** İkinci hatırlatma SMS'i (2 TL)
+• **16-30 gün:** Telefonla arama (müşteri hizmetleri)
+• **31-45 gün:** Asgari tutarın %5'i kadar gecikme faizi
+• **46-60 gün:** Kart blokesi (sadece nakit avans kısıtlanır)
+• **61-75 gün:** Tam bloke (hiçbir işlem yapılamaz)
+• **76-90 gün:** Limit düşürme
+• **90+ gün:** Yasal takip başlatma
+
+**Kredi Notu Etkisi:**
+• 30 gün gecikme: -50 puan
+• 60 gün gecikme: -100 puan
+• 90 gün gecikme: -200 puan
+• Yasal takip: -300 puan
+----------------------------------------
+
+[BÖLÜM 2]
+💰 **NAKİT AVANS FAİZİ VE MALİYET HESAPLAMA**
+
+**NAKİT AVANS NEDİR?**
+Kredi kartınızla ATM'den veya bankadan nakit para çekme işlemidir. Alışverişten farklı olarak ödemesiz dönem yoktur, faiz hemen işlemeye başlar.
+
+📊 **NAKİT AVANS ORANLARI:**
+| Kalem | Oran/Ücret |
+|-------|------------|
+| İşlem Ücreti | Çekilen tutarın %5'i |
+| Minimum İşlem Ücreti | 15 TL |
+| Maksimum İşlem Ücreti | 250 TL |
+| Akdi Faiz (Aylık) | %3,50 |
+| BSMV | %5 (faiz üzerinden) |
+| KKDF | %15 (faiz üzerinden) |
+
+📅 **NAKİT AVANS HESAPLAMA ÖRNEĞİ:**
+
+**1.000 TL nakit avans çekerseniz:**
+
+| Gün | Anapara | İşlem Ücreti | Faiz | Vergiler | Toplam Borç |
+|-----|---------|--------------|------|----------|-------------|
+| 1. gün | 1.000 TL | 50 TL | - | - | 1.050 TL |
+| 15. gün | 1.000 TL | 50 TL | 17,50 TL | 3,50 TL | 1.071 TL |
+| 30. gün | 1.000 TL | 50 TL | 35 TL | 7 TL | 1.092 TL |
+| 45. gün | 1.000 TL | 50 TL | 52,50 TL | 10,50 TL | 1.113 TL |
+| 60. gün | 1.000 TL | 50 TL | 70 TL | 14 TL | 1.134 TL |
+
+**Detaylı 30 gün hesabı:**
+• İşlem ücreti: 1.000 x 0,05 = 50 TL
+• Faiz: 1.000 x 0,035 = 35 TL
+• BSMV: 35 x 0,05 = 1,75 TL
+• KKDF: 35 x 0,15 = 5,25 TL
+• **TOPLAM BORÇ: 1.000 + 50 + 35 + 1,75 + 5,25 = 1.092 TL**
+
+⚖️ **NAKİT AVANS vs İHTİYAÇ KREDİSİ KARŞILAŞTIRMASI:**
+
+| Kriter | Nakit Avans | İhtiyaç Kredisi |
+|--------|-------------|-----------------|
+| **1.000 TL 30 gün** | 1.092 TL | 1.025 TL |
+| **5.000 TL 3 ay** | 5.650 TL | 5.200 TL |
+| **10.000 TL 6 ay** | 12.400 TL | 11.200 TL |
+| **Başvuru Süresi** | Anında | 1-2 saat |
+| **Gerekli Belge** | Yok | Gelir belgesi |
+
+📌 **NAKİT AVANS ÖZELLİKLERİ:**
+• **Limit:** Kart limitinin %50'sine kadar
+• **Vade:** 3 aya kadar otomatik taksitlendirme
+• **Ödeme:** Hesap kesim tarihinde tek çekim
+• **Asgari ödeme oranı:** %30
+• **Faiz başlangıcı:** Çektiğiniz gün
+
+💡 **DAHA AVANTAJLI ALTERNATİFLER:**
+1. **İhtiyaç kredisi:** 1.000 TL üzeri için daha uygun
+2. **Kredi kartı alışverişi:** 45 gün faizsiz dönem
+3. **Maaş müşterisi avansı:** %3 faiz, %2 ücret
+4. **Birikim hesabı:** Kendi paranızı kullanma
+5. **Kredi kartı puanları:** Puanla nakit avans (avantajlı)
+----------------------------------------
+
+
+============================================================
+KATEGORİ: HAVALE_IBAN
+============================================================
+
+[BÖLÜM 1]
+💸 **HAVALE/EFT İŞLEM REHBERİ**
+
+**HAVALE ve EFT ARASINDAKİ FARK:**
+
+| Özellik | HAVALE | EFT | FAST |
+|---------|--------|-----|------|
+| **Tanım** | Aynı banka içi transfer | Farklı bankaya transfer | Anlık transfer |
+| **İşlem Süresi** | Anında | 1-3 saat | 10 saniye |
+| **Ücret** | Ücretsiz | Miktara göre | 2,25 TL |
+| **Limit** | Limitsiz | Limitsiz | 25.000 TL |
+| **İşlem Saati** | 7/24 | 08:30-17:00 | 7/24 |
+
+🏦 **BANKA BİLGİLERİMİZ:**
+| Bilgi | Değer |
+|-------|-------|
+| Banka Adı | Aether Bank |
+| Swift Kodu | AETHTRIS |
+| Banka Kodu | 1234 |
+| Vergi No | 1234567890 |
+| Mersis No | 0123456789012345 |
+
+📱 **IBAN ÖRNEKLERİ:**
+
+| Döviz Cinsi | IBAN (Örnek) |
+|-------------|--------------|
+| 🇹🇷 TL | TR12 0001 2003 4567 8900 1234 56 |
+| 🇺🇸 USD | TR12 0001 2003 4567 8900 1234 57 |
+| 🇪🇺 EUR | TR12 0001 2003 4567 8900 1234 58 |
+| 🇬🇧 GBP | TR12 0001 2003 4567 8900 1234 59 |
+| 🇨🇭 CHF | TR12 0001 2003 4567 8900 1234 60 |
+
+⏰ **İŞLEM SAATLERİ:**
+
+**EFT (Banka Transferi):**
+| Gün | Saat | Ücret | İşlem Süresi |
+|-----|------|-------|--------------|
+| Hafta içi | 08:30 - 17:00 | Tabloya göre | 1-3 saat |
+| Hafta içi | 17:00 - 08:30 | %50 indirimli | Sonraki iş günü |
+| Cumartesi | 09:00 - 12:00 | %50 indirimli | Pazartesi |
+| Pazar | - | İşlem yok | - |
+
+**FAST (Anlık Transfer):**
+• **7/24** (yılbaşı, resmi tatil dahil)
+• **Ücret:** 2,25 TL (17:00-08:30 arası 1,12 TL)
+• **Limit:** 25.000 TL/işlem
+• **Süre:** 10 saniye
+
+📊 **GÜNLÜK İŞLEM LİMİTLERİ:**
+
+| Müşteri Tipi | Standart Limit | Yüksek Limit | Özel Limit |
+|--------------|---------------|--------------|------------|
+| Bireysel | 50.000 TL | 100.000 TL | 150.000 TL |
+| Ticari | 250.000 TL | 500.000 TL | 750.000 TL |
+| Kurumsal | Limitsiz | Limitsiz | Limitsiz |
+| Genç (18-25) | 25.000 TL | 50.000 TL | - |
+
+📌 **ÖNEMLİ UYARILAR:**
+• IBAN'ınızı mobil uygulamadan 'Hesap Bilgileri' menüsünden görüntüleyin
+• Yanlış IBAN'a gönderilen iadeler 3-5 iş günü sürer
+• Döviz transferlerinde ek belgeler istenebilir (makbuz, fatura vb.)
+• 50.000 TL üzeri transferlerde kimlik doğrulama gerekir
+----------------------------------------
+
+[BÖLÜM 2]
+❓ **HAVALE/EFT - SIKÇA SORULAN SORULAR**
+
+**S: EFT ile FAST arasındaki fark nedir?**
+C: 
+• **EFT:** Mesai saatlerinde, 1-3 saatte hesaba geçer, miktara göre ücretli
+• **FAST:** 7/24 anında, 10 saniyede hesaba geçer, sabit 2,25 TL ücretli
+
+**S: Havale neden daha ucuz?**
+C: Aynı banka içinde yapılan transferlerde sistem kullanım ücreti alınmaz, sadece kendi iç ağı kullanılır. Bu nedenle banka içi havaleler ücretsizdir.
+
+**S: IBAN nedir, nerede yazar?**
+C: IBAN (International Bank Account Number), uluslararası banka hesap numarasıdır. 26 haneden oluşur ve TR ile başlar. IBAN'ınızı:
+• Mobil uygulamada "Hesap Bilgileri" menüsünde
+• İnternet şubesinde "Hesap Detayları"nda
+• Hesap cüzdanınızın ön yüzünde
+• Banka kartınızın üzerinde (bazı kartlarda)
+görebilirsiniz.
+
+**S: Yanlış IBAN'a para gönderirsem ne olur?**
+C: 
+| Durum | Sonuç | İade Süresi |
+|-------|-------|-------------|
+| Aynı bankada yanlış IBAN | İptal edilir | 1-2 saat |
+| Farklı bankada yanlış IBAN | İade talebi | 3-5 iş günü |
+| Var olmayan IBAN | Otomatik iade | 1-2 iş günü |
+| Aynı bankada doğru IBAN | Transfer gerçekleşir | Anında |
+
+**S: Acil durumda transferi iptal edebilir miyim?**
+C: 
+• **Havale (aynı banka):** Anında gerçekleştiği için iptal edilemez
+• **EFT (farklı banka):** 15 dakika içinde müşteri hizmetlerini arayarak iptal ettirebilirsiniz
+• **FAST:** 10 saniyede gerçekleştiği için iptal edilemez
+
+**S: Döviz transferinde vergi kesintisi olur mu?**
+C: 
+• Yurt içi döviz transferinde stopaj yok
+• Yurt dışı döviz transferinde %0,5 BSMV
+• Ticari amaçlı transferlerde belge ibrazı gerekir
+• 50.000 USD üzeri transferlerde Merkez Bankası bildirimi
+
+**S: Hafta sonu EFT neden pahalı?**
+C: Mesai dışı işlemlerde bankaların kullandığı sistemler ek ücret talep eder. Hafta sonu EFT yerine FAST kullanmanızı öneririz, daha ucuz ve anında.
+
+📞 **ACİL DURUM:**
+Yanlış transferde hemen 0850 123 45 67'yi arayın.
+Referans numaranızı hazır bulundurun.
+----------------------------------------
+
+[BÖLÜM 3]
+🌍 **ULUSLARARASI PARA TRANSFERİ REHBERİ**
+
+📋 **ULUSLARARASI TRANSFER TÜRLERİ:**
+
+| Transfer Türü | Bölge | Süre | Ücret | Limit |
+|--------------|-------|------|-------|-------|
+| Swift | Tüm dünya | 2-5 iş günü | 25 USD + %0,2 | Limitsiz |
+| SEPA | Avrupa | 1-2 iş günü | 5 EUR | 50.000 EUR |
+| Western Union | Tüm dünya | Anında | %5-10 | 7.500 USD |
+| MoneyGram | Tüm dünya | Anında | %4-8 | 5.000 USD |
+
+📝 **SWIFT TRANSFERİ İÇİN GEREKLİ BİLGİLER:**
+
+| Bilgi | Açıklama | Örnek |
+|-------|----------|-------|
+| Banka Adı | Alıcı banka | Deutsche Bank |
+| Swift Kodu | Banka kodu | DEUTDEFF |
+| IBAN | Alıcı IBAN'ı | DE89 3704 0044 0532 0130 00 |
+| Alıcı Adı | Tam ad | John Doe |
+| Alıcı Adresi | Adres | Berlin, Almanya |
+| Transfer Kodu | İşlem nedeni | Aile desteği |
+
+💰 **DÖVİZ KURU VE KOMİSYONLAR:**
+
+| Döviz Cinsi | Banka Kuru | Piyasa Kuru | Fark |
+|-------------|------------|-------------|------|
+| USD | 32,50 TL | 32,80 TL | %0,9 |
+| EUR | 35,20 TL | 35,50 TL | %0,85 |
+| GBP | 41,10 TL | 41,50 TL | %0,96 |
+| CHF | 36,80 TL | 37,10 TL | %0,81 |
+
+📊 **ÜCRET HESAPLAMA ÖRNEĞİ:**
+**1.000 USD göndermek istiyorsunuz:**
+• İşlem ücreti: 25 USD
+• Komisyon: 1.000 x 0,002 = 2 USD
+• Aracı banka ücreti: ~15 USD
+• Toplam ücret: ~42 USD
+• Alıcıya ulaşan: ~958 USD
+
+📌 **GEREKLİ BELGELER:**
+| Transfer Miktarı | Gerekli Belge |
+|-----------------|---------------|
+| 1.000 USD altı | Sadece kimlik |
+| 1.000 - 5.000 USD | Kimlik + Transfer kodu |
+| 5.000 - 25.000 USD | Kimlik + Fatura/ sözleşme |
+| 25.000 USD üzeri | Kimlik + Fatura + Vergi levhası |
+
+⚠️ **DİKKAT EDİLMESİ GEREKENLER:**
+• Swift kodunu doğru yazdığınızdan emin olun
+• IBAN'da boşluk kullanmayın
+• Transfer amacını doğru belirtin
+• Aracı banka ücretlerini sorgulayın
+• 1 iş günü önceden döviz alın (kur avantajı)
+
+📞 **YARDIM İÇİN:**
+• Uluslararası Transfer Masası: 0850 123 45 68
+• E-posta: swift@aetherbank.com.tr
+• Swift sorgulama: www.aetherbank.com.tr/swift
+----------------------------------------
+
+
+============================================================
+KATEGORİ: SIFRE_UNUTTUM
+============================================================
+
+[BÖLÜM 1]
+🔐 **İNTERNET BANKACILIĞI ŞİFRE YENİLEME**
+
+📱 **MOBİL UYGULAMADAN ŞİFRE YENİLEME:**
+
+**Adım 1:** Aether Bank mobil uygulamasını açın
+**Adım 2:** Giriş ekranında "Şifremi Unuttum" linkine tıklayın
+**Adım 3:** T.C. kimlik numaranızı girin (11 hane)
+**Adım 4:** Cep telefonu numaranızı girin (kayıtlı numara)
+**Adım 5:** SMS ile gönderilen 6 haneli doğrulama kodunu girin
+**Adım 6:** Yeni şifrenizi belirleyin:
+   • En az 8 karakter
+   • En az 1 büyük harf (A-Z)
+   • En az 1 küçük harf (a-z)
+   • En az 1 rakam (0-9)
+   • En az 1 özel karakter (!@#$%^&*)
+**Adım 7:** Yeni şifrenizi tekrar girin (onay)
+**Adım 8:** "Şifreyi Kaydet" butonuna tıklayın
+**Adım 9:** İşlem tamamlandı bildirimini bekleyin
+
+💻 **İNTERNET ŞUBESİNDEN ŞİFRE YENİLEME:**
+
+**Adım 1:** www.aetherbank.com.tr adresine gidin
+**Adım 2:** Giriş ekranında "Şifremi Unuttum" linkine tıklayın
+**Adım 3:** T.C. kimlik numaranızı girin
+**Adım 4:** Kayıtlı e-posta adresinize gönderilen doğrulama linkine tıklayın
+**Adım 5:** Güvenlik sorularını yanıtlayın (önceden belirlediğiniz)
+**Adım 6:** Yeni şifre oluşturun (yukarıdaki kurallara uygun)
+**Adım 7:** Şifreyi onaylayın
+**Adım 8:** İşlem tamamlandığında bilgi SMS'i alırsınız
+
+📞 **MÜŞTERİ HİZMETLERİNDEN ŞİFRE YENİLEME:**
+
+**Adım 1:** 0850 123 45 67'yi arayın
+**Adım 2:** Sesli yanıt sisteminde 5'i tuşlayın (Şifre İşlemleri)
+**Adım 3:** Müşteri temsilcisine bağlanmak için 9'u tuşlayın
+**Adım 4:** Kimlik bilgilerinizi doğrulatın:
+   • T.C. kimlik numaranız
+   • Doğum tarihiniz
+   • Annenizin kızlık soyadı
+   • Kayıtlı telefon numaranız
+**Adım 5:** Geçici şifre talebinde bulunun
+**Adım 6:** SMS ile gönderilen geçici şifreyle giriş yapın
+**Adım 7:** İlk girişte şifrenizi değiştirin
+
+🏧 **ATM'DEN ŞİFRE YENİLEME (Kart PIN'i için):**
+
+**Adım 1:** Herhangi bir Aether Bank ATM'sine kartınızı takın
+**Adım 2:** "Şifre İşlemleri" menüsünü seçin
+**Adım 3:** "Şifre Değiştirme/Unuttum" seçeneğini tıklayın
+**Adım 4:** SMS ile gönderilen geçici şifreyi girin
+**Adım 5:** Yeni 4 haneli PIN kodunuzu belirleyin
+**Adım 6:** PIN kodunuzu tekrar girin (onay)
+**Adım 7:** İşlem tamamlandı yazısını bekleyin
+**Adım 8:** Kartınızı almayı unutmayın!
+
+📌 **ÖNEMLİ NOTLAR:**
+• Şifre yenileme işlemi için kayıtlı telefon numaranız aktif olmalıdır
+• Numara değişikliği için şubeye başvurun
+• Günde en fazla 3 kez şifre yenileme denemesi yapabilirsiniz
+• Geçici şifre 24 saat geçerlidir
+• İşlemler ücretsizdir
+----------------------------------------
+
+[BÖLÜM 2]
+🔑 **ŞİFRE GÜVENLİĞİ İPUÇLARI**
+
+✅ **GÜÇLÜ ŞİFRE NASIL OLUŞTURULUR?**
+
+**İYİ ŞİFRE ÖRNEKLERİ:**
+• Aether2026! (Büyük+küçük+rakam+özel karakter)
+• K@rt1mGüv3n (Kolay hatırlanabilir, güçlü)
+• 3v!m@51 (Anlamlı kelime + dönüşüm)
+• B@nk@2026! (Karma ama anlamlı)
+
+**KÖTÜ ŞİFRE ÖRNEKLERİ:**
+• 123456 (Çok basit)
+• azerbaycan (Sadece küçük harf)
+• 01.01.1990 (Doğum tarihi)
+• Ahmet (İsim)
+• qwerty (Klavye sırası)
+
+🛡️ **ŞİFRE GÜVENLİĞİ İÇİN ALTIN KURALLAR:**
+
+**YAPILMASI GEREKENLER:**
+✓ Şifrenizi kimseyle paylaşmayın
+✓ Düzenli aralıklarla değiştirin (3 ayda bir)
+✓ Her platform için farklı şifre kullanın
+✓ 2 faktörlü doğrulamayı aktifleştirin
+✓ Oturumu kapattığınızdan emin olun
+✓ Güvenilir cihazlardan giriş yapın
+
+**YAPILMAMASI GEREKENLER:**
+✗ Banka çalışanları asla şifre sormaz
+✗ Kağıda yazıp cüzdanda taşımayın
+✗ Başkalarının görebileceği yerlere yazmayın
+✗ Ortak bilgisayarlarda şifre kaydetmeyin
+✗ Tarayıcıya şifre hatırlatma eklemeyin
+✗ Doğum tarihi, telefon numarası kullanmayın
+
+📊 **2 FAKTÖRLÜ DOĞRULAMA (2FA):**
+
+| Yöntem | Açıklama | Güvenlik Seviyesi |
+|--------|----------|-------------------|
+| SMS Doğrulama | Her girişte SMS kodu | Orta |
+| E-posta Doğrulama | E-posta ile onay | Düşük |
+| Google Authenticator | 30 saniyede bir değişen kod | Yüksek |
+| Parmak İzi | Biyometrik doğrulama | Çok Yüksek |
+| Yüz Tanıma | Biyometrik doğrulama | Çok Yüksek |
+
+🚨 **TEHLİKE İŞARETLERİ:**
+
+**Hemen şifre değiştirin eğer:**
+• Tanımadığınız cihazdan giriş yapıldı uyarısı aldıysanız
+• Olmayan şifre değiştirme talepleri alıyorsanız
+• Şifre soran e-posta veya SMS'ler alıyorsanız (phishing)
+• Beklenmedik şifre yenileme kodları geliyorsa
+• Hesabınızda tanımadığınız işlemler varsa
+• Cihazınız kaybolduysa/çalındıysa
+
+📞 **ŞÜPHELİ DURUMDA:**
+• Hemen 0850 123 45 67'yi arayın (7/24)
+• Şifrenizi değiştirin
+• Son işlemleri kontrol edin
+• Güvenlik sorularınızı güncelleyin
+----------------------------------------
+
+[BÖLÜM 3]
+🔄 **KART ŞİFRESİ (PIN) YENİLEME VE KULLANIMI**
+
+**PIN KODU NEDİR?**
+PIN (Personal Identification Number), banka ve kredi kartlarınızda kullandığınız 4 haneli gizli şifredir. ATM'lerde para çekme, POS cihazlarında alışveriş yapma gibi işlemlerde kullanılır.
+
+🏧 **PIN YENİLEME YÖNTEMLERİ:**
+
+**1. ATM'DEN YENİLEME (En Kolay):**
+• Herhangi bir Aether Bank ATM'sine kartınızı takın
+• "Şifre İşlemleri" menüsünü seçin
+• "Şifre Değiştirme/Unuttum" seçeneğine tıklayın
+• Ekrandaki talimatları izleyin:
+  - SMS ile gönderilen geçici şifreyi girin
+  - Yeni 4 haneli PIN kodunuzu belirleyin
+  - PIN kodunuzu tekrar girin (onay)
+• İşlem tamamlandı yazısını bekleyin
+• Kartınızı alın
+
+**2. MOBİL UYGULAMADAN (Bazı kartlar için):**
+• Aether Bank mobil uygulamasını açın
+• "Kartlarım" menüsüne girin
+• İlgili kartın yanındaki "..." işaretine tıklayın
+• "PIN Yenile" seçeneğini seçin
+• SMS ile gönderilen doğrulama kodunu girin
+• Yeni PIN'inizi girin (4 hane)
+• PIN'inizi tekrar girin (onay)
+• Onay mesajını bekleyin
+
+**3. MÜŞTERİ HİZMETLERİNDEN:**
+• 0850 123 45 67'yi arayın
+• Sesli yanıt sisteminde 5'i tuşlayın
+• Müşteri temsilcisine bağlanın
+• Kimlik doğrulama yapın
+• Geçici PIN talebinde bulunun
+• SMS ile gelen geçici PIN ile işlem yapın
+• İlk ATM kullanımında PIN'inizi değiştirin
+
+⚠️ **PIN GÜVENLİĞİ KURALLARI:**
+
+**İYİ PIN ÖRNEKLERİ:**
+• Rastgele sayılar (örn: 7382)
+• Kolay hatırlanan ama tahmin edilemeyen (örn: ev numarası)
+• Harf karşılığı olan sayılar (örn: 2263 -> BANKA)
+
+**KÖTÜ PIN ÖRNEKLERİ:**
+• 1234, 0000, 1111 (ardışık/tekrar)
+• Doğum tarihi (örn: 1990 -> 1990)
+• Doğum yılı (90 değil 1990)
+• 2580 (klavye sırası)
+
+📌 **PIN KULLANIM KURALLARI:**
+
+| İşlem | Limit | Açıklama |
+|-------|-------|----------|
+| Yanlış PIN deneme | 3 hak | 3 yanlışta kart bloke |
+| PIN yenileme | Günde 3 kez | Fazlası için şube |
+| PIN değiştirme | İstediğiniz zaman | ATM'den ücretsiz |
+| PIN uzunluğu | 4 hane | Sadece rakam |
+
+🌐 **YURT DIŞINDA PIN KULLANIMI:**
+• Yurt dışı ATM'lerinden PIN yenileme yapılamaz
+• Sadece yurt içi ATM'lerimizde geçerlidir
+• Acil durumda müşteri hizmetlerini arayın
+• Geçici PIN ile işlem yapabilirsiniz
+
+📞 **ACİL DURUM:**
+• Kart bloke: 0850 123 45 67
+• PIN bloke: 0850 123 45 68
+• Kayıp/çalıntı: 0850 123 45 69
+----------------------------------------
+
+
+============================================================
+KATEGORİ: SUBE_ATM
+============================================================
+
+[BÖLÜM 1]
+📍 **ŞUBE VE ATM HİZMET NOKTALARI REHBERİ**
+
+📱 **EN YAKIN ŞUBE/ATM'Yİ BULMA YÖNTEMLERİ:**
+
+**1. MOBİL UYGULAMA (En Kolay):**
+• Aether Bank mobil uygulamasını açın
+• Ana sayfadaki "Şubeler/ATM" butonuna tıklayın
+• Konum izni verdiyseniz otomatik yakındakiler listelenir
+• Harita üzerinde tüm noktaları görebilirsiniz
+• Filtreleme seçenekleri:
+  - Sadece şubeler
+  - Sadece ATM'ler
+  - Para yatırma özelliği olan ATM'ler
+  - Engelli erişimi olan noktalar
+  - 7/24 açık olanlar
+• Detaylar:
+  - Çalışma saatleri
+  - Hizmet kalemleri
+  - Adres ve telefon
+  - Yol tarifi (Google Maps entegrasyonu)
+
+**2. İNTERNET ŞUBESİ:**
+• www.aetherbank.com.tr adresine giriş yapın
+• "İletişim" > "Şubelerimiz" menüsüne girin
+• İl/ilçe bazında arama yapabilirsiniz
+• Şube kodunu girerek detaylı bilgi alabilirsiniz
+• Harita entegrasyonu ile konum gösterilir
+
+**3. WEB SİTESİ:**
+• www.aetherbank.com.tr/subeler adresinden
+• İl seçin, ilçe seçin
+• Tüm şubeler listelenir
+• Hizmet kalemleri detaylandırılır
+
+**4. TELEFON:**
+• 0850 123 45 67'yi arayın
+• Sesli yanıt sisteminde 7'yi tuşlayın
+• Bulunduğunuz il ve ilçeyi belirtin
+• En yakın 5 şube SMS ile gönderilir
+
+⏰ **ŞUBE ÇALIŞMA SAATLERİ:**
+
+| Gün | Vezne | Diğer Hizmetler |
+|-----|-------|------------------|
+| Pazartesi | 09:00 - 17:00 | 09:00 - 18:00 |
+| Salı | 09:00 - 17:00 | 09:00 - 18:00 |
+| Çarşamba | 09:00 - 17:00 | 09:00 - 18:00 |
+| Perşembe | 09:00 - 17:00 | 09:00 - 18:00 |
+| Cuma | 09:00 - 17:00 | 09:00 - 18:00 |
+| Cumartesi | Kapalı | 10:00 - 14:00* |
+| Pazar | Kapalı | Kapalı |
+
+*Sadece bazı büyük şubelerde
+
+📌 **ÖZEL GÜNLER:**
+• Resmi tatiller: Tüm şubeler kapalı
+• Yılbaşı: 1 Ocak kapalı
+• Dini bayramlar: 3.5 gün kapalı
+• 1 Mayıs: Kapalı
+----------------------------------------
+
+[BÖLÜM 2]
+🏧 **ATM ÖZELLİKLERİ VE LİMİTLERİ**
+
+💰 **PARA ÇEKME İŞLEMLERİ:**
+
+| Özellik | Limit | Açıklama |
+|---------|-------|----------|
+| Günlük Limit | 7.500 TL | Tüm ATM'lerde geçerli |
+| İşlem Başına | 2.500 TL | Tek seferde çekilebilecek max |
+| Minimum Tutar | 20 TL | 20 TL'nin altı çekilemez |
+| Banknot Seçeneği | 20, 50, 100, 200 TL | Karışık veya tek tip |
+
+📥 **PARA YATIRMA İŞLEMLERİ:**
+
+| Özellik | Limit | Açıklama |
+|---------|-------|----------|
+| Zarfsız Yatırma | Tüm ATM'lerde | Zarf kullanmaya gerek yok |
+| Tek Seferde | 200 banknot | Her kupürden |
+| Banknot Durumu | Hasarsız, temiz | Yırtık, bantlı kabul edilmez |
+| Günlük Limit | 50.000 TL | Toplam yatırılabilecek |
+| Hesaba Geçme | Anında | Para sayımı biter bitmez |
+
+💳 **FATURA ÖDEME İŞLEMLERİ:**
+
+| Fatura Türü | İşlem Süresi | Limit |
+|-------------|--------------|-------|
+| Elektrik | Anında | 10.000 TL |
+| Su | Anında | 10.000 TL |
+| Doğalgaz | Anında | 10.000 TL |
+| Telefon | Anında | 5.000 TL |
+| Vergi | 1-2 saat | Limitsiz |
+| Trafik Cezası | Anında | 5.000 TL |
+| Kredi Kartı | Anında | 25.000 TL |
+| Kredi Taksiti | Anında | Limitsiz |
+
+🔐 **DİĞER ATM İŞLEMLERİ:**
+
+| İşlem | Açıklama | Ücret |
+|-------|----------|-------|
+| Şifre Değiştirme | PIN yenileme | Ücretsiz |
+| Bakiye Sorgulama | Son 10 işlem | Ücretsiz |
+| Ekstre Görüntüleme | Hesap özeti | 2 TL |
+| Kredi Başvurusu | Ön onaylı krediler | Ücretsiz |
+| Havale/EFT | Sınırlı işlem | Tabloya göre |
+| Kontör Yükleme | Telefon hattına | +%10 |
+
+🌍 **YURT DIŞI ATM KULLANIMI:**
+
+| Özellik | Limit/Ücret |
+|---------|-------------|
+| Günlük Limit | 5.000 TL |
+| İşlem Ücreti | 10 TL + %1 |
+| Döviz Kuru | Merkez Bankası + %1,2 |
+| Geçerli ATM'ler | Visa/MasterCard logolu tüm ATM'ler |
+
+📊 **ATM İŞLEM LİMİTLERİ (Günlük):**
+• Nakit çekme: 7.500 TL
+• Nakit yatırma: 50.000 TL
+• Havale/EFT: 25.000 TL
+• Fatura ödeme: 10.000 TL
+• Kredi kartı ödeme: 25.000 TL
+• Kredi ödeme: Limitsiz
+----------------------------------------
+
+[BÖLÜM 3]
+📋 **ÖZEL ATM HİZMETLERİ VE İPUÇLARI**
+
+♿ **ENGELLİ DOSTU ATM'LER:**
+
+| Özellik | Açıklama |
+|---------|----------|
+| Sesli Yönlendirme | Görme engelliler için kulaklık girişi |
+| Braille Alfabe | Kabartmalı tuş takımı |
+| Alçak Tasarım | Tekerlekli sandalye erişimi |
+| Ekran Kontrastı | Görme engelliler için yüksek kontrast |
+| İşaret Dili | Ekranda video destek |
+
+🚗 **SÜRÜCÜLER İÇİN ATM'LER:**
+• Araçtan inmeden kullanım (Drive-in ATM)
+• Bazı büyük şubelerde mevcut
+• 7/24 hizmet verir
+• Park sorunu yok
+
+💡 **ATM KULLANIM İPUÇLARI:**
+
+**ZAMANLAMA:**
+• En yoğun saatler: 12:00-14:00, 17:00-18:00
+• En sakin saatler: 09:00-10:00, 20:00-22:00
+• Hafta sonu: Cumartesi 10:00-14:00 yoğun
+• Maaş günleri: Ayın 1-5'i arası yoğun
+
+**GÜVENLİK:**
+• Şifrenizi girerken etrafı kapatın
+• Gece geç saatlerde tenha ATM'lerden kaçının
+• İşlem sonrası kartınızı almayı unutmayın
+• Şüpheli durumda hemen 155'i arayın
+• ATM'de kart sıkışırsa müşteri hizmetlerini arayın
+
+🚨 **ACİL DURUM NUMARALARI:**
+
+| Durum | Telefon | Açıklama |
+|-------|---------|----------|
+| Kart Sıkışması | 0850 123 45 67 | 7/24 yardım |
+| Kart Yutulması | 0850 123 45 68 | 7/24 yardım |
+| Hatalı Para Çekimi | 0850 123 45 69 | Hemen arayın |
+| Güvenlik Şüphesi | 155 | Polis |
+| ATM Arızası | 0850 123 45 70 | Teknik destek |
+
+📱 **ATM ÖZELLİKLERİ SORGULAMA:**
+Mobil uygulamada "ATM/Şube Bul" menüsünden:
+• Para yatırma özelliği var mı?
+• Engelli erişimi var mı?
+• 7/24 açık mı?
+• Hangi banknotları veriyor?
+• Yoğunluk durumu (yeşil/sarı/kırmızı)
+
+📌 **ÖNEMLİ NOTLAR:**
+• ATM'lerde para çekmek için minimum 20 TL bakiyeniz olmalı
+• 7.500 TL üzeri çekim için şubeye gitmelisiniz
+• Yurtdışı ATM'lerinden çekim yaparken kur farkını kontrol edin
+• ATM'den aldığınız parayı sayarak ayrılın
+----------------------------------------
+
+
+============================================================
+KATEGORİ: DOLANDIRICILIK
+============================================================
+
+[BÖLÜM 1]
+🚨 **DOLANDIRICILIK ŞÜPHESİ - ACİL EYLEM PLANI**
+
+📱 **HESABINIZDA ŞÜPHELİ İŞLEM FARK EDERSENİZ:**
+
+**1. KARTI HEMEN DONDRUN (EN ÖNEMLİ ADIM):**
+• Aether Bank mobil uygulamasını açın
+• "Kartlarım" menüsüne girin
+• İlgili kartın yanındaki "..." işaretine tıklayın
+• "Kartı Dondur" seçeneğini seçin
+• Kartınız anında geçici olarak bloke olur
+• Bu işlem 7/24 yapılabilir ve ücretsizdir
+
+**2. MÜŞTERİ HİZMETLERİNİ ARAYIN:**
+• Acil Dolandırıcılık Hattı: 0850 123 45 67 (7/24)
+• Sesli yanıt sisteminde 6'yı tuşlayın (Dolandırıcılık Şüphesi)
+• Müşteri temsilcisine şüpheli işlemleri bildirin
+• Size verilen referans numarasını not edin
+• Tüm işlemleri tek tek kontrol edin
+
+**3. RESMİ İHBARDA BULUNUN:**
+• En yakın polis merkezine gidin
+• Siber Suçlar birimine başvurun
+• Yanınızda bulundurun:
+  - Son 1 aylık hesap dökümü
+  - Şüpheli işlemlerin listesi
+  - Varsa şüpheli mesaj/e-posta ekran görüntüleri
+  - Kimlik fotokopisi
+• İfade tutanağının bir kopyasını alın
+
+**4. ŞİFRELERİ DEĞİŞTİRİN:**
+• İnternet bankacılığı şifrenizi hemen değiştirin
+• E-posta şifrenizi değiştirin
+• Diğer platformlarda aynı şifreyi kullanıyorsanız onları da değiştirin
+• 2 faktörlü doğrulamayı aktifleştirin
+
+**5. İTİRAZLI İŞLEMLERİ BİLDİRİN:**
+• Banka şubesinden "İtiraz Formu" doldurun
+• İşlem detaylarını yazın
+• Polis tutanağını ekleyin
+• 10 gün içinde inceleme başlatılır
+• Haksız işlemler 15 gün içinde iade edilir
+
+📞 **ACİL DURUM NUMARALARI:**
+• Dolandırıcılık Şüphesi: 0850 123 45 67 (dahili 6)
+• Kart Bloke: 0850 123 45 68
+• Polis/155: Acil durumlarda
+• Tüketici Hakem Heyeti: Şikayet için
+----------------------------------------
+
+[BÖLÜM 2]
+🔍 **DOLANDIRICILIK YÖNTEMLERİ VE KORUNMA**
+
+**1. PHISHING (OLTALAMA) - E-POSTA İLE DOLANDIRICILIK:**
+
+| Özellik | Sahte E-posta | Gerçek Banka E-postası |
+|---------|---------------|----------------------|
+| Gönderen | garantibank@hotmail.com | @aetherbank.com.tr |
+| Konu | "Acil! Şifreniz değişti" | "Hesap Bildirimi" |
+| Link | Şüpheli link | aetherbank.com.tr |
+| Dil | Yazım hataları var | Profesyonel Türkçe |
+
+**Nasıl Korunurum:**
+• Linke tıklamayın, bankanın sitesine direkt yazın
+• Kişisel bilgilerinizi asla paylaşmayın
+• Şüpheli mesajları bankaya iletin
+• Gönderen adresini kontrol edin
+
+**2. VISHING (SESLE OLTALAMA) - TELEFON DOLANDIRICILIĞI:**
+
+**Dolandırıcıların Sık Kullandığı Taktikler:**
+• "Güvenlik sorunu tespit ettik, şifrenizi söyleyin"
+• "Ödül kazandınız, bilgilerinizi verin"
+• "Hesabınıza virüs bulaştı, yardım edin"
+• "Polis adına arıyorum, bilgi verin"
+
+**Nasıl Korunurum:**
+• Banka asla telefonla şifre sormaz!
+• Şüpheli aramalarda bilgi vermeyin
+• Aramayı sonlandırıp bankayı arayın
+• Tanımadığınız numaralara itibar etmeyin
+
+**3. SKIMMING (KART KOPYALAMA):**
+
+| Tehdit | Belirti | Korunma |
+|--------|---------|---------|
+| ATM'ye düzenek | Şüpheli parça | ATM'yi kontrol edin |
+| POS kaydedici | Kart takılır | POS'u inceleyin |
+| El altı kayıt | Şüpheli kişi | Kartı gözden ayırmayın |
+
+**Nasıl Korunurum:**
+• ATM'de şüpheli parça kontrolü yapın
+• Kartınızı göz önünden ayırmayın
+• İşlem sonrası hesap hareketlerini kontrol edin
+• Temassız ödeme kullanın
+
+**4. SMISHING (SMS İLE OLTALAMA):**
+
+**Tehlikeli SMS Örnekleri:**
+• "Kargonuz teslim edilemedi, tıklayın"
+• "Faturanız ödenmedi, ödeme yapın"
+• "Banka güvenlik güncellemesi yapın"
+• "Kartınız bloke oldu, onaylayın"
+
+**Nasıl Korunurum:**
+• Linke tıklamayın
+• Resmi uygulamalardan kontrol edin
+• Şüpheli SMS'leri bankaya iletin
+• 444 numaralardan gelen SMS'lere dikkat
+
+**5. İNTERNET DOLANDIRICILIĞI:**
+
+| Dolandırıcılık Türü | Belirti | Korunma |
+|--------------------|---------|---------|
+| Sahte Alışveriş Sitesi | Çok ucuz | Güvenilir site kontrolü |
+| Kapora Dolandırıcılığı | Peşin ödeme | Güvenli ödeme |
+| İkinci El Dolandırıcılığı | Sahte ilan | Yüz yüze alışveriş |
+
+**Nasıl Korunurum:**
+• Güvenli sitelerden alışveriş yapın (https://)
+• 3D Secure ile ödeme yapın
+• Tanımadığınız sitelere kapora göndermeyin
+• Yorumları kontrol edin
+----------------------------------------
+
+[BÖLÜM 3]
+🛡️ **GÜVENLİ İNTERNET BANKACILIĞI İPUÇLARI**
+
+✅ **YAPILMASI GEREKENLER:**
+
+**1. ŞİFRE GÜVENLİĞİ:**
+✓ Güçlü şifre kullanın (8 karakter, büyük-küçük harf, rakam, özel karakter)
+✓ Şifrenizi kimseyle paylaşmayın
+✓ Düzenli aralıklarla şifre değiştirin (3 ayda bir)
+✓ Her platformda farklı şifre kullanın
+✓ Şifrenizi kağıda yazmayın
+
+**2. CİHAZ GÜVENLİĞİ:**
+✓ Güvenilir cihazlardan giriş yapın
+✓ Antivirüs programı kullanın
+✓ İşletim sistemi güncellemelerini yapın
+✓ Ortak bilgisayarlarda bankacılık işlemi yapmayın
+✓ Ekran kilidi kullanın
+
+**3. İŞLEM GÜVENLİĞİ:**
+✓ İşlem sonrası mutlaka çıkış yapın
+✓ 2 faktörlü doğrulamayı aktifleştirin
+✓ SMS onayı ile işlem yapın
+✓ Mobil uygulamada parmak izi/yüz tanıma kullanın
+✓ İşlem limitlerini kontrol edin
+
+**4. AĞ GÜVENLİĞİ:**
+✓ Güvenli Wi-Fi ağları kullanın
+✓ Açık Wi-Fi'lerde bankacılık yapmayın
+✓ VPN kullanın (gerekirse)
+✓ Halka açık bilgisayarlarda işlem yapmayın
+• Kafe, otel Wi-Fi'larından kaçının
+
+❌ **ASLA YAPILMAMASI GEREKENLER:**
+
+✗ E-posta'daki bağlantılara tıklamayın
+✗ Bilmediğiniz numaralardan gelen SMS'leri dikkate almayın
+✗ Kafe, otel gibi ortak ağlarda bankacılık işlemi yapmayın
+✗ Telefonda kimseye güvenlik kodlarını söylemeyin
+✗ Şifrenizi kağıda yazıp cüzdanda taşımayın
+✗ Başkasının telefonunda bankacılık uygulamasına giriş yapmayın
+✗ "Kurtarma" vaadiyle para göndermeyin
+✗ Tanımadığınız kişilerin ekran paylaşımı taleplerini kabul etmeyin
+
+📊 **GÜVENLİK KONTROL LİSTESİ:**
+
+| Kontrol | Sıklık | Nasıl Yapılır? |
+|--------|--------|----------------|
+| Hesap Hareketleri | Günlük | Mobil uygulamadan |
+| Şifre Değiştirme | 3 ayda bir | İnternet şubesinden |
+| Limit Kontrolü | Aylık | Ayarlar menüsünden |
+| Kayıtlı Cihazlar | Aylık | Güvenlik ayarlarından |
+| İletişim Bilgileri | 6 ayda bir | Profil bilgilerinden |
+
+🚨 **ŞÜPHELİ DURUMDA YAPILACAKLAR:**
+
+**Anında Yapılması Gerekenler:**
+1. Kartı dondur (mobil uygulama)
+2. Müşteri hizmetlerini ara (0850 123 45 67)
+3. Şifreleri değiştir
+4. Polise haber ver (155)
+
+**24 Saat İçinde Yapılması Gerekenler:**
+1. Şubeye git, itiraz formu doldur
+2. E-devlet'ten kredi raporunu kontrol et
+3. Diğer bankalara bilgi ver
+4. Tüketici Hakem Heyeti'ne başvur
+
+📞 **ACİL NUMARALAR:**
+• Dolandırıcılık Hattı: 0850 123 45 67
+• Kart Bloke: 0850 123 45 68
+• İnternet Şubesi Yardım: 0850 123 45 69
+• Polis: 155
+• Jandarma: 156
+----------------------------------------
+
+
+============================================================
+KATEGORİ: MUSTERI_HIZMETLERI
+============================================================
+
+[BÖLÜM 1]
+📞 **MÜŞTERİ HİZMETLERİ İLETİŞİM REHBERİ**
+
+📱 **TELEFON İLE İLETİŞİM:**
+
+**ÇAĞRI MERKEZİ NUMARALARI:**
+| Hizmet | Telefon | Çalışma Saatleri |
+|--------|---------|------------------|
+| Genel Müşteri Hizmetleri | 0850 123 45 67 | 7/24 |
+| Yurt Dışından Arama | +90 850 123 45 67 | 7/24 |
+| Engelli Müşteri Hattı | 0850 123 45 68 | 7/24 |
+| İngilizce Destek | 0850 123 45 69 | 09:00-21:00 |
+
+📞 **SESLİ YANIT SİSTEMİ MENÜSÜ:**
+
+| Tuş | Hizmet |
+|-----|--------|
+| 1 | Kredi Kartı İşlemleri |
+| 2 | Banka Kartı İşlemleri |
+| 3 | Kredi Başvuru ve Sorgulama |
+| 4 | Havale/EFT ve FAST İşlemleri |
+| 5 | Şifre İşlemleri |
+| 6 | Dolandırıcılık Şüphesi (Acil) |
+| 7 | Şube/ATM Bilgileri |
+| 8 | Kampanyalar |
+| 9 | Canlı Operatör |
+| 0 | Tekrar dinle |
+
+💬 **CANLI DESTEK KANALLARI:**
+
+| Platform | Nerede? | Çalışma Saatleri | Yanıt Süresi |
+|----------|---------|------------------|--------------|
+| Mobil Uygulama | Sağ alt köşe "Yardım" | 7/24 | 30 saniye |
+| İnternet Şubesi | Sağ altta "Yardım" | 09:00-24:00 | 45 saniye |
+| Web Sitesi | www.aetherbank.com.tr | 09:00-21:00 | 1 dakika |
+| WhatsApp | 0850 123 45 67 | 7/24 | 5 dakika |
+| Twitter (X) | @AetherBankDestek | 09:00-21:00 | 15 dakika |
+
+📧 **E-POSTA İLETİŞİMİ:**
+
+| Konu | E-posta Adresi | Yanıt Süresi |
+|------|-----------------|--------------|
+| Genel Bilgi | info@aetherbank.com.tr | 24 saat |
+| Şikayet ve Öneri | musteri.hizmetleri@aetherbank.com.tr | 48 saat |
+| Kredi Başvuruları | krediler@aetherbank.com.tr | 24 saat |
+| Kart İşlemleri | kartlar@aetherbank.com.tr | 24 saat |
+| Teknik Destek | teknik.destek@aetherbank.com.tr | 12 saat |
+
+📌 **E-POSTA YAZARKEN DİKKAT EDİLECEKLER:**
+• Ad-soyad ve müşteri numaranızı yazın
+• İşlem tarihlerini belirtin
+• Varsa referans numarasını ekleyin
+• Telefon numaranızı yazın
+• Açık ve anlaşılır dil kullanın
+----------------------------------------
+
+[BÖLÜM 2]
+⏱️ **MÜŞTERİ HİZMETLERİ HİZMET KALEMLERİ**
+
+✅ **7/24 ALINABİLEN HİZMETLER:**
+
+| Hizmet | Açıklama | İşlem Süresi |
+|--------|----------|--------------|
+| Kart Bloke/İptal | Kayıp/çalıntı bildirimi | Anında |
+| Şifre Yenileme | Geçici şifre verme | 5 dakika |
+| Dolandırıcılık Bildirimi | Şüpheli işlem bildirimi | 10 dakika |
+| Acil Nakit Avans | Onay ve yönlendirme | 15 dakika |
+| Kart Puan Sorgulama | Puan bakiyesi | 2 dakika |
+| Son İşlemler | Hesap hareketleri | 3 dakika |
+| Bakiye Sorgulama | Güncel bakiye | 1 dakika |
+| Kredi Başvuru Durumu | Başvuru takibi | 5 dakika |
+
+🕘 **MESAİ SAATLERİ İÇİNDE ALINABİLEN HİZMETLER (09:00-18:00):**
+
+| Hizmet | Açıklama | İşlem Süresi |
+|--------|----------|--------------|
+| Yeni Kart Başvurusu | Kredi/banka kartı | 15 dakika |
+| Kredi Başvurusu | İhtiyaç/konut/taşıt | 20 dakika |
+| Limit Artırma | Kart limiti artışı | 10 dakika |
+| Hesap Açma/Kapama | Vadesiz/vadeli | 15 dakika |
+| Yatırım İşlemleri | Fon, hisse senedi | 20 dakika |
+| Sigorta İşlemleri | DASK, kasko, hayat | 15 dakika |
+| Şikayet Kaydı | Müşteri şikayeti | 10 dakika |
+| Bilgi Güncelleme | Adres, telefon | 5 dakika |
+
+⏰ **ÇAĞRI MERKEZİ YOĞUNLUK DURUMU:**
+
+| Zaman Dilimi | Yoğunluk | Bekleme Süresi |
+|--------------|----------|----------------|
+| 08:00-09:00 | 🟢 Düşük | 30 saniye |
+| 09:00-11:00 | 🟡 Orta | 2-3 dakika |
+| 11:00-14:00 | 🔴 Yüksek | 5-7 dakika |
+| 14:00-16:00 | 🟡 Orta | 2-3 dakika |
+| 16:00-18:00 | 🔴 Yüksek | 5-7 dakika |
+| 18:00-20:00 | 🟢 Düşük | 1 dakika |
+| 20:00-08:00 | 🟢 Düşük | 30 saniye |
+
+📊 **MÜŞTERİ MEMNUNİYETİ İSTATİSTİKLERİ:**
+
+| Metrik | Değer |
+|--------|-------|
+| Ortalama Memnuniyet | 4,7/5 |
+| İlk Aramada Çözüm | %95 |
+| Ortalama Çağrı Süresi | 4 dakika |
+| Şikayet Çözüm Süresi | 48 saat |
+| Canlı Destek Memnuniyeti | 4,8/5 |
+
+📞 **BEKLEMEDEN ARANMA HİZMETİ:**
+
+| Özellik | Detay |
+|---------|-------|
+| Nasıl Çalışır? | Yoğunlukta telefon numaranızı bırakın |
+| Dönüş Süresi | 30 dakika içinde |
+| Çalışma Saatleri | 7/24 |
+| Kaçırılan Arama | 3 kez aranırsınız |
+| SMS Bilgilendirme | Aranacağınız zaman SMS gelir |
+
+📌 **HİZMET KALİTE SÖZÜ:**
+• Tüm çağrılar kayıt altına alınır
+• Kişisel bilgiler gizli tutulur
+• Şikayetler 48 saat içinde çözülür
+• Memnuniyet anketi yapılır
+• Sürekli iyileştirme uygulanır
+----------------------------------------
+
+[BÖLÜM 3]
+🏢 **ŞUBE HİZMETLERİ VE RANDEVU SİSTEMİ**
+
+📍 **ŞUBEDEN ALINABİLECEK HİZMETLER:**
+
+| Hizmet Kategorisi | İşlemler |
+|-------------------|----------|
+| Kredi İşlemleri | • Konut kredisi başvurusu<br>• İhtiyaç kredisi (kefilli)<br>• Kredi yapılandırma<br>• İpotek tesis/fe kk |
+| Kart İşlemleri | • Ek kart başvurusu<br>• Limit artırma<br>• Kart iptali<br>• Yıllık ücret iadesi |
+| Hesap İşlemleri | • Ticari hesap açılışı<br>• Şirket hesabı<br>• Vekaletname işlemleri<br>• Miras işlemleri |
+| Yatırım İşlemleri | • Birebir danışmanlık<br>• Portföy yönetimi<br>• Vadeli hesap açılışı |
+| Diğer | • İmza sirküleri<br>• Noter işlemleri<br>• Yabancı para çekme |
+
+📅 **RANDEVU SİSTEMİ:**
+
+**1. MOBİL UYGULAMADAN RANDEVU:**
+• Aether Bank mobil uygulamasını açın
+• "Şubeler" menüsüne girin
+• "Randevu Al" butonuna tıklayın
+• Şube seçin (konuma göre öneri)
+• Hizmet türü seçin
+• Uygun gün/saat seçin
+• Onay SMS'i alın
+
+**2. İNTERNET ŞUBESİNDEN RANDEVU:**
+• www.aetherbank.com.tr adresine giriş yapın
+• "İletişim" > "Randevu Al" menüsüne girin
+• İşlem türünü seçin
+• Tarih ve saat belirleyin
+• Onay e-postası alın
+
+**3. TELEFONLA RANDEVU:**
+• 0850 123 45 67'yi arayın
+• Sesli yanıt sisteminde 7'yi tuşlayın
+• Müşteri temsilcisine bağlanın
+• Randevu talebinizi iletin
+• Onay mesajı alın
+
+⏱️ **RANDEVUSUZ HİZMET:**
+
+| İşlem Türü | Bekleme Süresi | Öneri |
+|------------|----------------|-------|
+| Para Çekme/Yatırma | 5-10 dakika | Her zaman |
+| Basit Sorgulamalar | 10-15 dakika | Yoğun saatlerden kaçının |
+| Kredi Ödemesi | 5-10 dakika | Maaş günlerinden kaçının |
+| Kart Başvurusu | 15-20 dakika | Randevu alın |
+
+📊 **ŞUBE YOĞUNLUK DURUMU:**
+
+| Gün | Saat | Yoğunluk |
+|-----|------|----------|
+| Pazartesi | 10:00-14:00 | 🔴 Yüksek |
+| Salı-Çarşamba | 10:00-12:00 | 🟡 Orta |
+| Perşembe-Cuma | 14:00-16:00 | 🔴 Yüksek |
+| Cumartesi | 10:00-12:00 | 🟡 Orta |
+
+📌 **RANDEVU AVANTAJLARI:**
+• Sıra beklemeden işlem yapılır
+• Öncelikli hizmet alırsınız
+• İşlem süreniz garantidir
+• Uzman danışman atanır
+• Hazırlıklı gelirsiniz
+
+🆔 **ŞUBEDE YANINIZDA BULUNMASI GEREKENLER:**
+• T.C. kimlik kartı veya ehliyet/pasaport
+• İşlemle ilgili belgeler (varsa)
+• Müşteri numaranız
+• Randevu onay kodunuz
+----------------------------------------
+
+
+============================================================
+KATEGORİ: IHTIYAC_KREDISI_BASVURU
+============================================================
+
+[BÖLÜM 1]
+🏦 **İHTİYAÇ KREDİSİ BAŞVURU REHBERİ**
+
+📋 **İHTİYAÇ KREDİSİ NEDİR?**
+İhtiyaç kredisi, bireysel ihtiyaçlarınızı karşılamak için kullanabileceğiniz, belirli bir vade ve faiz oranı ile geri ödemeli nakit kredidir. Konut veya taşıt gibi belirli bir amaca yönelik değildir.
+
+📊 **2026 GÜNCEL İHTİYAÇ KREDİSİ ORANLARI:**
+
+| Vade | Aylık Faiz | Yıllık Maliyet | Maksimum Tutar |
+|------|------------|-----------------|----------------|
+| 6 ay | %3,25 | %46,80 | 50.000 TL |
+| 12 ay | %3,50 | %51,10 | 75.000 TL |
+| 24 ay | %3,75 | %55,70 | 100.000 TL |
+| 36 ay | %4,10 | %62,40 | 150.000 TL |
+| 48 ay | %4,50 | %69,70 | 200.000 TL |
+
+🧮 **ÖRNEK HESAPLAMA:**
+**10.000 TL, 12 ay vade:**
+• Aylık taksit: 1.024 TL
+• Toplam geri ödeme: 12.288 TL
+• Toplam faiz: 2.288 TL
+• Aylık faiz oranı: %3,50
+
+**20.000 TL, 24 ay vade:**
+• Aylık taksit: 1.245 TL
+• Toplam geri ödeme: 29.880 TL
+• Toplam faiz: 9.880 TL
+• Aylık faiz oranı: %3,75
+
+📋 **GEREKLİ BELGELER:**
+
+| Belge Türü | Detay | Nereden Alınır? |
+|------------|-------|------------------|
+| Kimlik Belgesi | T.C. kimlik kartı veya ehliyet | - |
+| Gelir Belgesi | Son 3 ay maaş bordrosu | İşyeriniz/e-Devlet |
+| SGK Hizmet Dökümü | 4A/4B/4C hizmet dökümü | e-Devlet |
+| İkametgah Belgesi | Son 3 ay içinde alınmış | e-Devlet |
+| Kefil Belgesi (varsa) | Kefilin kimlik ve gelir belgesi | - |
+
+💻 **BAŞVURU YÖNTEMLERİ:**
+
+**1. MOBİL UYGULAMA (En Hızlı):**
+• Aether Bank mobil uygulamasını açın
+• "Krediler" > "İhtiyaç Kredisi" menüsüne girin
+• "Hemen Başvur" butonuna tıklayın
+• Kredi tutarı ve vadeyi seçin
+• Kişisel bilgilerinizi kontrol edin
+• Gelir bilgilerinizi girin
+• Sözleşmeyi okuyun ve onaylayın
+• 5-10 dakika içinde sonuç SMS'i alın
+
+**2. İNTERNET ŞUBESİ:**
+• www.aetherbank.com.tr adresine giriş yapın
+• "Kredi Başvurusu" menüsünü seçin
+• "İhtiyaç Kredisi" seçeneğini tıklayın
+• Formu doldurun
+• Belgeleri yükleyin
+• Başvuruyu gönderin
+• 24 saat içinde sonuçlanır
+
+**3. ŞUBEDEN:**
+• Mobil uygulamadan randevu alın
+• Yanınızda belgelerinizle şubeye gidin
+• Müşteri temsilcisi form doldurmanıza yardımcı olur
+• Belgelerinizi teslim edin
+• 24 saat içinde sonuçlanır
+
+✅ **BAŞVURU ŞARTLARI:**
+• 18-65 yaş arası
+• Düzenli gelir sahibi olmak
+• Kredi notu 1200 ve üzeri
+• Olumsuz kredi kaydı bulunmamak
+• Türkiye Cumhuriyeti vatandaşı veya ikamet izinli yabancı
+----------------------------------------
+
+[BÖLÜM 2]
+❓ **İHTİYAÇ KREDİSİ - SIKÇA SORULAN SORULAR**
+
+**S: İhtiyaç kredisi için gerekli belgeler nelerdir?**
+C: 
+• T.C. kimlik kartı
+• Son 3 ay maaş bordrosu
+• SGK hizmet dökümü (e-Devlet'ten alınabilir)
+• İkametgah belgesi (e-Devlet'ten alınabilir)
+• Kefil varsa kefilin belgeleri
+
+**S: Kredi notum düşük, ihtiyaç kredisi alabilir miyim?**
+C: Kredi notu aralığına göre seçenekler:
+• 900 altı: Başvuru yapamazsınız
+• 900-1200: Kefilli kredi (kefil şart)
+• 1200-1500: Standart kredi (düşük limit)
+• 1500-1800: Standart kredi (normal limit)
+• 1800 üstü: Düşük faizli kredi
+
+**S: Ne kadar kredi çekebilirim?**
+C: Kredi limitiniz şu faktörlere bağlıdır:
+• Aylık net geliriniz (gelirinizin 4 katına kadar)
+• Kredi notunuz
+• Mevcut borçlarınız (gelirin %50'sini geçmemeli)
+• Çalışma durumunuz
+• Yaşınız
+
+**S: İhtiyaç kredisi ne kadar sürede sonuçlanır?**
+C: 
+• Mobil uygulama: 5-10 dakika
+• İnternet şubesi: 24 saat
+• Şube başvurusu: 24-48 saat
+• Kefilli krediler: 2-3 iş günü
+
+**S: Kredim onaylandı, para ne zaman hesapta olur?**
+C: 
+• Mobil uygulama: Anında (onay SMS'inden hemen sonra)
+• İnternet şubesi: Onay sonrası 1 saat içinde
+• Şube başvurusu: Onay sonrası 2 saat içinde
+
+**S: Kredi taksitlerimi nasıl ödeyebilirim?**
+C: 
+• Otomatik ödeme talimatı (faizsiz)
+• Mobil uygulamadan (anında)
+• İnternet şubesinden
+• ATM'lerden
+• Şubelerden
+• FAST/EFT ile
+
+**S: Kredimi erken kapatabilir miyim?**
+C: Evet, erken kapama yapabilirsiniz:
+• Kalan anapara + kalan gün faizi ödenir
+• Erken kapama cezası yok
+• İşlem ücreti alınmaz
+• Mobil uygulamadan yapabilirsiniz
+
+**S: Kredi yapılandırma nasıl yapılır?**
+C: 
+• Müşteri hizmetlerini arayın (0850 123 45 67)
+• Şubeden randevu alın
+• Yeni vade ve faiz oranı belirlenir
+• Yapılandırma ücreti: 250 TL
+• 12 ayda bir yapılandırma yapılabilir
+----------------------------------------
+
+[BÖLÜM 3]
+📊 **İHTİYAÇ KREDİSİ HESAPLAMA TABLOLARI**
+
+**10.000 TL İÇİN ÖRNEK ÖDEME TABLOSU:**
+
+| Vade | Aylık Taksit | Toplam Geri Ödeme | Toplam Faiz |
+|------|--------------|-------------------|-------------|
+| 6 ay | 1.825 TL | 10.950 TL | 950 TL |
+| 12 ay | 1.024 TL | 12.288 TL | 2.288 TL |
+| 18 ay | 756 TL | 13.608 TL | 3.608 TL |
+| 24 ay | 622 TL | 14.928 TL | 4.928 TL |
+| 30 ay | 537 TL | 16.110 TL | 6.110 TL |
+| 36 ay | 481 TL | 17.316 TL | 7.316 TL |
+
+**20.000 TL İÇİN ÖRNEK ÖDEME TABLOSU:**
+
+| Vade | Aylık Taksit | Toplam Geri Ödeme | Toplam Faiz |
+|------|--------------|-------------------|-------------|
+| 6 ay | 3.650 TL | 21.900 TL | 1.900 TL |
+| 12 ay | 2.048 TL | 24.576 TL | 4.576 TL |
+| 18 ay | 1.512 TL | 27.216 TL | 7.216 TL |
+| 24 ay | 1.244 TL | 29.856 TL | 9.856 TL |
+| 30 ay | 1.074 TL | 32.220 TL | 12.220 TL |
+| 36 ay | 962 TL | 34.632 TL | 14.632 TL |
+
+**50.000 TL İÇİN ÖRNEK ÖDEME TABLOSU:**
+
+| Vade | Aylık Taksit | Toplam Geri Ödeme | Toplam Faiz |
+|------|--------------|-------------------|-------------|
+| 6 ay | 9.125 TL | 54.750 TL | 4.750 TL |
+| 12 ay | 5.120 TL | 61.440 TL | 11.440 TL |
+| 24 ay | 3.110 TL | 74.640 TL | 24.640 TL |
+| 36 ay | 2.405 TL | 86.580 TL | 36.580 TL |
+
+📌 **MASRAF VE ÜCRETLER:**
+
+| Masraf Türü | Tutar | Açıklama |
+|-------------|-------|----------|
+| Dosya Masrafı | 250 TL | Kredi başına tek sefer |
+| Ekspertiz Ücreti | - | İhtiyaç kredisinde yok |
+| Hayat Sigortası | İsteğe bağlı | Prim kredi tutarına göre |
+| Kredi Tahsis Ücreti | %0,5 | Min 100 TL, max 500 TL |
+| Erken Kapama Ücreti | Yok | Her zaman ücretsiz |
+
+⚠️ **ÖNEMLİ UYARILAR:**
+• Kredi notunuzu kontrol edin (Findeks)
+• Gelirinizi abartmayın (gerçekçi olun)
+• Vadeyi iyi seçin (taksitlerinizi ödeyebileceğinizden emin olun)
+• Sözleşmeyi dikkatli okuyun
+• Tüm masrafları sorgulayın
+• Ödeme planınızı kontrol edin
+
+📞 **DESTEK İÇİN:**
+• Kredi Danışma Hattı: 0850 123 45 70
+• Başvuru Takibi: 0850 123 45 71
+• E-posta: krediler@aetherbank.com.tr
+----------------------------------------
+
+
+============================================================
+KATEGORİ: IHTIYAC_KREDISI_FAIZ
+============================================================
+
+[BÖLÜM 1]
+📈 **İHTİYAÇ KREDİSİ FAİZ ORANLARI - 2026 GÜNCEL**
+
+📊 **AYLIK FAİZ ORANLARI:**
+
+| Vade Aralığı | Aylık Faiz | Yıllık Maliyet Oranı | BSMV | KKDF |
+|--------------|------------|----------------------|------|------|
+| 0-6 ay | %3,25 | %46,80 | %5 | %15 |
+| 7-12 ay | %3,50 | %51,10 | %5 | %15 |
+| 13-18 ay | %3,60 | %53,20 | %5 | %15 |
+| 19-24 ay | %3,75 | %55,70 | %5 | %15 |
+| 25-30 ay | %3,90 | %58,50 | %5 | %15 |
+| 31-36 ay | %4,10 | %62,40 | %5 | %15 |
+| 37-48 ay | %4,50 | %69,70 | %5 | %15 |
+
+📉 **KAMPANYALI FAİZ ORANLARI:**
+
+| Kampanya | Vade | Aylık Faiz | Açıklama |
+|----------|------|------------|----------|
+| Maaş Müşterisi | 12 ay | %2,90 | Maaş bankamızdan alanlara |
+| Emekli | 12 ay | %3,00 | Emekli maaşı müşterilerine |
+| Online Başvuru | 6 ay | %3,10 | Mobil/İnternet başvurusuna |
+| Yeniden Yapılandırma | - | %3,25 | Mevcut krediler için |
+
+🧮 **FAİZ HESAPLAMA FORMÜLÜ:**
+
+**Aylık Taksit = [Kredi Tutarı x (Aylık Faiz / 100) x (1 + Aylık Faiz / 100)^Vade] / [(1 + Aylık Faiz / 100)^Vade - 1]**
+
+**Basit Hesaplama Örnekleri:**
+
+**ÖRNEK 1 - 10.000 TL 12 ay:**
+• Faiz tutarı: 10.000 x (3,50/100) x 12 = 4.200 TL
+• BSMV: 4.200 x 0,05 = 210 TL
+• KKDF: 4.200 x 0,15 = 630 TL
+• Toplam faiz: 4.200 + 210 + 630 = 5.040 TL? YANLIŞ!
+
+**DOĞRU HESAPLAMA (Kalan Anapara Yöntemi):**
+| Ay | Kalan Anapara | Faiz (3,50%) | Anapara | Taksit |
+|----|---------------|--------------|---------|--------|
+| 1 | 10.000 TL | 350 TL | 674 TL | 1.024 TL |
+| 2 | 9.326 TL | 326 TL | 698 TL | 1.024 TL |
+| 3 | 8.628 TL | 302 TL | 722 TL | 1.024 TL |
+| ... | ... | ... | ... | ... |
+| 12 | 989 TL | 35 TL | 989 TL | 1.024 TL |
+| **Toplam** | | **2.288 TL** | **10.000 TL** | **12.288 TL** |
+
+📊 **FAİZ KARŞILAŞTIRMA TABLOSU:**
+
+| Kredi Tutarı | Vade | Faiz Oranı | Aylık Taksit | Toplam Geri Ödeme | Toplam Faiz |
+|--------------|------|------------|--------------|-------------------|-------------|
+| 10.000 TL | 12 ay | %3,50 | 1.024 TL | 12.288 TL | 2.288 TL |
+| 10.000 TL | 12 ay | %3,25 | 1.009 TL | 12.108 TL | 2.108 TL |
+| 10.000 TL | 12 ay | %3,00 | 992 TL | 11.904 TL | 1.904 TL |
+| 10.000 TL | 12 ay | %2,90 | 985 TL | 11.820 TL | 1.820 TL |
+
+⚖️ **FAİZ ORANINI ETKİLEYEN FAKTÖRLER:**
+
+| Faktör | Etkisi | Açıklama |
+|--------|--------|----------|
+| Kredi Notu | Yüksek not = Düşük faiz | 1800+ puan %0,5 indirim |
+| Gelir Düzeyi | Yüksek gelir = Düşük faiz | 10.000 TL+ gelir %0,25 indirim |
+| Maaş Müşterisi | %0,60 indirim | Maaş bankamızdan alınıyorsa |
+| Vade | Uzun vade = Yüksek faiz | 24 ay+ %0,25-0,50 fazla |
+| Kredi Tutarı | Yüksek tutar = Pazarlık | 50.000 TL+ özel oran |
+----------------------------------------
+
+[BÖLÜM 2]
+💡 **FAİZ HESAPLAMA DETAYLARI VE İPUÇLARI**
+
+📊 **VADE VE FAİZ İLİŞKİSİ:**
+
+| Vade | Aylık Faiz | Aylık Taksit (10.000 TL) | Toplam Faiz | Öneri |
+|------|------------|-------------------------|-------------|-------|
+| 6 ay | %3,25 | 1.825 TL | 950 TL | Kısa vadeli borç için |
+| 12 ay | %3,50 | 1.024 TL | 2.288 TL | Dengeli seçenek |
+| 18 ay | %3,60 | 756 TL | 3.608 TL | Orta vadeli |
+| 24 ay | %3,75 | 622 TL | 4.928 TL | Düşük taksit |
+| 30 ay | %3,90 | 537 TL | 6.110 TL | Çok düşük taksit |
+| 36 ay | %4,10 | 481 TL | 7.316 TL | En düşük taksit |
+
+📝 **FAİZ HESAPLAMA İPUÇLARI:**
+
+**1. Kredi hesaplama araçlarını kullanın:**
+• Mobil uygulamada "Kredi Hesaplama" modülü
+• Web sitemizde online hesaplama aracı
+• Müşteri hizmetlerinden anlık hesaplama
+
+**2. Toplam maliyete bakın:**
+• Sadece aylık taksite değil, toplam geri ödemeye odaklanın
+• 12 ayda 12.288 TL vs 24 ayda 14.928 TL farkını değerlendirin
+• Uzun vade düşük taksit ama yüksek toplam faiz
+
+**3. Faiz oranı pazarlığı yapın:**
+• Maaş müşterisiyseniz belirtin
+• Yüksek kredi notunuz varsa söyleyin
+• Rakip banka tekliflerini bildirin
+• Sadık müşteri olduğunuzu hatırlatın
+
+📉 **FAİZ İNDİRİMİ FIRSATLARI:**
+
+| Durum | İndirim Oranı | Şart |
+|-------|--------------|------|
+| Maaş Müşterisi | %0,60 | Maaş bankamızdan |
+| Kredi Notu 1800+ | %0,50 | Findeks raporu |
+| Online Başvuru | %0,40 | Mobil/İnternet |
+| Otomatik Ödeme | %0,30 | Talimat verilirse |
+| Sadakat Müşterisi | %0,25 | 3+ yıl müşteri |
+| Toplu Ödeme | %0,20 | Peşinat varsa |
+
+⚠️ **FAİZ HESAPLAMADA DİKKAT EDİLECEKLER:**
+
+| Hata | Doğrusu | Etkisi |
+|------|---------|--------|
+| Basit faiz hesaplama | Bileşik faiz | %30-40 fark |
+| BSMV'yi unutmak | BSMV eklemek | %5 fark |
+| KKDF'yi unutmak | KKDF eklemek | %15 fark |
+| Dosya masrafını unutmak | Masrafı eklemek | 250 TL |
+| Sigortayı unutmak | Sigorta maliyeti | %1-2 |
+
+📱 **FAİZ HESAPLAMA ARAÇLARI:**
+
+| Araç | Nerede? | Özellik |
+|------|---------|---------|
+| Mobil Uygulama | Kredi > Hesaplama | Anında hesaplama |
+| Web Sitesi | www.aetherbank.com.tr | Detaylı tablo |
+| Çağrı Merkezi | 0850 123 45 67 | Anlık bilgi |
+| ATM | Kredi Hesaplama | 7/24 erişim |
+
+📌 **ÖNEMLİ NOTLAR:**
+• Faiz oranları piyasa koşullarına göre değişir
+• Kampanyalı oranlar sınırlı sürelidir
+• Tüm masraflar dahil toplam maliyet önemlidir
+• Erken ödemede faiz avantajı vardır
+• Yapılandırmada yeni faiz oranı uygulanır
+----------------------------------------
+
+
+============================================================
+KATEGORİ: KONUT_KREDISI_BASVURU
+============================================================
+
+[BÖLÜM 1]
+🏠 **KONUT KREDİSİ BAŞVURU REHBERİ**
+
+📋 **KONUT KREDİSİ NEDİR?**
+Konut kredisi (mortgage), ev satın almak, inşa etmek veya mevcut konut kredisini yeniden yapılandırmak için kullanılan, ipotek karşılığı verilen uzun vadeli bir kredi türüdür.
+
+📊 **2026 GÜNCEL KONUT KREDİSİ ORANLARI:**
+
+| Vade | Aylık Faiz | Yıllık Maliyet | Maksimum Tutar |
+|------|------------|-----------------|----------------|
+| 5 yıl (60 ay) | %2,89 | %40,80 | 1.000.000 TL |
+| 10 yıl (120 ay) | %2,99 | %42,60 | 2.000.000 TL |
+| 15 yıl (180 ay) | %3,15 | %45,20 | 3.000.000 TL |
+| 20 yıl (240 ay) | %3,40 | %49,70 | 5.000.000 TL |
+
+🧮 **ÖRNEK HESAPLAMA:**
+**500.000 TL, 10 yıl (120 ay) vade:**
+• Aylık taksit: 5.789 TL
+• Toplam geri ödeme: 694.680 TL
+• Toplam faiz: 194.680 TL
+• Aylık faiz oranı: %2,99
+
+**1.000.000 TL, 15 yıl (180 ay) vade:**
+• Aylık taksit: 8.450 TL
+• Toplam geri ödeme: 1.521.000 TL
+• Toplam faiz: 521.000 TL
+• Aylık faiz oranı: %3,15
+
+📋 **GEREKLİ BELGELER:**
+
+| Belge Türü | Detay | Nereden Alınır? |
+|------------|-------|------------------|
+| Kimlik Belgesi | T.C. kimlik kartı veya pasaport | - |
+| Tapu Fotokopisi | Satın alınacak evin tapusu | Satıcıdan |
+| Ekspertiz Raporu | Banka anlaşmalı kurumdan | Ekspertiz şirketi |
+| Gelir Belgeleri | Son 3 ay maaş bordrosu | İşyeriniz/e-Devlet |
+| İskan Belgesi | Yeni binalar için | Müteahhit/belediye |
+| Yangın Sigortası | Zorunlu | Sigorta şirketi |
+| DASK | Zorunlu deprem sigortası | Sigorta şirketi |
+
+📋 **KREDİLENDİRME ORANLARI:**
+
+| Konut Tipi | Kredi Oranı | Peşinat | Açıklama |
+|------------|-------------|---------|----------|
+| 0 km (Sıfır) Konut | %80 | %20 | En yüksek oran |
+| 2. El Konut | %75 | %25 | 10 yaş altı |
+| Lüks Konut | %70 | %30 | 1.000.000 TL+ |
+| İnşaat Halinde | %50 | %50 | Proje bazlı |
+| Ticari | %50 | %50 | İş yeri |
+
+✅ **BAŞVURU ŞARTLARI:**
+• 18-70 yaş arası
+• Düzenli gelir sahibi olmak
+• Kredi notu 1500 ve üzeri
+• Olumsuz kredi kaydı bulunmamak
+• Kefil (gerekirse)
+----------------------------------------
+
+[BÖLÜM 2]
+❓ **KONUT KREDİSİ - SIKÇA SORULAN SORULAR**
+
+**S: Konut kredisi başvurusu için gerekli belgeler nelerdir?**
+C: 
+• Kimlik belgesi (T.C. kimlik kartı, ehliyet veya pasaport)
+• Tapu fotokopisi (satış vaadi sözleşmesi)
+• Ekspertiz raporu (banka anlaşmalı kurumdan)
+• Son 3 ay maaş bordrosu (SGK hizmet dökümü)
+• İkametgah belgesi
+• İskan belgesi (yeni binalar için)
+• Yangın sigortası ve DASK poliçeleri
+
+**S: Ne kadar konut kredisi çekebilirim?**
+C: Kredi limitiniz şu faktörlere bağlıdır:
+• Aylık net geliriniz (gelirinizin 4 katına kadar)
+• Konutun değeri (ekspertiz raporu)
+• Kredi notunuz
+• Mevcut borçlarınız (gelirin %50'sini geçmemeli)
+• Yaşınız (vade sonunda 70 yaşı geçmemeli)
+
+**S: Konut kredisi kaç yıl vadeli çekilebilir?**
+C: 
+• Maksimum vade: 15 yıl (180 ay)
+• Gençlere özel: 20 yıla kadar (240 ay)
+• Minimum vade: 2 yıl (24 ay)
+• Vade seçimi gelir durumunuza göre değişir
+
+**S: Ekspertiz raporu nedir, ne kadar sürer?**
+C: Ekspertiz raporu, satın alınacak konutun değerini tespit eden resmi bir rapordur:
+• Süre: 3-5 iş günü
+• Ücret: 750-1.500 TL (konut değerine göre)
+• Rapor 6 ay geçerlidir
+• Banka anlaşmalı kurumlar tarafından yapılır
+
+**S: Konut kredisinde masraflar nelerdir?**
+C: 
+| Masraf Türü | Tutar |
+|-------------|-------|
+| Ekspertiz Ücreti | 750-1.500 TL |
+| Dosya Masrafı | 500 TL |
+| İpotek Tesis Ücreti | 250 TL |
+| DASK (Yıllık) | 200-400 TL |
+| Konut Sigortası | 200-400 TL |
+| Hayat Sigortası | Kredi tutarına göre |
+
+**S: Konut kredisi onay süreci ne kadar sürer?**
+C: 
+• Ön onay: 1-2 saat
+• Ekspertiz: 3-5 iş günü
+• Kredi komitesi: 1-2 iş günü
+• İpotek tesis: 1-2 iş günü
+• Toplam: 5-10 iş günü
+
+**S: Konut kredisini erken kapatabilir miyim?**
+C: Evet, erken kapama yapabilirsiniz:
+• Kalan anapara + kalan gün faizi ödenir
+• Erken kapama cezası yok (tüketici kredilerinde)
+• İpotek fekki için ayrıca başvuru gerekir
+• İpotek fekki ücreti: 150 TL
+----------------------------------------
+
+[BÖLÜM 3]
+🏦 **KONUT KREDİSİ HESAPLAMA TABLOLARI**
+
+**200.000 TL İÇİN ÖRNEK ÖDEME TABLOSU:**
+
+| Vade | Aylık Faiz | Aylık Taksit | Toplam Geri Ödeme | Toplam Faiz |
+|------|------------|--------------|-------------------|-------------|
+| 5 yıl | %2,89 | 3.835 TL | 230.100 TL | 30.100 TL |
+| 10 yıl | %2,99 | 2.316 TL | 277.920 TL | 77.920 TL |
+| 15 yıl | %3,15 | 1.690 TL | 304.200 TL | 104.200 TL |
+
+**500.000 TL İÇİN ÖRNEK ÖDEME TABLOSU:**
+
+| Vade | Aylık Faiz | Aylık Taksit | Toplam Geri Ödeme | Toplam Faiz |
+|------|------------|--------------|-------------------|-------------|
+| 5 yıl | %2,89 | 9.588 TL | 575.280 TL | 75.280 TL |
+| 10 yıl | %2,99 | 5.789 TL | 694.680 TL | 194.680 TL |
+| 15 yıl | %3,15 | 4.225 TL | 760.500 TL | 260.500 TL |
+
+**1.000.000 TL İÇİN ÖRNEK ÖDEME TABLOSU:**
+
+| Vade | Aylık Faiz | Aylık Taksit | Toplam Geri Ödeme | Toplam Faiz |
+|------|------------|--------------|-------------------|-------------|
+| 5 yıl | %2,89 | 19.175 TL | 1.150.500 TL | 150.500 TL |
+| 10 yıl | %2,99 | 11.578 TL | 1.389.360 TL | 389.360 TL |
+| 15 yıl | %3,15 | 8.450 TL | 1.521.000 TL | 521.000 TL |
+
+📊 **FAİZ ORANI - VADE İLİŞKİSİ:**
+
+| Vade | Aylık Faiz | Aylık Taksit (500 bin) | Toplam Faiz | Öneri |
+|------|------------|-----------------------|-------------|-------|
+| 5 yıl | %2,89 | 9.588 TL | 75.280 TL | Yüksek gelirliler |
+| 7 yıl | %2,94 | 7.642 TL | 128.880 TL | Orta-yüksek |
+| 10 yıl | %2,99 | 5.789 TL | 194.680 TL | Dengeli |
+| 12 yıl | %3,07 | 5.012 TL | 246.120 TL | Orta-düşük |
+| 15 yıl | %3,15 | 4.225 TL | 260.500 TL | Düşük taksit |
+
+📌 **ÖNEMLİ BİLGİLER:**
+
+| Konu | Açıklama |
+|------|----------|
+| Kredi Tahsis Ücreti | Kredi tutarının %1'i (max 500 TL) |
+| İpotek Tesis Ücreti | 250 TL (tapuda ödenir) |
+| Ekspertiz Ücreti | 750-1.500 TL (konuta göre) |
+| DASK | Zorunlu, yıllık 200-400 TL |
+| Konut Sigortası | Zorunlu, yıllık 200-400 TL |
+| Hayat Sigortası | İsteğe bağlı, aylık 20-50 TL |
+| Erken Kapama | Ceza yok, faiz iadesi var |
+
+📞 **DESTEK İÇİN:**
+• Konut Kredisi Danışma: 0850 123 45 72
+• Ekspertiz Sorgulama: 0850 123 45 73
+• E-posta: konutkredisi@aetherbank.com.tr
+----------------------------------------
+
+
+============================================================
+KATEGORİ: KONUT_KREDISI_FAIZ
+============================================================
+
+[BÖLÜM 1]
+📈 **KONUT KREDİSİ FAİZ ORANLARI - 2026 GÜNCEL**
+
+📊 **AYLIK FAİZ ORANLARI (TL):**
+
+| Vade Aralığı | Aylık Faiz | Yıllık Maliyet Oranı | BSMV | KKDF |
+|--------------|------------|----------------------|------|------|
+| 0-5 yıl | %2,89 | %40,80 | %5 | %15 |
+| 5-7 yıl | %2,94 | %41,70 | %5 | %15 |
+| 7-10 yıl | %2,99 | %42,60 | %5 | %15 |
+| 10-12 yıl | %3,07 | %43,90 | %5 | %15 |
+| 12-15 yıl | %3,15 | %45,20 | %5 | %15 |
+| 15-20 yıl* | %3,40 | %49,70 | %5 | %15 |
+
+*Gençlere özel (25-35 yaş arası)
+
+🌍 **DÖVİZ CİNSİNE GÖRE FAİZ ORANLARI:**
+
+| Döviz | Vade | Aylık Faiz | Açıklama |
+|-------|------|------------|----------|
+| USD | 5 yıl | %2,50 | Döviz geliri olanlara |
+| EUR | 5 yıl | %2,40 | Döviz geliri olanlara |
+| CHF | 5 yıl | %2,20 | Döviz geliri olanlara |
+| Dövize Endeksli | 10 yıl | %1,50 + TÜFE | Kur riski var |
+
+📉 **KAMPANYALI FAİZ ORANLARI:**
+
+| Kampanya | Vade | Aylık Faiz | Açıklama |
+|----------|------|------------|----------|
+| İlk Evim | 10 yıl | %2,75 | İlk kez ev alacaklara |
+| Gençlere Özel | 15 yıl | %2,95 | 25-35 yaş arası |
+| Emekli | 10 yıl | %2,85 | Emekli maaşı müşterilerine |
+| Online Başvuru | 5 yıl | %2,80 | Mobil/İnternet başvurusuna |
+| Yeşil Bina | 10 yıl | %2,90 | Enerji verimli binalara |
+
+🧮 **FAİZ HESAPLAMA ÖRNEKLERİ:**
+
+**ÖRNEK 1 - 500.000 TL, 10 yıl:**
+| Ay | Kalan Anapara | Faiz (2,99%) | Anapara | Taksit |
+|----|---------------|--------------|---------|--------|
+| 1 | 500.000 TL | 1.495 TL | 4.294 TL | 5.789 TL |
+| 2 | 495.706 TL | 1.482 TL | 4.307 TL | 5.789 TL |
+| 3 | 491.399 TL | 1.469 TL | 4.320 TL | 5.789 TL |
+| ... | ... | ... | ... | ... |
+| 120 | 5.756 TL | 17 TL | 5.772 TL | 5.789 TL |
+| **Toplam** | | **194.680 TL** | **500.000 TL** | **694.680 TL** |
+
+**ÖRNEK 2 - 500.000 TL, 15 yıl:**
+| Ay | Kalan Anapara | Faiz (3,15%) | Anapara | Taksit |
+|----|---------------|--------------|---------|--------|
+| 1 | 500.000 TL | 1.575 TL | 2.875 TL | 4.450 TL |
+| 2 | 497.125 TL | 1.566 TL | 2.884 TL | 4.450 TL |
+| 3 | 494.241 TL | 1.557 TL | 2.893 TL | 4.450 TL |
+| ... | ... | ... | ... | ... |
+| 180 | 4.390 TL | 14 TL | 4.436 TL | 4.450 TL |
+| **Toplam** | | **260.500 TL** | **500.000 TL** | **760.500 TL** |
+----------------------------------------
+
+[BÖLÜM 2]
+📊 **FAİZ KARŞILAŞTIRMA TABLOLARI**
+
+**FAİZ ORANLARI KARŞILAŞTIRMASI (500.000 TL için):**
+
+| Vade | Aylık Faiz | Aylık Taksit | Toplam Faiz | Avantaj |
+|------|------------|--------------|-------------|---------|
+| 5 yıl | %2,89 | 9.588 TL | 75.280 TL | En az faiz |
+| 7 yıl | %2,94 | 7.642 TL | 128.880 TL | Orta vadeli |
+| 10 yıl | %2,99 | 5.789 TL | 194.680 TL | Dengeli |
+| 12 yıl | %3,07 | 5.012 TL | 246.120 TL | Düşük taksit |
+| 15 yıl | %3,15 | 4.225 TL | 260.500 TL | En düşük taksit |
+
+**FAİZ ORANI - TAKSİT İLİŞKİSİ:**
+
+| Faiz Oranı | Aylık Taksit (500 bin 10 yıl) | Fark |
+|------------|------------------------------|------|
+| %2,50 | 5.285 TL | Baz |
+| %2,75 | 5.525 TL | +240 TL |
+| %2,99 | 5.789 TL | +504 TL |
+| %3,25 | 6.125 TL | +840 TL |
+| %3,50 | 6.450 TL | +1.165 TL |
+
+🏦 **BANKA KARŞILAŞTIRMASI:**
+
+| Banka | 10 Yıl Faiz | Aylık Taksit (500 bin) | Toplam Faiz |
+|-------|-------------|----------------------|-------------|
+| Aether Bank | %2,99 | 5.789 TL | 194.680 TL |
+| Rakip A | %3,10 | 5.950 TL | 214.000 TL |
+| Rakip B | %3,15 | 6.025 TL | 223.000 TL |
+| Rakip C | %3,05 | 5.890 TL | 206.800 TL |
+
+📉 **FAİZ İNDİRİMİ FIRSATLARI:**
+
+| Durum | İndirim Oranı | Şart |
+|-------|--------------|------|
+| Maaş Müşterisi | %0,40 | Maaş bankamızdan |
+| Kredi Notu 1800+ | %0,35 | Findeks raporu |
+| Online Başvuru | %0,25 | Mobil/İnternet |
+| Otomatik Ödeme | %0,20 | Talimat verilirse |
+| Yeşil Bina | %0,15 | Enerji sınıfı A |
+| 25-35 yaş | %0,10 | Genç girişim |
+
+⚠️ **FAİZ HESAPLAMADA DİKKAT EDİLECEKLER:**
+
+| Unutulan Kalem | Ek Maliyet | Açıklama |
+|----------------|------------|----------|
+| Ekspertiz Ücreti | 750-1.500 TL | Peşin ödenir |
+| Dosya Masrafı | 500 TL | Krediye eklenir |
+| İpotek Tesis | 250 TL | Tapuda ödenir |
+| DASK | 200-400 TL/yıl | Zorunlu |
+| Konut Sigortası | 200-400 TL/yıl | Zorunlu |
+| Hayat Sigortası | 2.000-5.000 TL | İsteğe bağlı |
+
+📱 **FAİZ HESAPLAMA ARAÇLARI:**
+• Mobil uygulama: "Konut Kredisi Hesaplama"
+• Web sitesi: www.aetherbank.com.tr/konut-kredisi
+• Çağrı merkezi: 0850 123 45 67
+• ATM: "Kredi Hesaplama" menüsü
+
+📌 **ÖNEMLİ NOTLAR:**
+• Faiz oranları Merkez Bankası politikalarına göre değişir
+• Kampanyalı oranlar sınırlı sürelidir
+• 0,10 puan faiz indirimi 10 yılda 10.000 TL+ fark eder
+• Tüm masraflar dahil toplam maliyeti hesaplayın
+• Sabit faizli krediler daha avantajlıdır
+----------------------------------------
+
+
+============================================================
+KATEGORİ: TASIT_KREDISI_BASVURU
+============================================================
+
+[BÖLÜM 1]
+🚗 **TAŞIT KREDİSİ BAŞVURU REHBERİ**
+
+📋 **TAŞIT KREDİSİ NEDİR?**
+Taşıt kredisi, araç satın almak için kullanılan, aracın rehni karşılığında verilen özel bir kredi türüdür. Araç tipine, yaşına ve özelliklerine göre farklı oranlar uygulanır.
+
+📊 **2026 GÜNCEL TAŞIT KREDİSİ ORANLARI:**
+
+| Araç Tipi | Vade | Aylık Faiz | Kredi Oranı | Maksimum Tutar |
+|-----------|------|------------|-------------|----------------|
+| 0 km | 12-36 ay | %3,40 | %70 | 500.000 TL |
+| 1-3 yaş | 12-30 ay | %3,65 | %50 | 400.000 TL |
+| 4-7 yaş | 12-24 ay | %3,90 | %30 | 300.000 TL |
+| 7+ yaş | Kredi yok | - | - | - |
+| Motosiklet | 12-24 ay | %3,80 | %50 | 50.000 TL |
+
+🧮 **ÖRNEK HESAPLAMA:**
+**200.000 TL, 0 km araç, 24 ay vade:**
+• Aylık taksit: 11.850 TL
+• Toplam geri ödeme: 284.400 TL
+• Toplam faiz: 84.400 TL
+• Aylık faiz oranı: %3,40
+
+**100.000 TL, 2. el (3 yaş), 12 ay vade:**
+• Aylık taksit: 10.065 TL
+• Toplam geri ödeme: 120.780 TL
+• Toplam faiz: 20.780 TL
+• Aylık faiz oranı: %3,65
+
+📋 **GEREKLİ BELGELER:**
+
+| Belge Türü | Detay | Nereden Alınır? |
+|------------|-------|------------------|
+| Kimlik Belgesi | T.C. kimlik kartı | - |
+| Araç Ruhsatı | Fotokopi | Satıcıdan |
+| Ekspertiz Raporu | Yetkili kurumdan | Ekspertiz şirketi |
+| Gelir Belgesi | Son 3 ay maaş bordrosu | İşyeriniz |
+| Trafik Sigortası | Zorunlu | Sigorta şirketi |
+| Kasko | Zorunlu | Sigorta şirketi |
+| Satış Sözleşmesi | Noter onaylı | Satıcı/noter |
+
+📋 **KREDİLENDİRME ORANLARI:**
+
+| Araç Yaşı | Kredi Oranı | Peşinat | Vade |
+|-----------|-------------|---------|------|
+| 0 km | %70 | %30 | 36 aya kadar |
+| 1 yaş | %60 | %40 | 30 aya kadar |
+| 2 yaş | %55 | %45 | 30 aya kadar |
+| 3 yaş | %50 | %50 | 24 aya kadar |
+| 4-5 yaş | %40 | %60 | 18 aya kadar |
+| 6-7 yaş | %30 | %70 | 12 aya kadar |
+| 7+ yaş | Kredi yok | %100 | - |
+
+✅ **BAŞVURU ŞARTLARI:**
+• 18-65 yaş arası
+• Düzenli gelir sahibi olmak
+• Kredi notu 1400 ve üzeri
+• Olumsuz kredi kaydı bulunmamak
+• Araç rehni kabul etmek
+----------------------------------------
+
+[BÖLÜM 2]
+❓ **TAŞIT KREDİSİ - SIKÇA SORULAN SORULAR**
+
+**S: Taşıt kredisi için gerekli belgeler nelerdir?**
+C: 
+• Kimlik belgesi (T.C. kimlik kartı veya ehliyet)
+• Araç ruhsat fotokopisi (satış vaadi sözleşmesi)
+• Ekspertiz raporu (yetkili kurumdan)
+• Son 3 ay maaş bordrosu (SGK hizmet dökümü)
+• Trafik sigortası poliçesi
+• Kasko poliçesi (zorunlu)
+• Satış sözleşmesi (noter onaylı)
+
+**S: Hangi araçlara kredi çıkar?**
+C: Kredi çıkan araçlar:
+• 0 km binek otomobiller
+• 0-7 yaş arası ikinci el araçlar
+• Motosikletler (0-5 yaş)
+• Hafif ticari araçlar (0-5 yaş)
+• Ticari araçlar (özel oranlarla)
+
+Kredi çıkmayan araçlar:
+• 7 yaş üzeri araçlar
+• Hasarlı/pert kayıtlı araçlar
+• Ticari taksiler
+• Yurt dışı kayıtlı araçlar
+
+**S: Ne kadar taşıt kredisi çekebilirim?**
+C: Kredi limitiniz şu faktörlere bağlıdır:
+• Araç değeri (ekspertiz raporu)
+• Araç yaşı (oran tablosuna göre)
+• Aylık geliriniz
+• Kredi notunuz
+• Peşinat oranınız
+
+**S: Taşıt kredisinde vade ne kadar?**
+C: 
+• 0 km araç: Maksimum 36 ay
+• 1-3 yaş araç: Maksimum 30 ay
+• 4-7 yaş araç: Maksimum 24 ay
+• Motosiklet: Maksimum 24 ay
+• Ticari araç: Maksimum 48 ay
+
+**S: Ekspertiz raporu nedir, ne kadar sürer?**
+C: Ekspertiz raporu, aracın gerçek değerini ve durumunu tespit eden rapordur:
+• Süre: 1-2 iş günü
+• Ücret: 300-500 TL
+• Rapor 3 ay geçerlidir
+• Yetkili ekspertiz kurumları tarafından yapılır
+
+**S: Taşıt kredisinde masraflar nelerdir?**
+C: 
+| Masraf Türü | Tutar |
+|-------------|-------|
+| Ekspertiz Ücreti | 300-500 TL |
+| Dosya Masrafı | 250 TL |
+| Araç Rehni Tesisi | 150 TL |
+| Kasko (Yıllık) | Araç değerinin %3-5'i |
+| Trafik Sigortası | 1.000-2.000 TL |
+| Hayat Sigortası | İsteğe bağlı |
+
+**S: Taşıt kredisi onay süreci ne kadar sürer?**
+C: 
+• Ön onay: 1 saat
+• Ekspertiz: 1-2 iş günü
+• Kredi onayı: 1-2 iş günü
+• Araç rehni: 1 iş günü
+• Toplam: 3-5 iş günü
+----------------------------------------
+
+[BÖLÜM 3]
+📊 **TAŞIT KREDİSİ HESAPLAMA TABLOLARI**
+
+**0 KM ARAÇ İÇİN ÖRNEK HESAPLAMALAR (Aylık %3,40 faiz):**
+
+| Araç Bedeli | Vade | Peşinat | Kredi Tutarı | Aylık Taksit | Toplam Faiz |
+|-------------|------|---------|--------------|--------------|-------------|
+| 200.000 TL | 12 ay | 60.000 TL | 140.000 TL | 13.650 TL | 23.800 TL |
+| 200.000 TL | 24 ay | 60.000 TL | 140.000 TL | 8.295 TL | 59.080 TL |
+| 200.000 TL | 36 ay | 60.000 TL | 140.000 TL | 6.615 TL | 98.140 TL |
+| 300.000 TL | 24 ay | 90.000 TL | 210.000 TL | 12.443 TL | 88.632 TL |
+| 400.000 TL | 24 ay | 120.000 TL | 280.000 TL | 16.590 TL | 118.160 TL |
+
+**2. EL ARAÇ İÇİN ÖRNEK HESAPLAMALAR (3 yaş, %3,65 faiz):**
+
+| Araç Bedeli | Vade | Peşinat | Kredi Tutarı | Aylık Taksit | Toplam Faiz |
+|-------------|------|---------|--------------|--------------|-------------|
+| 200.000 TL | 12 ay | 100.000 TL | 100.000 TL | 10.065 TL | 20.780 TL |
+| 200.000 TL | 18 ay | 100.000 TL | 100.000 TL | 7.125 TL | 28.250 TL |
+| 200.000 TL | 24 ay | 100.000 TL | 100.000 TL | 5.660 TL | 35.840 TL |
+| 300.000 TL | 12 ay | 150.000 TL | 150.000 TL | 15.098 TL | 31.176 TL |
+
+**MOTOSİKLET İÇİN ÖRNEK HESAPLAMALAR (0 km, %3,80 faiz):**
+
+| Araç Bedeli | Vade | Peşinat | Kredi Tutarı | Aylık Taksit | Toplam Faiz |
+|-------------|------|---------|--------------|--------------|-------------|
+| 50.000 TL | 12 ay | 25.000 TL | 25.000 TL | 2.580 TL | 5.960 TL |
+| 50.000 TL | 18 ay | 25.000 TL | 25.000 TL | 1.850 TL | 8.300 TL |
+| 50.000 TL | 24 ay | 25.000 TL | 25.000 TL | 1.490 TL | 10.760 TL |
+
+📌 **TAŞIT KREDİSİ MASRAFLARI:**
+
+| Masraf Türü | Tutar | Açıklama |
+|-------------|-------|----------|
+| Dosya Masrafı | 250 TL | Kredi başına tek sefer |
+| Ekspertiz | 300-500 TL | Araç değerine göre |
+| Araç Rehni | 150 TL | Noter/Plaka ofisi |
+| Kasko | %3-5 | Yıllık, zorunlu |
+| Trafik Sigortası | 1.000-2.000 TL | Yıllık, zorunlu |
+| Hayat Sigortası | İsteğe bağlı | Prim yaşa göre |
+
+⚠️ **ÖNEMLİ UYARILAR:**
+
+| Konu | Açıklama |
+|------|----------|
+| Araç Yaşı | 7 yaş üzeri araçlara kredi yok |
+| Ekspertiz | Yetkili kurumlardan yapılmalı |
+| Kasko | Kredi süresince devam etmeli |
+| Rehin | Araç satılana kadar devam eder |
+| Sigorta | Trafik sigortası zorunlu |
+| Vergi | MTV ödemeleri aksatılmamalı |
+
+📞 **DESTEK İÇİN:**
+• Taşıt Kredisi Danışma: 0850 123 45 74
+• Ekspertiz Sorgulama: 0850 123 45 75
+• E-posta: tasitkredisi@aetherbank.com.tr
+----------------------------------------
+
+
+============================================================
+KATEGORİ: TASIT_KREDISI_FAIZ
+============================================================
+
+[BÖLÜM 1]
+📈 **TAŞIT KREDİSİ FAİZ ORANLARI - 2026 GÜNCEL**
+
+📊 **ARAÇ YAŞINA VE TİPİNE GÖRE FAİZ ORANLARI:**
+
+| Araç Tipi | Vade | Aylık Faiz | Yıllık Maliyet | Açıklama |
+|-----------|------|------------|----------------|----------|
+| 0 km Binek | 12-36 ay | %3,40 | %49,70 | En düşük faiz |
+| 1-3 yaş | 12-30 ay | %3,65 | %54,20 | Orta faiz |
+| 4-7 yaş | 12-24 ay | %3,90 | %58,80 | Yüksek faiz |
+| 7+ yaş | - | - | - | Kredi yok |
+| Motosiklet | 12-24 ay | %3,80 | %56,90 | Özel oran |
+| Ticari Araç | 12-48 ay | %3,95 | %59,80 | Farklı oran |
+
+📉 **VADEYE GÖRE FAİZ ORANLARI (0 km araç için):**
+
+| Vade | Aylık Faiz | Aylık Taksit (100 bin) | Toplam Faiz |
+|------|------------|----------------------|-------------|
+| 12 ay | %3,40 | 9.750 TL | 17.000 TL |
+| 18 ay | %3,45 | 6.850 TL | 23.300 TL |
+| 24 ay | %3,50 | 5.375 TL | 29.000 TL |
+| 30 ay | %3,55 | 4.450 TL | 33.500 TL |
+| 36 ay | %3,60 | 3.825 TL | 37.700 TL |
+
+🏦 **KAMPANYALI FAİZ ORANLARI:**
+
+| Kampanya | Vade | Aylık Faiz | Şart |
+|----------|------|------------|------|
+| Yerli Araç | 24 ay | %3,25 | Yerli üretim araçlara |
+| Online Başvuru | 12 ay | %3,30 | Mobil/İnternet |
+| Maaş Müşterisi | 24 ay | %3,35 | Maaş bankamızdan |
+| Çevreci Araç | 36 ay | %3,20 | Hibrit/elektrikli |
+| Filo Kredisi | 48 ay | %3,75 | En az 5 araç |
+
+🧮 **FAİZ HESAPLAMA ÖRNEKLERİ:**
+
+**ÖRNEK 1 - 100.000 TL, 0 km araç, 24 ay vade (%3,50):**
+| Ay | Kalan Anapara | Faiz | Anapara | Taksit |
+|----|---------------|------|---------|--------|
+| 1 | 100.000 TL | 3.500 TL | 1.875 TL | 5.375 TL |
+| 2 | 98.125 TL | 3.434 TL | 1.941 TL | 5.375 TL |
+| 3 | 96.184 TL | 3.366 TL | 2.009 TL | 5.375 TL |
+| ... | ... | ... | ... | ... |
+| 24 | 5.290 TL | 185 TL | 5.190 TL | 5.375 TL |
+| **Toplam** | | **29.000 TL** | **100.000 TL** | **129.000 TL** |
+
+**ÖRNEK 2 - 100.000 TL, 2. el (3 yaş), 12 ay vade (%3,65):**
+| Ay | Kalan Anapara | Faiz | Anapara | Taksit |
+|----|---------------|------|---------|--------|
+| 1 | 100.000 TL | 3.650 TL | 4.350 TL | 8.000 TL |
+| 2 | 95.650 TL | 3.491 TL | 4.509 TL | 8.000 TL |
+| 3 | 91.141 TL | 3.327 TL | 4.673 TL | 8.000 TL |
+| ... | ... | ... | ... | ... |
+| 12 | 7.680 TL | 280 TL | 7.720 TL | 8.000 TL |
+| **Toplam** | | **20.780 TL** | **100.000 TL** | **120.780 TL** |
+----------------------------------------
+
+[BÖLÜM 2]
+📊 **FAİZ KARŞILAŞTIRMA TABLOLARI**
+
+**0 KM ARAÇ İÇİN FAİZ KARŞILAŞTIRMASI (100.000 TL, 24 ay):**
+
+| Banka | Aylık Faiz | Aylık Taksit | Toplam Faiz | Fark |
+|-------|------------|--------------|-------------|------|
+| Aether Bank | %3,50 | 5.375 TL | 29.000 TL | Baz |
+| Rakip A | %3,65 | 5.425 TL | 30.200 TL | +1.200 TL |
+| Rakip B | %3,70 | 5.450 TL | 30.800 TL | +1.800 TL |
+| Rakip C | %3,55 | 5.400 TL | 29.600 TL | +600 TL |
+
+**ARAÇ YAŞINA GÖRE FAİZ KARŞILAŞTIRMASI (100.000 TL):**
+
+| Araç Yaşı | Vade | Aylık Faiz | Aylık Taksit | Toplam Faiz |
+|-----------|------|------------|--------------|-------------|
+| 0 km | 24 ay | %3,50 | 5.375 TL | 29.000 TL |
+| 1 yaş | 24 ay | %3,55 | 5.400 TL | 29.600 TL |
+| 2 yaş | 24 ay | %3,60 | 5.425 TL | 30.200 TL |
+| 3 yaş | 18 ay | %3,65 | 6.850 TL | 23.300 TL |
+| 4 yaş | 12 ay | %3,75 | 9.875 TL | 18.500 TL |
+
+📉 **FAİZ İNDİRİMİ FIRSATLARI:**
+
+| Durum | İndirim Oranı | 100 bin TL 24 ay Etkisi |
+|-------|--------------|------------------------|
+| Maaş Müşterisi | %0,25 | Ayda 50 TL, toplam 1.200 TL |
+| Yerli Araç | %0,25 | Ayda 50 TL, toplam 1.200 TL |
+| Çevreci Araç | %0,30 | Ayda 60 TL, toplam 1.440 TL |
+| Online Başvuru | %0,20 | Ayda 40 TL, toplam 960 TL |
+| Yüksek Kredi Notu | %0,15 | Ayda 30 TL, toplam 720 TL |
+
+⚠️ **FAİZ HESAPLAMADA DİKKAT EDİLECEKLER:**
+
+| Unutulan Kalem | Ek Maliyet | Açıklama |
+|----------------|------------|----------|
+| Dosya Masrafı | 250 TL | Krediye eklenir |
+| Ekspertiz | 300-500 TL | Peşin ödenir |
+| Araç Rehni | 150 TL | Noterde ödenir |
+| Kasko | %3-5/yıl | Zorunlu, krediye eklenebilir |
+| Trafik Sigortası | 1.000-2.000 TL/yıl | Zorunlu |
+| BSMV + KKDF | %20 | Faize eklenir |
+
+📱 **FAİZ HESAPLAMA ARAÇLARI:**
+
+| Araç | Nerede? | Özellik |
+|------|---------|---------|
+| Mobil Uygulama | Kredi > Taşıt Kredisi | Anında hesaplama |
+| Web Sitesi | www.aetherbank.com.tr | Detaylı tablo |
+| Çağrı Merkezi | 0850 123 45 76 | Anlık bilgi |
+| Şube | Randevu ile | Birebir danışmanlık |
+
+📌 **ÖNEMLİ NOTLAR:**
+• Faiz oranları piyasa koşullarına göre değişir
+• Araç yaşı arttıkça faiz oranı yükselir
+• 7 yaş üzeri araçlara kredi verilmez
+• Kasko kredi süresince devam etmek zorundadır
+• Erken ödemede faiz iadesi yapılır
+• Vade uzadıkça toplam faiz artar
+----------------------------------------
+

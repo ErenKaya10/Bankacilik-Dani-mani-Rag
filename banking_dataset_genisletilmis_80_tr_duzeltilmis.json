@@ -1,0 +1,5122 @@
+[
+  {
+    "text": "Lütfen kartım konusunda bana yardım edin.  Etkinleştirilmeyecek.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yoruldum ama kartımı aktifleştiremiyorum.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı kullanmaya başlamak istiyorum.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartımı nasıl doğrularım?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Eklentimi etkinleştirmeyi denedim ama işe yaramadı",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı nasıl etkinleştiririm",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Birisi kartımı etkinleştirme konusunda bana yardımcı olabilir mi?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımın aktif hale getirilmesi gerekiyor.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktif hale getiremedim.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartım kullanıma hazır mı, etkinleştirilmesi gerekiyor mu, öyleyse nasıl?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartımı etkinleştirmeme yardım et.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartımı etkinleştirmek için fotoğraflı kimliğe ihtiyacım var mı?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı yeni aldım, nasıl aktif hale getirebilirim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktif hale getirebilir miyim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "kartı etkinleştiremiyorum",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı etkinleştirmeme izin vermiyor.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı etkinleştirmeyi denedim ama işe yaramadı",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı kullanmak istiyorum. Nasıl etkinleştiririm?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı etkinleştir",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartımı etkinleştirme konusunda yardım alabilir miyim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartım aktif mi?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktifleştirmek istiyorum.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktif hale getirmek için arayabilir miyim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartımı nasıl aktif hale getirebilirim? Bunun nasıl yapılacağına dair herhangi bir bilgi alamadım.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni aldığım kartımı nasıl aktif hale getirebilirim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "kartımı aktif hale getirebilecek misin?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktif hale getirmek için yardım alabilir miyim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartımı aktifleştirmek istiyorum.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartımı aktifleştirmek isteseydim ne yapardım?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartı aktive etmek ve kullanmak için ne yapılması gerekiyor?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktif hale getirebilir miyim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı etkinleştirmek için yardıma ihtiyacım var mı?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartımı etkinleştirme konusunda yardıma ihtiyacım var.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı nasıl aktif hale getirebilirim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktif hale getirmek için ne yapmam gerekiyor?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktif hale getirmek için ne gerekiyor?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartımı nasıl aktif hale getirebilirim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı etkinleştirebilir misiniz lütfen?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartımı nasıl etkinleştiririm?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Lütfen kartı etkinleştirmemde bana yardımcı olun.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktif hale getirme nezaketinde bulunur musunuz? Teşekkürler",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı etkinleştirmeyi denedim ama çalışmıyor bu sorunu nasıl çözebilirim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı uygulamayla etkinleştirebilir miyim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı kullanmaya başlamak istiyorum, nasıl aktif hale getirebilirim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartı etkinleştirme süreci nedir?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Merhaba kartımı aktive eder misiniz?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımın aktivasyonu için neye ihtiyacım var?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kullanmaya başlayabilmek için kartımı nasıl etkinleştiririm?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımın aktif hale getirilmesini istiyorum.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımın aktivasyonu konusunda yardımcı olmak istiyorum.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı yeni aldım ve aktif hale getirmek istiyorum.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı etkinleştirmemde bana yardımcı olabilir misiniz?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kullanmaya başlamak için kartımı nasıl etkinleştiririm?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartı etkinleştirme talimatları",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kart aktivasyonu için ne yapmam gerekiyor?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktifleştiremiyorum, izin vermiyor.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı ne zaman aktifleştireceksiniz?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktifleştirmem gerekiyor.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartımı nasıl aktif hale getirebilirim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Etkinleştirmek için ne yapmalıyım?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktif hale getirmek için hangi adımları uygulamam gerekiyor?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartım geldi, nasıl aktif hale getirebilirim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktivasyonda sorun yaşıyorum.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartım etkinleştirilemiyor, nasıl çalıştırabilirim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktifleştiremiyorum bu sorunu nasıl çözebilirim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktifleştiremiyorum.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni aldığım kartı nasıl aktif hale getirebilirim?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "kartımı aktive etmek için ne kadar beklemeliyim",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Bir kartı nasıl etkinleştiririm?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Bu kartı etkinleştirme prosedürü nedir?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımın en kısa sürede aktif hale getirilmesi gerekiyor",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartımı etkinleştirmenin en etkili yolu nedir?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kart aktivasyonunu tamamlayamadım.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni kartımı aktif hale getirmek için kimi aramalıyım?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Hesabınıza giderek, etkinleştir tuşuna basarak ve talimatları izleyerek kartınızı birkaç saniye içinde etkinleştirebilirsiniz.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktif hale getirmek için ne yapmam gerektiğini söyle.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Yeni bir kartı etkinleştirme süreci nedir?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kart aktivasyonum başarısız oluyor.",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktifleştirmem gerekiyor, bu nasıl yapılıyor?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Kartımı aktifleştirmek istiyorum ne yapmam gerekiyor?",
+    "label": "kart_aktivasyon"
+  },
+  {
+    "text": "Bugün kartımda herhangi bir hareket var mı?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Cüzdanımı kaybettim ve tüm kartlarım içindeydi.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Paniğe kapılıyorum!  Kartımı kaybettim!  Yardım!",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Çalınan bir kartı bildirmem gerekiyor",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Çalınan kartı nasıl değiştirebilirim?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımın derhal dondurulması için bilgi verebilir misiniz?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartı dondurmak için telefon numarası nedir?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı bulamıyorum! Yardım edebilir misin?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Merhaba, İspanya'da tatildeyim ve birisi çantamı, telefonumu, cüzdanımı, kartlarımı ve her şeyi çaldı. En kısa sürede engelleyebilir misiniz ve ben de en kısa sürede yeni bir tane sipariş etmek istiyorum.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Yardım! Kartımı kaybettim!",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım kayıp.  Lütfen yardım edin.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Sanırım kartım çalındı!",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım çalındı",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımın çalınması durumunda benden ücret alınmamalıdır.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım çalındı. Polise bildirdim ama size de bildirmem gerekiyor.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Yeni kartımın durumunu söyleyebilir misiniz?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım çalındı ​​ne yapmalıyım?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı bulamıyorum, kayboldu.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım kayboldu!  Bana yardım edin lütfen!",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımın çalındığına inanıyorum!",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımın çalındığını düşünürsem ne yapmalıyım?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Bana yeni bir kart gönderip mevcut kartımı bloke edebilir misin? İspanya'dayım ve cüzdanım çalındı.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı bir restoranda unuttuğumu sanıyordum ama kartın bende olmadığını iddia ediyorlar ve şimdi nerede olduğu hakkında hiçbir fikrim yok. Birisinin bunu hileli olarak kullanabileceğinden çok endişeleniyorum. Bunu incelemenin bir yolu var mı?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Çantam tüm kartlarımla birlikte çalındı. Lütfen kartımı iptal edip yenisini gönderebilir misiniz?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Sanırım kartım çalındı!",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Yardım!  Kartımın çalınmasından korkuyorum",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Birisi kartımı çaldı!",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımın konumuna beni yönlendirebilir misin?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımın çalındığını nasıl bildirebilirim? Önce polise ihbarda bulundum.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım kayıp!  Yardım!",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartlarımla birlikte cüzdanım da çalındı. Kartlarımı nasıl dondurup yenisini nasıl sipariş edebilirim?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Lütfen kartımı derhal dondurur musunuz?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "yardıma ihtiyacım var, kartımı kaybettim",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı kaybedersem ne yapabilirim?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartın çalındığını düşünüyorum.  Sonraki adımlarım neler?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım çalınırsa ne yapmalıyım?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım çalındı.  Yardım!",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımın izini kaybettim",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Çalınan kartı bildirin",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Yardım!  Kartım çalındı.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım tatilde kayboldu, nerede olduğunu bilmiyorum. Bu işi hemen halletmeme yardım eder misin?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı kaybettim! Bir sonraki adımım nedir?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım kayboldu! yardım!",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımın kaybolması ya da çalınması durumunda ne yapmalıyım?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Bana yardım et!  Kartımı kaybettim.  Ne yapmalıyım?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Birisi İspanya'da tatil yaparken içinde kartımın bulunduğu cüzdanımı çaldı. Gerçekten kartımın bloke edilmesini ve yenisinin sipariş edilmesini istiyorum.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kayıp bir kartla ilgili kiminle konuşabilirim?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım kayboldu.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "aman tanrım kartımı kaybettim! ne yapmalıyım?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı bulamıyorum!  Ne yapmalıyım?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımın çalınmasından sonra yapmam gereken ilk adım nedir?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı kaybetmiş gibiyim.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım çalındı. Ne yapmam gerekiyor?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Birisi kartımı izinsiz aldı",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı kaybettim ve yenisine ihtiyacım var.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım kayboldu/çalındı",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı kaybettim ve kartı en son nerede kullandığımı bilmiyorum. Hesabıma bakıp kartı en son nerede kullandığımı söyleyebilir misiniz?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Bana yardım edin lütfen.  Kartım kayıp.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı kaybettim şimdi ne yapacağım?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Diğer kartım çalındığı için yeni kart sipariş etmem gerekiyor.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Sanırım birisi kartımı bulamadığım için çaldı.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Çalıntı kartım varsa yapmam gereken adımlar nelerdir?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı bulamıyorum.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Sanırım kartım kayboldu.  Ben ne yaparım?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım çalınırsa ne yapmalıyım?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Çalınan bir kartı nasıl devre dışı bırakırım?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı bloke etmek, devre dışı bırakmak falan istiyorum, çalındı ​​ve kötüye kullanılmasını istemiyorum. Bunun bir an önce halledilmesini istiyorum.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Birisi iznim olmadan kartımı aldı.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Çalınan bir kartla ilgili yardıma ihtiyacınız var.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "yardım edin, kartımı kaybettim",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım çalınırsa ne yapmalıyım?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Sanırım bugün cüzdanım metroya düştü! Masama geldiğimde fark ettim. Kartı nasıl kesebilirim?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartım kayıp.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımın kayıp veya çalıntı olduğunu nasıl bildirebilirim?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı bulmanın bir yolu var mı?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı kaybettim. Bu konuda ne yapabilirim?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı bir restoranda bıraktım ve şimdi kayıp.",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı geri almama yardım eder misin?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımı kaybettim. Bana yardım eder misiniz?",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Ne yapmalıyım?  Kartım çalındı!",
+    "label": "kart_iptal"
+  },
+  {
+    "text": "Kartımla ödeme yaptığımda ücret kesildi.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Almamam gereken bir ücret aldım.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı kullandığım için neden benden ücret kesiliyor?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Bana kartla ödemenin neden ücretli olduğunu söyle.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı kullandığım için neden benden ücret kesildiğini anlamıyorum.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımla ödeme yaptım peki neden işlem ücreti kesildi?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Ücretlendirilmemem gerekiyordu ama ücret görüyorum, neden?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "kartımla ödeme yaptım ve ücret kesildi, neden bunu yapıyorsunuz?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla ödeme yaparken benimle birlikte bir ücret geldi",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımla ürün alırken ücret ödemek zorunda kaldım.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Ücret olmayacağını düşündüğüm halde neden ücret var?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kart kullanmanın neden ücreti var?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımla ödeme yaptığım için para ödemek zorunda kaldım.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Ailem ve kedim Fluffy ile 6 haftalığına Fransa'ya tatile gidiyorum.  Az önce bir döviz borsasından 10.000€ satın aldım, eksiğimiz kalmadığından emin olmak için ama bir ücret var gibi görünüyor.  Bu ne için?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kart ödemelerinde ücret alınmasının nedenleri nelerdir?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla ödeme yaptım ve orada olmaması gereken bir ücret tahsil edildi!",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla ödeme yaparken neden benden ekstra ücret alındı?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Hesabımda yeni bir ücret fark ettim. Bu ödemeler için ücret alındığını bilmiyordum. Politika nedir?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Bu hizmet için neden benden ek ücret kesildiğini anlamıyorum. Açıklayabilir misiniz?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı kullanmak neden ücretli?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımla ödeme yaparken neden işlemimden ekstra ücret alındı?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Hesabımın ücret yapısını nereden öğrenebilirim? Bazı işlemler için benden ücret alındı, ancak bazıları için ücret alınmadı. Bu ücretlerde bir kalıp bulamıyorum.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla ödemede neden ücret var?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla yaptığım ödeme için neden benden ücret alındı?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı kullandığım için neden benden ücret kesiyorsunuz?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımda görünen ekstra ücret nedir?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı kullandığım için neden benden ücret alındı?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Ödemeler için benden ekstra ücret alındığında bana haber verin. Uygulamada önceden uyarılmadığım bir ücret gördüm.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı kullandığım için benden ücret alındı. Bunu herhangi bir şekilde kontrol edebilir miyim? Görünüşe göre benden ücret talep edilen durumlar var. Bunu detaylandırabilir misiniz?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Hesabımdan hizmet bedeli çekildi. Daha önce bilmediğim için feragat edilebilir mi?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla ödeme yaparken sanırım ücret uygulandı.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı kullandığım için benden ücret kesiliyor!",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımla bir şey satın aldım ve benden ücret tahsil edildi",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartı kullandığım için ekstra ücret aldım. Neden?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Ödememden neden ücret kesildiğini açıklayabilir misiniz?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla ödemede ücret var mı?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla ödeme yaptığım için benden kim ücret aldı?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı son kullandığımdan beri görünen bir ücretim var.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı kullandıktan sonra neden benden bu ücret kesiliyor?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Ödemeler için ücret talep ettiğiniz neden açık değildi? Ücretleri okunması kolay bir formata koyarsanız bu durum önlenebilirdi.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Neden bazı işlemlerde benden ücret alınırken bazılarında ücret alınmıyor? Burada neyi kaçırıyorum? Hesabımda ücret yapısını nerede göreceğimi bulamıyorum. Yardım!",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla ödeme yaptım ve ekstra bir ücret mi oluştu?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımla ödeme yaparken ekstra ücret alınması normal midir?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla ödemede neden ücret alınıyordu?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımdan alınan ekstra çekim nasıl gerçekleşti?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Lütfen bana kartı kullandığımda neden ek ücret kesildiğini söyleyin.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımla bir satın alma işlemi yaptım ve kullanımım karşılığında benden ücret tahsil edildi",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla işlem yaptığım için ücret ödedim.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla ödeme yaparken neden ekstra ücret alındı?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Daha önce hiç kart ücreti ödemedim. Bu neden değişti?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Ücretler olmadan ne ödeyebilirim",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Neden ve benden bu ücret kesiliyor?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Neden benden ücret alındı? Alışverişin bedava olduğunu mu sanıyordum?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı kullandığımda ekstra ücret çıktı",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Bu kartla ödeme ücreti nedir?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Uygulamamda ödemelerimden birinden ücret alındığını gördüm ve bunun nereden geldiğinden emin değildim. Ödemelerime ek bir ücret geldiğinde bunu bana bildirebilmenin bir yolu var mı?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Ödemeler için neden benden ücret alındı? Ek ücretler konusunda beni uyarmadınız.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "kartımı daha önce internette kullandım ve ücretlendirilmedim, neden şimdi ücretlendiriliyorum",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımla ödeme yaptım ve ekstra ücret alındı, bunda ne var?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı kullandım ve ücreti vardı",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Ücret almaktan yoruldum ve nedeni hakkında hiçbir fikrim yok. Lütfen ne için/ne zaman ücret talep ettiğinizi bana bildirin.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla ödemede neden ücret alıyorum?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Merhaba, bu konuda yeniyim. Bilmem gereken herhangi bir ek ücret veya masraf var mı? Uygulamayı inceliyordum ve ücretsiz ödeneklerle ilgili bir şey gördüğümü sandım.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartı kullandığım için ekstra ücret aldığımı fark ettim.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla ödedim ve ekstra bir ücret var. Neden?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı kullandığım için neden artık benden ücret kesildiğini açıklayabilir misiniz?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Ödemeye ücret eklediğiniz birçok durum olduğu gibi eklemediğiniz durumlar da vardır. Ücretin ne zaman ekleneceğine dair bir taslağınız var mı?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Bilmediğim bir ücret kesildi. Kart ödemeleri için neden benden ekstra ücret aldınız?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımla ödeme yaparken ücret aldım",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "kartımdan neden ödeme ücreti kesiliyor?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı kullanırken benden ücret alındı, neden?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartla ödeme için benden ne kadar ücret alındı?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Bu ekstra ücret nedir?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımla ödeme yaptığım için neden ekstra ücret ödemek zorunda kaldım?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kart ödememde bu ücretin ne kadar olduğunu görmek istiyorum.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Ödemeler için ekstra ücret talep ettiğinizde lütfen bana bildirin. Daha önce uygulamayı kontrol ettiğimde ödemelerden birinde daha önce uyarılmadığım ek bir ücret olduğunu gördüm.",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "gelecekte masraflardan nasıl kaçınırım",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kart ödememe ekstra ücret eklendi bu doğru mu?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Ödeme yapmak için kartımı kullandığım için neden ekstra ücret alındı?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Kartımı kullanmak için neden ekstra ödeme yapmam gerekiyor?",
+    "label": "ucret_ve_komisyonlar"
+  },
+  {
+    "text": "Ek kart göndermek için ekstra ücret alınır mı?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ek kart sipariş etmek istiyorum",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ekstra fiziksel kartlar istiyorum.",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kızıma ikinci bir kart açmak istiyorum, bana nasıl yardımcı olabilirsiniz?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Daha fazla kart gönderdiğim için benden ücret alınacak mı?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ek karta ihtiyacım olursa herhangi bir ücret ödemem gerekir mi?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kızıma ikinci bir kart alabilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Birkaç fiziksel kart daha alabilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Sahip olabileceğim toplam kart sayısının sınırı nedir?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Daha fazla kart göndermek için bir ücret var mı?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Daha fazla kart almanın maliyeti nedir?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Bu hesaba bağlı başka bir kartı nasıl oluşturabilirim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Başka bir kart sipariş edebilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Başka bir kart sipariş edebilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "İkinci bir kart sipariş edebilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Daha fazla fiziksel kart alabilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kaç tane fiziksel karta sahip olmama izin veriliyor?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Birkaç fiziksel kart daha almak istiyorum",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Lütfen söyleyin bana daha fazla kart gönderdiğim için benden ücret alınacak mı?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Her ihtimale karşı daha fazla kart alabilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "İkinci kartı alabilecek miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Daha fazla kart göndermek için ücret alıyor musunuz?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kızım için bu hesapta ikinci bir karta ihtiyacım var.",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Başka bir kartı nasıl alabilirim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Üçüncü bir kart alabilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kartımı ailemin evinde bıraktım. Bu arada kullanmam için bana yedek bir tane gönderebilir misiniz?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kızıma bir kart vermek istiyorum. Hesabımdan ona vermek için ek bir kart alabilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ek kartın fiyatı nedir?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ücretsiz olarak ikinci bir kart alabilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Hesaba daha fazla kart eklersem ücretlendirilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kaç kart kullanmama izin veriliyor?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kızımın da kendi adına düzenlenmiş ancak benim hesabıma bağlı bir kartı olabilir mi?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Başka bir kart sipariş etmek istiyorum",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ek kart alabilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kartımı kaybettim ve yenisine ihtiyacım var, bunun bana bir maliyeti olur mu?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kızımın bu hesaptan karta ihtiyacı var. Bu mümkün mü?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kızım hesabımdan kart ister mi?  Bunu yapabilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ek kart almak için herhangi bir ücret var mı?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Hesabım için bana daha fazla kart gönderebilir misin?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Biraz daha fiziksel kart istiyorum, limitim nedir?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "İkinci bir kartın kopyasını alabilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kızıma bu hesap için ikinci bir kart vermek istiyorum, bu mümkün müdür?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Hesabıma daha fazla kart alabilmem için prosedür nedir?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Yedek kart sahibi olmama izin veriliyor mu?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Bu hesapta ikinci bir kart alabilir miyim diye merak ediyordum. Kızımın bir tane olmasını isterim.",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "İkinci kart için ödeme yapmam gerekiyor mu?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Başka bir kart satın almak istiyorum.",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Başka bir kart sipariş etmek mümkün mü?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ekstra kart almak istiyorum. Bunun bedelini ödemek zorunda kalacak mıyım?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Yedek kartı nasıl alabilirim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Nasıl daha fazla fiziksel kart talep edebilirim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Başka bir kart almak için hangi adımlara ihtiyacım var?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Daha fazla fiziksel kart istiyorum",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Daha fazla kart almak için bir ücret var mı?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Başka bir aile üyesine ikinci bir kart verebilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "İkinci kartı nasıl edinebilirim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Başka bir kart satın almak ne kadar? Bir tane daha almayı umuyordum.",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ek kartları nereden sipariş edebilirim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ekstra kartın maliyeti ne kadar olur?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ekstra bir kart istiyorum.",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Çift kart mı gönderiyorsunuz?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kartlarımdan birini bir aile üyesi için kullanmak istiyorum. Buna izin var mı?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Benimkine ek olarak başka bir aile üyesi bu hesap için kart sahibi olabilir mi?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Başka bir karta ihtiyacım var",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ek karta ihtiyacım olursa bunun için bir ücret var mı?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Yeni bir kart istiyorum",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Daha fazla kart gönderdiğim için ücret ödeyecek miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Hesabım için kaç farklı karta sahip olabilirim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Daha fazla fiziksel karta ihtiyacım var.",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ek kart taşımama izin veriliyor mu?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Birden fazla kart göndermek ekstra ücrete tabi midir?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Ekstra fiziksel kartları nasıl edinebilirim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Yedek kart alabilir miyim?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Başka bir kart almak mümkün mü?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Şu anda sahip olduğumdan daha fazla fiziksel karta ihtiyacım var!",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Yeni banka kartı ücretsiz mi?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Kaç tane kartım olabilir?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Daha fazla kart göndermek istersem bunun için ekstra ücret alıyor musunuz?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Çift kartlar için ekstra ücret alıyor musunuz?",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Şu anda ek fiziksel kartlar almak istiyorum",
+    "label": "kart_basvuru"
+  },
+  {
+    "text": "Yeni kartımı daha hızlı istersem herhangi bir ekspres ücret var mı?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Süresi dolduğunda yeni bir kart almak için bir şey yapmam gerekir mi?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Çin'de yurt dışındayım, yedek kart alabilir miyim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Çin'de son kullanma tarihi yeni olan yeni bir kart alabilir miyim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Çin'de yeni kartlarla ilgili kısıtlamalar var mı?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Yeni bir karta ihtiyacım var, benimkinin süresi doluyor.",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Süresi dolmuş bir kartın yerine yeni bir karta ihtiyacım var. Herhangi bir maliyeti olacak mı ve ne kadar sürede?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın süresi önümüzdeki hafta doluyor. Yenisini nasıl alabilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Yeni bir kart almanın maliyeti ve süresi nedir?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Çin'de yeni bir kart almak mümkün mü?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Yeni bir kart almak çok mu maliyetli yoksa uzun mu sürüyor? Benimkinin süresi dolmak üzere.",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi dolmadan önce yapmam gereken adımlar var mı?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın geçerlilik süresi dolmak üzere.  Yeni bir kartı nasıl alabilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Benim kartımın süresi dolduğunda yeni bir kart alacak mıyım?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın son kullanma tarihi yaklaşıyor",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi yakında dolarsa ne yapmalıyım?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Çin'deysem yine de yeni bir kart sipariş edebilir miyim, öyleyse nasıl?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Bir ay sonra kartımın son kullanma tarihi dolacak, bir sonraki kartı talep etmem gerekiyor mu?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi dolarsa ne olur?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi bir ay sonra doluyor, yeni kart siparişi vermeli miyim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın süresi dolmadan bana yeni bir kart gönderilecek mi?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın son kullanma tarihi yaklaşıyor",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Süresi dolmuş bir kartı nasıl değiştirebilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Çin'e yeni bir kartın gönderilmesini nasıl sağlayabilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın süresi dolduktan sonra ne yapmalıyım?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın geçerlilik süresi dolmak üzere. Kartımı kullanmaya devam etmek için ne yapmam gerekiyor?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi yakında dolacak, yeni bir kart sipariş etmem gerekiyor mu?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Çin'e yeni bir banka kartını nereden gönderebilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Çin'deyim ve yeni bir karta ihtiyacım var. Lütfen yardım edin.",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın süresi dolduktan sonra ne yapmam gerektiğini söyle.",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın süresinin ne zaman dolacağını nasıl bileceğim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Süresi dolmuş bir kartın prosedürü nedir?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Eski kartımın süresi dolmaya hazırken nasıl yeni bir kart sipariş edebilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi dolmak üzereyse ne yapmalıyım?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın süresi dolduktan sonra ne olur?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Çin'deyken nereden kart sipariş edebilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Süresi dolacak bir kartı nasıl değiştirebilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi dolarsa ne yapabilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi dolmadan önce hangi adımları atmalıyım?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Süresi dolmadan yeni bir karta ihtiyacım var.",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Sipariş verdiğimde ne zaman yeni bir kart alacağım ve maliyeti ne kadar olacak?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Benim kartımın süresi dolmak üzereyken bana yeni bir kart göndermeni bekleyebilir miyim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi yakında dolduğunda, yedek kartın gönderim hızı ve ücreti nedir?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Nasıl yeni bir kart sipariş edebilirim? Mevcut olanın süresi dolmak üzere.",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Çin'e yeni bir kart sipariş edebilir miyim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Çin'den yeni bir kart sipariş etmek mümkün mü?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi dolmak üzereyse ne yapmalıyım?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın geçerlilik süresi dolmak üzere.  Yedek kartın herhangi bir maliyeti var mı?  Bunu bana ne kadar çabuk postalarsın?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Çin'deyken yeni bir kart sipariş etmenin bir yolu var mı?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın son kullanma tarihi çok yakında, yenisini almam gerekiyor.  Değişim kartımın fiyat ve teslimat seçenekleri nelerdir?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi dolmak üzereyse yenisini almak ne kadar sürer ve bunun bana maliyeti nedir?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın geçerlilik süresi dolmak üzere.  Başka nasıl sipariş verebilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi yakında doluyor, nasıl yeni kart siparişi verebilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Eski kartımın kullanım süresi yakında dolacağından yeni bir kart sipariş etmem gerekiyor. Yenisini nasıl sipariş edebileceğimi söyleyebilir misin?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi dolduğunda değiştirme ücreti ne kadardır ve ne kadar hızlıdır?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Benim kartımın süresi dolmak üzere olduğu için yeni bir karta ihtiyacım olacak.  Ne kadar hızlı değişim alabilirim ve maliyeti nedir?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Benim kartımın süresi doluyorsa yeni bir kart sipariş etmem gerekir mi?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi önümüzdeki ay dolacak, yeni bir kart sipariş etmem gerekecek mi?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Bunu Çin'e gönderebilir miyim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın süresi çok yakında doluyor.  Yenisini almanın maliyeti ve teslimat süresi nedir?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın son kullanma tarihi yaklaşıyor, nasıl yeni kart alabilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Süresi dolmuş kartımı nasıl değiştireceğimi söyle.",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Telefonla yeni bir kart sipariş edebilir miyim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın süresi yakında doluyor.",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi dolmak üzere ne olacak?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın son kullanma tarihi dolduğunda ne yapmalıyım?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Benim kartımın süresi dolmak üzere olduğundan lütfen bana nasıl yeni bir kart alacağımı bildirin.",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın süresi yakında doluyor, bana otomatik olarak bir kart gönderir misiniz?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "yeni kart istiyorum ücreti nedir",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın son kullanma tarihi yaklaştı.",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın süresi dolduktan sonra ne olacak?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Çin'de yeni bir kart alabilir miyim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi dolmak üzere, ne yapmalıyım?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Uygulamayla yeni bir kart sipariş edebilir miyim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Gelecek ay geçerlilik süresi dolmadan kartımı nasıl değiştirebilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımın kullanım süresi doluyor, ne kadar sürede yenisini alabilirim ve ücreti ne kadar olur?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Yeni karta ihtiyacım var, eski kartımın süresi doluyor.",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartımı süresi dolmadan nasıl yenileyebilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Kartın son kullanma tarihi dolduğunda ne bekleyebilirim?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Yeni bir kart sipariş edersem ne kadar olur ve elime ulaşması ne kadar sürer?",
+    "label": "kart_faiz"
+  },
+  {
+    "text": "Neler oluyor?  Zaten 5 kez para aktarmayı denedim.  Sistem çökmüş mü?  Bu temel bir transfer olduğu için bunun olmaması gerekiyor.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimin başarısız olmasının bir nedeni var mı?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferim neden tamamlanmadı?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Bu aktarımı neden tamamlayamadım?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Çok standart bir anket yapmak için 5 girişimde bulundum, ancak çalışmasını sağlayamıyorum. Sorun nedir? Sisteminizle alakalı bir sorun mu var?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Sisteminiz bozuk. Transferlerim 5 kez başarısız olmaya devam ediyor.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Beş farklı kez transfer yapmaya çalıştım. Sisteminiz neden bana izin vermiyor? Bozuk mu?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimi neden tamamlayamadığımı bana söyleyebilir misiniz?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Neden diğer banka paramı almıyor? Yeterince iyi değil mi? Yeterli para var ama standart transferim sürekli reddediliyor. 5 kez denedim!",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Sisteminizde bir sorun mu var yoksa başka bir şey mi? Zaten 5 kez standart transfer yapmayı denedim ama hiçbir yere varamıyorum.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Bir aktarım tamamlanamadı.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transfer başarısızlığına ne sebep olur?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimin gerçekleşmediğini düşünüyorum.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Aktarım çalışmıyor mu?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimin neden başarısız olduğunu bana söyleyebilir misiniz ve sorunun çözülmesine yardımcı olabilir misiniz?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Aktarım başarısız oldu.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferim başarısız mı oldu?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transfer yapmayı denedim ama başarısız oldu. nedenini bana söyler misin?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Hesabımdan para transferi yapamadım.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferim neden gerçekleşmedi?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimin neden sürekli başarısız olduğunu anlamak için gerçekten yardıma ihtiyacım var. Bir arkadaşıma para göndermeye çalışıyorum. Lütfen yardım edin.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Bu noktada standart olan bir aktarımı tamamlamak için 5 kez denedim. Sorun ne gibi görünüyor? Sisteminiz mi bozuk?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Merhaba, şu anda bir daire satın alma sürecindeyim ve ipoteğin bitmesini bekliyorum ancak hata olarak görünmeye devam ediyor.  Buna neyin sebep olabileceğini biliyor musun ve parayı almama yardım edebilir misin?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Merhaba, daire satın alma aşamasındayım ve ödeme yapmaya çalışıyorum.  Bir hata görünüyor ve yardıma ihtiyacım var.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferim neden işe yaramadı?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transfer sürekli başarısız oluyor - Bu sabah arkadaşlarıma biraz para transfer etmeye çalıştım ama bir nedenden dolayı sürekli reddediliyor, nedenini bilmiyorum",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Birden çok kez aktarım yapmayı denedim ve başarısız oldum? Sistem çökmüş mü?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Beş kez standart transfer göndermeyi denedim ama gerçekleşmedi. Sorun nedir?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Denediğimde aktarımım başarısız oldu.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimin neden başarısız olduğunu açıklayabilir misiniz?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferim neden başarısız oldu?  Ne yapabilirim?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferim başarısız oldu.  Yardım!",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferim doğru şekilde işlenemedi. Bunun olmasının bir nedeni var mı?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Arkadaşımın banka hesabına para aktarmama yardım eder misin? Bunu yapmaya çalıştım ama beni sürekli reddediyor. Parayı bir an önce oraya götürmem lazım. Elimde yeterli ve tüm hesap bilgilerim doğru.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transfer yapmayı denedim ama olmadı.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "lütfen transferimin gerçekleşmesine yardım edin",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferim işe yaramadı! Yardım!",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Başarısız transferimin nedeni ne olabilir?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimin işe yaramamasının bir nedeni var mı?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferim neden gerçekleşmiyor?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Neden transfer yapamıyorum?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Aktarım başarısız mesajı aldım ama neden olduğuna dair bir açıklama yok... ne oldu?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Daha önce yapmaya çalıştığımda aktarım neden başarısız oldu?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Merhaba.  Bu sabah transferde bir sorunla karşılaştım.  Bazı arkadaşlarıma para göndermeye çalışıyordum ama göndermeye çalıştığımda transfer başarısız oldu.  Transferin reddedilmesine neyin sebep olduğunu bilmiyorum.  Lütfen soruna neyin sebep olduğunu bana bildirin.  Teşekkürler.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Yani bir daire satın alma aşamasındayım. İlk ipotek ödemesi için paraya ihtiyacım var ve geçmiyor. Sürekli hata alıyorum. Neler olduğunu öğrenip bu transferi tamamlamama yardım edebilir misin?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Para transferimin neden düzgün çalışmadığını bana söyleyebilir misiniz?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferim neden işe yaramadı?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Merhaba, 5 farklı kez transfer yapmayı denedim ama olmuyor. Sisteminiz kapalı mı yoksa başka bir şey mi?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Neden transfer yapamıyorum?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferim başarısız oldu, bu neden oldu?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Uygulama aktarımımın başarısız olduğunu söylüyor",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimin başarısız olmasının bir nedeni var mı?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "İşlemim neden onaylanmadı?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transfer yapmayı denedim ama gerçekleşmedi.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "transferimin başarısız olmasının nedeni bu mu?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Yapmaya çalıştığım aktarım başarısız oldu.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Lütfen transfer işlemini tamamlamamda bana yardımcı olabilir misiniz? Deniyorum ve sürekli hata alıyorum. Bir daire satın alıp ilk ipotek ödemesini ödemeye çalışıyorum. Almaya devam ettiğim tek şey bir hata. Burada neler olduğunu öğrenebilir misin?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Paramı neden başkasının hesabına aktaramıyorum? Bunu yapabilmeliyim değil mi? Transferimi neden sürekli reddediyor? Hiçbir nedeni yok, tüm bilgilerim doğru ve para ortada.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Merhaba, bir daire satın alıyorum ve ipoteğin devam etmesi için ön ödemeye ihtiyacım var. Hata olarak görünmeye devam ediyor, neler oluyor? Lütfen bu transferi yapmama yardım eder misiniz?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimi neden tamamlayamıyorum?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Kartım aktarımı tamamlayamadı, neden?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Hey, bir daire satın alıyorum ve yine de ipoteğimin bitmesine ihtiyacım var. Ancak her kontrol ettiğimde hata mesajı alıyorum. Bu transfer konusunda bana yardımcı olmanın bir yolu var mı?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Bu aktarımı her yapmaya çalıştığımda hatalar ortaya çıkıyor ve zaman sıkıntısı çekiyorum, lütfen yardım edebilir misiniz?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferlerim neden sürekli başarısız oluyor?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Bu transfer neden işe yaramadı?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Merhaba, sabahtan beri arkadaşlarıma para gönderiyorum fakat tüm işlemlerim başarısızlıkla sonuçlanıyor. Lütfen bu konuyu inceleyebilir misiniz?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferim işe yaramadı, sebebi neydi?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Bu başarısız aktarımı düzeltmek için ne yapmam gerekiyor?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Aktarım yapmayı denedim ama işe yaramadı!",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimi yapmaya çalıştığımda ne ters gitti?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimin başarısız olduğunu neden söylüyor?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimin gerçekleştiğini düşünmüyorum. Neden?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimin neden gerçekleşmediğini nasıl öğrenebilirim?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Arkadaşlarıma acilen para göndermem gerekiyordu.  Bu sabah parayı transfer etmeyi birçok kez denedim ancak transfer başarısız olmaya devam ediyor.  Transferin neden reddedildiğini bana söyleyebilir misiniz?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Aktarım yapmayı denedim ama başarısız oldu.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Aktarmayı denedikten sonra başarısız oldu.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Hesabımdan para aktaramadım.",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimin kabul edilmesini ne engelledi?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Zaten standart olan bir aktarımı tamamlamak için 5 kez denedim. Sorun nedir? Sisteminiz şu anda kapalı mı?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "Transferimin başarısız olmasına ne sebep oldu?",
+    "label": "havale_iban"
+  },
+  {
+    "text": "PIN numaramı değiştirmem mümkün mü?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi başka bir şeyle değiştirme adımları nelerdir?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi ne şekilde değiştirebilirim ve nerede olmam gerekiyor?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi herhangi bir bankamatikte değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Kart PIN'imi farklı bir numara haline getirmem gerekiyor",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi yurt dışında değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmek için bankaya gitmem gerekiyor mu?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "İstersem yeni bir PIN ayarlayabilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmek için bankaya gitmem gerekiyor mu?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi yerel bankamda değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmek isteseydim bunu nasıl yapardım?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Yeni bir PIN seçmek istersem ne yapmalıyım?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Bankaya gitmeden PIN'imi nasıl değiştirebilirim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmek için bir temsilciyle konuşmam gerekir mi?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Yeni bir PIN seçebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Pin numaramı nereden güncelleyebilirim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi uzaktan değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Kart PIN'imi değiştirmem gerekiyor.",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Pin numaramı değiştirmek istersem doğrudan ATM'den yapabilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmek için gitmem gereken belirli bir bankamatik var mı?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi herhangi bir ATM'den değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "ATM'den şifremi değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi fiziksel olarak orada olmadan değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi nasıl değiştireceğimi bana söyleyebilir misiniz?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Yeni bir PIN seçmek istiyorum.",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmenin bir yolu var mı?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmek için fiziksel bir bankaya gitmem gerekiyor mu?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Hangi bankamatikler PIN'imi değiştirmeme izin verir?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmek için ofise gitmem gerekiyor mu?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi hangi ATM'lerden değiştirebilirim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Bankaya gitmeden PIN'imi değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'im bankaya gitmeden uzaktan değiştirilebilir mi?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi hangi ülkelerde değiştirebilirim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Uygulama üzerinden pinimi değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Yeni bir PIN istiyorum lütfen.",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "İspanya'dayken PIN'imi yakındaki bir ATM'den değiştirebilir miyim? Sanırım birisi PIN'imi gördü ve onu değiştirmem gerekiyor ama tatildeyim.",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Lütfen yeni bir PIN ayarlamama yardım edin.",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Yurt dışına seyahat ediyorum ve PIN'imi değiştirmem gerekiyor. Bunun nasıl yapıldığını bana söyleyebilir misin?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirebileceğim bir yer var mı?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "İspanya'da tatildeyim ve şifremi değiştirmem gerekiyor.",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Şu anda Avusturya'da ülke dışında olmama rağmen PIN'imi nasıl değiştirebilirim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Avusturya'da PIN'imi değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Girişimi tüm ATM'lerden değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Yurt dışına seyahat ediyorum ancak PIN'imi hemen değiştirmem gereken bir durumla karşılaştım. Bunu buradan yapabilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi mümkün olan en kısa sürede değiştirmeliyim.",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imin ele geçirildiğini düşünüyorum, ne yapmalıyım?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmek için nereye gitmem gerekiyor?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi bankada değiştirmem gerekiyor mu?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Telefonumda PIN'imi değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN değişikliği konusunda bana yardım edin.",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmek istiyorum; bankada olmam gerekiyor mu?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'i nasıl değiştiririm?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi nerede değiştirebilirim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'im değiştirilsin mi?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi nerede değiştirebileceğimi söyleyebilir misiniz?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Bankamatikte PIN'imi değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmek mümkün mü?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi nasıl değiştireceğimi gerçekten bilmem gerekiyor.",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmenin tek yolu bankaya gitmek mi?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi nasıl sıfırlayabilirim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Ülke dışındaysam şifremi değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Yeni bir pini nasıl ayarlayabilirim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Sanırım birisi PIN'imi gördü ve ben İspanya'da tatildeyim, bunu yerel bir ATM'den değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirebileceğim bankamatikler var mı?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Seyahat halindeyken karta ihtiyacım olduğundan hesabımı donduramıyorum, şifremi nasıl değiştirebilirim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Kart PIN'imi nasıl değiştiririm?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "İspanya'da tatildeyken birinin PIN'imi gördüğünü ve şimdi onu değiştirmem gerektiğini düşünüyorum. Bunu İspanya'daki bir ATM'den yapabilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi nasıl değiştirebilirim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Belirli bankamatiklerde PIN'imi değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "ATM pininiz, PIN hizmeti sunan herhangi bir VISA veya MasterCard ATM'sinden değiştirilebilir. Bazı ülkeler ATM pin değişikliklerini desteklememektedir.",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "İspanya'da tatildeyim ve sanırım birisi PIN'imi gördü… Yerel bir ATM'de değiştirebilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Avrupa'da tatildeyim ama acilen PIN'imi değiştirmem gerekiyor. Bunu yurt dışından yapabilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi sıfırlayabilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi hangi bankamatiklerden değiştirebilirim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmek istiyorum.",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "PIN'imi değiştirmek için hangi adımları uygulamam gerekiyor?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "ATM'den pin numaramı değiştirmek istiyorum. Bu mümkün mü?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Kartımdaki PIN'i değiştirmek istiyorum.",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Şu anda Avusturya'dayım ama şu anda gerçekten PIN'imi değiştirmem gerekiyor. Başka bir ülkede olsam bile bunu yapabilir miyim?",
+    "label": "sifre_unuttum"
+  },
+  {
+    "text": "Bu kartı hangi ATM'lerde kullanabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Kartı herhangi bir bankamatikte kullanabilir miyim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Hangi yerlerden para alabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kartı hangi ATM'ler alıyor?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Para çekmek için hangi ATM'leri kullanabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bütün ATM'ler bu kartı kabul ediyor mu?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kart her ATM'de çalışır mı?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Hangi ATM'lerden para çekmeme izin veriliyor?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bana en yakın ATM nerede?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu tarifeyi hangi ATM'ler kabul ediyor?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Para çekmek için banka onaylı ATM kullanmak zorunda mıyım?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Nasıl para çekerim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kartı herhangi bir ATM'de kullanabilir miyim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Hangi yerler para çekmeme izin veriyor?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Kartımı hangi ATM'ler kabul ediyor?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Hesabımdan para çekmek için kartımı kullanabilir miyim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Parayı nereden çekebileceğimi söyler misiniz?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kart hangi ATM'lerde kabul edilecek?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Para çekebileceğim belirli ATM'ler var mı?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Para çekme işlemleri nereden yapılabilir?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Banka onaylı ATM'leri kullanmak zorunda mıyım?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Mastercard ATM'lerini nerede bulabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Kartımı hangi ATM'lerde kullanabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Hangi ATM makineleri bu karta izin veriyor?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Para çekme işlemini nereden yapabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Parayı nereden çekmeliyim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kartı kabul eden ATM'ler nerede?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Çevremde ATM bulmanın bir yolu var mı?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Herhangi bir ATM kartımı reddeder mi?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Kartımı hangi ATM'lerde kullanabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kartı hangi bankamatikler kullanıyor?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kartı hangi ATM'lerde kullanabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Lütfen bana kartımı kabul eden ATM'lerin listesini verin.",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Kartımı ATM'de kullanabilir miyim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Kullanabileceğim en yakın ATM nerede?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "En yakın Mastercard ATM'si nerede?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Kartımdan nereden para alabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kartı kabul eden bir ATM'yi nasıl bulabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Hemen bir ATM'ye ihtiyacım var!",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Hangi ATM'ler Mastercard'ı kabul ediyor?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "En yakın ATM hangisi?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kartı hangi ATM'ler kullanıyor?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kartı hangi ATM'lerde kullanabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Herhangi bir makineden para çekebilir miyim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bana en yakın ATM 2 mil uzakta mı?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Para çekmem gerekiyor. Bunu nerede yapabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Kartımı başka bir kurumun ATM'sinde kullanabilir miyim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Mastercard'ı kabul eden ATM nerede?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Mastercard ATM'leri nerede?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Nereden para çekebilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Nereden para çekebilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Kendi banka ATM'mden farklı bir banka ATM'si kullanabilir miyim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "para çekebileceğim yerleri bilmem gerekiyor",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Kart hangi ATM'lerde kullanılabilir?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Para çekmek için en yakın yer neresi?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kartı alan ATM'lerin listesi var mı?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Yakınlarda Mastercard ATM'si var mı?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Kartımı kullanabileceğim ATM'lerle sınırlı mıyım?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "parayı nereden çekebileceğimi nasıl bileceğim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bana bu kartı hangi ATM'lerin aldığını söyle.",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Mastercard kullanabileceğim ATM’ler nerede?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "ATM nerede?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Hangi yerlerden para çekebilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kart tüm ATM'lerde kullanılabilir mi?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Yakınımda bu kartı kabul eden ATM var mı?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "En yakın ATM'yi bulma konusunda departmanınızdaki birinden yardıma ihtiyacım var.",
+    "label": "sube_atm"
+  },
+  {
+    "text": "para çekebileceğim yerler nelerdir",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu devre kartını hangi ATM'ler kabul ediyor?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kartı kaç ATM alacak?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kartı hangi ATM'lerde kullanabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kart ATM'lerde kabul ediliyor mu?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kartı kullanabileceğim sadece belirli ATM makineleri var mı?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Mastercard ATM'sini nerede bulabilirim?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bana bu kartı hangi ATM'lerin kullandığını söyle.",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Kartı hangi ATM'ler alıyor?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "En yakın ATM bana ne kadar uzakta?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Kartımla kullanabileceğim ATM'leri söyleyebilir misiniz?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Mastercard ATM'si nerede?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Nereden para çekebileceğimi bilmem gerekiyor.",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Bu kartla kullanabileceğim belirli ATM'ler var mı?",
+    "label": "sube_atm"
+  },
+  {
+    "text": "Birisinin iznim olmadan kartımı kullandığını düşünüyorum!",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Arabamda hileli kullanım tespit edersem ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Hesabımın saldırıya uğradığını düşünüyorum, orada tanımadığım ödemeler var.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Bazı işlemleri tanımıyorum.  Başkası mı kullanıyor?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Az önce kartımla satın alma işlemimin onaylandığına dair bir e-posta aldım. Karttan mobil uygulamaya giriş yaptığımda haberim olmadan birçok alışveriş yapıldığını öğrendim. Belli ki birileri kart bilgilerimi çalıp bu sahte alışverişi yapmış. İşlemin tersine çevrilmesini ve kartımın askıya alınmasını istiyorum.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Hesabıma yönelik dolandırıcılığı nasıl durdurabilirim?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "kartın başkası tarafından kullanılması",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartımı başka birinin kullandığını düşünüyorum.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Benim dışımda biri kartımı kullanıyor olabilir.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Hesabımda garip işlemler var.  Birinin bilgilerimi çaldığını düşünürsem ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kredi kartımda yaptığımı hatırlamadığım bazı şüpheli harcamalar görüyorum. Ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Benim dışımda birisi kartımla sipariş vermiş görünüyor, ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartımda satın almadığım harcamalar var.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birisi kartımı kullanıyor olabilir.  Ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birinin kartımı kullandığından şüpheleniyorum.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Lütfen bana kartıma izinsiz ödeme yapılmasını nasıl önleyebileceğinizi söyleyin, çünkü bu faturada bunun gerçekleştiğini görüyorum. Hiç gitmediğim bir yerden hiç yapmadığım işlemler var.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birinin benim iznim olmadan kartımı kullandığını düşünüyorum!",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Tanımadığım birkaç işlem var, sanırım birisi kart bilgilerimi alıp kullanmayı başardı.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birisi kartımı kullanıyor. Orada alışılmadık işlemler var. Bunun olmasını önlemek için kartı dondurabilir misiniz?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kart bilgilerim arabamdan çalınırsa ne yapabilirim? Sanırım kartımı benzin almak için kullandılar.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartımı iptal etmek istiyorum. Başka birinin kullandığını düşünüyorum.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Emin olamıyorum ama sanırım birisi kartımı kullanıyor olabilir.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birinin kartımı iznim olmadan kullandığını düşünürsem ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birisinin bilgim dışında kartımı kullandığını düşünüyorum!",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Hesabımda olağandışı bir etkinlik var ve birinin kartımı aldığını düşünüyorum.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Bu işlemleri tanımadığım için birisi kart bilgilerimi bulmuş olmalı.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Orijinal kartımı dondurmadan önce yeni bir kart sipariş etmeli miyim?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birisinin kartımı kullandığını düşünüyorum ama emin değilim.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Sanırım birisi kartımı hackledi!",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartım tehlikeye girdi. Yapmadığım bir sürü çevrimiçi alışveriş masrafı görüyorum. Acilen dondurmam lazım.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Bu faturadaki bazı işlemlerin geldiği küçük kasabada hiç bulunmadığım için kartımın başka biri tarafından kullanıldığını düşünüyorum. Lütfen buna derhal son verin.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "kartımın güvenliğinden şüpheleniyorum",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birisi hesabımda işlem yapıyor, sanırım kart bilgilerimi almış.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Sanırım birisi kart numaramı çaldı ve daha önce gitmediğim farklı yerlere eşyalar getirdi. Kredi kartımla yapılacak herhangi bir satın alma işlemini askıya almam gerekiyor.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartımın ele geçirilmiş olma ihtimali var.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "İzinsiz işlem yapıldığını düşünürsem ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartımda dolandırıcılığı nasıl durdurabilirim?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birisinin kartımdaki bilgilere erişmiş olabileceğinden korkuyorum.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Ekstremde hiç satın almadığım şeylerin ücretleri gösteriliyor. Hesap bilgilerim çalındı ​​mı?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartımı başkası kullanırsa ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartımı başkası kullanıyorsa ne gibi adımlar atabilirim?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birisi kartıma erişmiş olabilir.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birisinin bilgilerimi çaldığını ve bazı işlemler yapmak için bilgilerimi kullandığını düşünürsem ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Emin değilim ama başka biri kartımı kullanıyor olabilir",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartımın iznim olmadan kullanılması durumunda ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birisi iznim olmadan kartımı kullandı.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birisinin kartımı izin alarak kullandığını düşünüyorum",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Tanımadığım bazı işlemler görüyorum.  Birisinin bilgilerimi çaldığını düşünüyorum.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartımı başka birinin kullanıp kullanmadığını nasıl anlarım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kredi kartı dolandırıcılığının kurbanı olduğumu düşünürsem ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kart bilgilerim çalındı ​​ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "bu işlemleri ben yapmadım kart bilgilerimin çalınmış olabileceğini düşünüyorum",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Tanımadığım işlemlerim var. Birisinin kartımı kullandığını düşünüyorum.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "bu işlemleri yapmadığım için kart bilgilerim çalınabilir",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birisi kartımı iznim olmadan kullanırsa ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Tanımadığım işlemler var. Birinin kartımı kullandığını düşünürsem ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartımın izinsiz kullanılıp kullanılmadığını kontrol edebilir misiniz, sanırım birisi benim bilgim dışında benim kartımı kullanıyor?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartımın hiç gitmediğim küçük bir kasabada kullanıldığını fark ettim. Kartın daha fazla kullanılmasını durdurabilir misiniz?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Hesabımı dondurdum ama nasıl yeni kart siparişi verebilirim?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birinin kartımı kullandığını düşünürsem ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartım çalındı ​​ve birçok alışverişte kullanıldı. Lütfen kartımı dondurun ki kimse kullanamaz.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Yaptığımı hatırlamadığım işlemler var, sanırım birisi kart bilgilerimi almış ve kullanıyor olabilir.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kart bilgilerim çalınmış gibi görünüyor! Bu işlemlerin nereden geldiğini bilmiyorum ve yapıldığı şehre bile hiç gitmedim. Bu kişinin kartımı kullanmaya devam edememesi için kartımın bir an önce bloke edilmesini istiyorum.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartım iznim olmadan kullanıldı, ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birinin kartımı izinsiz kullandığını düşünürsem ne yapmalıyım? Tanımadığım birkaç işlemi görebiliyorum.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Hesabımda şüpheli işlemler var.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Hesabımda yapmadığım bazı işlemler var. Kartımı iptal edip daha fazla kullanılmasını engelleyebilir misiniz?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Benim dışımda birileri kartımı kullanıyor olabilir.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birisi kart hesabımı hackledi.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartımdaki dolandırıcılığı nasıl bildirebilirim?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Hesabımdaki olası dolandırıcılık faaliyetlerini nasıl bildirebilirim?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Başkası benim iznim olmadan kartımı kullanıyor olabilir.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kendi yapmadığım bazı işlemler olduğundan kartım kartımı kullanmış olmalı..",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Çalınan kartın değiştirilmesini nasıl sipariş edebilirim?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Bu işlemlerden bazılarını tanımıyorum, sanırım birisi kart bilgilerimi ele geçirdi",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birisi bilgim dışında kartımı kullanmış!",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Kartımın bir şekilde ele geçirildiğini düşünüyorum.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Birinin kartımı kullandığını düşünürsem ne yapmalıyım?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Paranoyak olabilirim ama birisi kartımı kullanıyor olabilir.",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Cüzdanım çalındı ​​ve tüm kredi kartlarım oradaydı.  YARDIM?!!?",
+    "label": "dolandiricilik"
+  },
+  {
+    "text": "Hesabımı nasıl devre dışı bırakırım?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı derhal kaldırın.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı silebilir misin?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı nasıl sonlandırabilirim?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "lütfen hesabı sil",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı hemen silmeni istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Artık hesabımı silmek istiyorum lütfen.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı geçersiz kılmak istiyorum.  Hizmetlerinizden çok hayal kırıklığına uğradım.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı silmem gerekiyor.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabı silebilir misin?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Allah aşkına hesabımı sil artık bundan bıktım",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı silmem gerekiyor lütfen.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hizmetten memnun değilim hesabı silmem gerekiyor",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Bu şirket kötü, hesabımı hemen silin.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı kapatıp bu şirketten nasıl çıkabilirim?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı nasıl kapatabilirim?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımın en kısa sürede kapatılmasını istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "hesabımı iptal et",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı kapatmama yardım et.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Müşteri hizmetlerinin yetersiz olması nedeniyle hesabımı kapatmak istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Memnun olmadığım için hesabımı kapatmak istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Bir hesabı sonlandırma süreci nedir?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı silmek için hangi adımları yapmam gerekiyor?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Şimdi hesabımı nasıl silerim",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı iptal etmek istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesaptan kurtulmak ve kişisel bilgileri silmek istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "eğer hesabımı kullanmıyorsam kapatmalı mıyım yoksa öylece bekletmeli miyim",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hizmetlerden memnun değilim ve artık müşteri olmak istemiyorum",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Şirketinizden memnun değilim ve tüm hesapları derhal silmek istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı silmek istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Şirketinizden memnun değilim. Lütfen en kısa zamanda hesabımı silin.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı nasıl kapatabilirim, istemiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hizmetinizden rahatsız oldum.  Lütfen hesabımı silin.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı iptal etmek istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hizmetleri sevmiyorum, lütfen hesabımı kapatın",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı silmek istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı durdurmak istiyorum",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Lütfen hesabımı derhal silin.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı nasıl silerim? Hizmetten memnun değilim.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Burası çok fazla iş gerektiriyordu, bu yüzden hesabımı kapatıp işimin bitmesini istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Bir hesabı kapatmak için birisiyle konuşmam gerekiyor mu yoksa uygulamada konuşabilir miyim?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Artık hesabımı kapatmak istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Şirketiniz berbat, hesabımı silmek istiyorum lütfen",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Bu şirketten nefret ediyorum! Hesabımı silebilir misin?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımın kapatılmasını talep ediyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı silmek istiyorum. Bunu nasıl yaparım?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hizmetinizden memnun değilim ve hesabımın kapatılmasını talep ediyorum!",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı sonlandırmak istiyorum",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı nasıl silebilirim?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı sonlandırmak istiyorum",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Artık hesabımı silin lütfen.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı feshetmeme ve kapatmama yardım edin.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Şirketiniz berbat. Tüm hesap hizmetlerimi hemen kapat.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Şirketinizden memnun değilim.  Hesabımı kapat.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı nasıl sonlandırabilirim?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı nasıl kapatabilirim?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı sonlandırmam gerekiyor.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Bu firmadan aldığım hizmetlerden memnun değilim. Lütfen hesabımı silebilir misiniz?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı kapatmak istiyorum. Verdiğiniz hizmet beni tatmin etmiyor.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Tüm hesap bilgilerimi ve hesabımı hemen silin.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı kapatmak istiyorum ve bir daha sizinle iş yapmayacağım.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Bu hesabı tamamlamanın adımları nelerdir?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı silmeme yardım et.  Hizmetten memnun değilim.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı kapatabilir misiniz lütfen?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı kapatmak için ne yapmalıyım?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı acilen kapatmam gerekiyor.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı nasıl kapatabilirim?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Artık bu hesabı istemiyorum, nasıl silebilirim?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Lütfen bu hesabı silin.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı devre dışı bırakmak istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Artık bu hesabı tutmak istemiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı silmeye çalışıyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı sonlandırmak için nereye gitmeliyim?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hizmetten memnun değilim ve bu hesabı silmek istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Lütfen artık hesabımı silin.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Hesabımı sonlandırmak istiyorum.",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "hesabımı nasıl iptal edebilirim",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "hesap nasıl silinir, memnun değilim",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "Memnun kalmadığım için hesabımı nasıl kapatabilirim?",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "hesabımı kaldır",
+    "label": "musteri_hizmetleri"
+  },
+  {
+    "text": "İhtiyaç kredisi çekmek istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Nakit kredi başvurusu yapmak istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Acil nakit ihtiyacım var kredi başvurusu yapmak istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "İhtiyaç kredisi için başvuruda bulunmak istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi çekmek istiyorum yardımcı olur musunuz",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Banka kredisi başvurusu nasıl yapılır",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "İhtiyaç kredisi başvuru formu nereden alınır",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Online ihtiyaç kredisi başvurusu yapmak istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Mobil uygulamadan kredi başvurusu nasıl yapılır",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "İnternet şubesinden kredi başvurusu yapabilir miyim",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi başvuru ekranı nerede",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Size kredi başvurusu yapmak istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi talebinde bulunmak istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Nakdi kredi başvurusu yapacağım",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Bireysel ihtiyaç kredisi başvurusu",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "10000 TL ihtiyaç kredisi çekmek istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "20 bin TL krediye ihtiyacım var",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "50.000 TL nakit kredi alabilir miyim",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "30 bin lira kredi çekmek istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "100000 TL'ye kadar ihtiyaç kredisi veriyor musunuz",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "25000 TL acil nakit kredi lazım",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "15 bin TL ihtiyaç kredisi başvurusu yapacağım",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "40.000 TL kredi çekmek istiyorum ne kadar taksit olur",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "5 bin TL ihtiyaç kredisi alabilir miyim",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "75 bin TL krediye ihtiyacım var",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "60.000 TL nakit kredi başvurusu",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "25 bin lira ihtiyaç kredisi çekmek istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "80 bin TL kredi almak istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "10 bin TL acil kredi lazım",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "100 bin TL ihtiyaç kredisi verir misiniz",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "İhtiyaç kredisinde en uzun vade kaç ay",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "36 ay vadeli ihtiyaç kredisi çekmek istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "24 ay vade ile kredi alabilir miyim",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "48 ay ihtiyaç kredisi var mı",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "12 ay vadeli 20 bin TL kredi",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "60 ay ihtiyaç kredisi çekmek istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Vade seçenekleri nelerdir ihtiyaç kredisinde",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "6 ay vadeli kredi almak istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "24 ay vade ile 30 bin TL kredi",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "En uzun vade kaç ay ihtiyaç kredisinde",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "İhtiyaç kredisi başvuru şartları nelerdir",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi notu düşük ihtiyaç kredisi alabilir miyim",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi skorum 1200 ihtiyaç kredisi çıkar mı",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "İhtiyaç kredisi için gerekli belgeler nelerdir",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kefilsiz ihtiyaç kredisi veriyor musunuz",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Memur ihtiyaç kredisi başvuru şartları",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Emekli ihtiyaç kredisi nasıl alınır",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Öğrenci ihtiyaç kredisi kullanabilir mi",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Maaş müşterisi ihtiyaç kredisi avantajları",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "SGK'lı ihtiyaç kredisi başvurusu",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Borçlarımı kapatmak için kredi lazım",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Evlilik için ihtiyaç kredisi çekmek istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Düğün masrafları için kredi başvurusu",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Tadilat için ihtiyaç kredisi",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Hastalık masrafları için nakit kredi lazım",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Eğitim masrafları için kredi çekmek istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Yurtdışı seyahat için ihtiyaç kredisi",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Beyaz eşya almak için kredi",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Mobilya almak için ihtiyaç kredisi",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Yeni iş kurmak için kredi lazım",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "İhtiyaç kredisi mi yoksa taşıt kredisi mi daha avantajlı",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "En uygun ihtiyaç kredisi hangisi",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "İhtiyaç kredisi hesaplama nasıl yapılır",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi çeksem aylık ödemem ne kadar olur",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "İhtiyaç kredisi kampanyaları nelerdir",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Hoş geldin kredisi var mı",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "İhtiyaç kredisi masrafları nelerdir",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Dosya masrafı ne kadar ihtiyaç kredisinde",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "İhtiyaç kredisi erken kapatma cezası var mı",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi yapılandırma nasıl yapılır",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi başvurum reddedildi neden",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "İhtiyaç kredisi başvurusu onaylanmadı",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi başvurusu sonucu ne zaman belli olur",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi onay süreci ne kadar sürer",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi başvurumu iptal etmek istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi başvurusunda hata yaptım düzeltebilir miyim",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Daha önce kredi başvurusu yapmıştım sonuçlandı mı",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi başvurum hakkında bilgi almak istiyorum",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi başvurusu ne aşamada",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi başvurusu takibi nasıl yapılır",
+    "label": "ihtiyac_kredisi_basvuru"
+  },
+  {
+    "text": "İhtiyaç kredisi faiz oranları ne kadar",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Güncel ihtiyaç kredisi faizleri nedir",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "İhtiyaç kredisi faizi kaç",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Kredi faiz oranlarınız nedir",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Aylık ihtiyaç kredisi faiz oranı",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Yıllık ihtiyaç kredisi faizi ne kadar",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "İhtiyaç kredisinde faiz nasıl hesaplanıyor",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Faiz oranları değişti mi ihtiyaç kredisinde",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "En güncel ihtiyaç kredisi faizleri",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Bugün itibarıyla ihtiyaç kredisi faizi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "İhtiyaç kredisi faiz tablosu nerede",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Kampanyalı ihtiyaç kredisi faiz oranları",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Düşük faizli ihtiyaç kredisi var mı",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "En uygun faizli ihtiyaç kredisi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Hoş geldin faiz oranı ihtiyaç kredisinde",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "10 bin TL ihtiyaç kredisi faizi ne kadar",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "20 bin TL kredi çeksem faiz ne kadar olur",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "50 bin lira ihtiyaç kredisi faiz oranı",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "100 bin TL ihtiyaç kredisi faiz hesaplama",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "30 bin TL kredi faizi kaç",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "5 bin TL ihtiyaç kredisi faizi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "40.000 TL kredi için faiz oranı",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "75 bin TL ihtiyaç kredisi aylık faiz",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "25 bin TL kredi faiz oranı",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "60 bin TL ihtiyaç kredisi faizi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "12 ay vadeli ihtiyaç kredisi faizi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "24 ay vade ihtiyaç kredisi faiz oranı",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "36 ay ihtiyaç kredisi faizi ne kadar",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "6 ay vadeli kredi faizi kaç",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "48 ay vade ihtiyaç kredisi faizi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "18 ay vade ihtiyaç kredisi faizi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "60 ay ihtiyaç kredisi faizi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Vadeye göre faiz oranları ihtiyaç kredisinde",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Uzun vadeli ihtiyaç kredisi faizi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Kısa vadeli ihtiyaç kredisi faizi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "İhtiyaç kredisi faizi ne kadar, konut kredisi faizi ne kadar",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Hangi bankada ihtiyaç kredisi faizi daha düşük",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Rakiplerinize göre ihtiyaç kredisi faiziniz nasıl",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Geçen aya göre ihtiyaç kredisi faizi değişti mi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "En düşük ihtiyaç kredisi faizi hangi vadede",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Mevduat faizi mi ihtiyaç kredisi faizi mi yüksek",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Kredi kartı nakit avans faizi mi ihtiyaç kredisi faizi mi avantajlı",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "İhtiyaç kredisi faizleri düşecek mi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Faiz indirimi var mı ihtiyaç kredisinde",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Kampanya ile normal faiz arasındaki fark",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "10 bin TL ihtiyaç kredisi 12 ay vade aylık taksit ne kadar",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "20 bin TL ihtiyaç kredisi 24 ay vade toplam geri ödeme",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "30 bin TL kredi 36 ay faiz hesaplama",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "İhtiyaç kredisi hesaplama robotu nerede",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "50 bin TL 24 ay vade aylık taksit",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "15 bin TL ihtiyaç kredisi 18 ay vade",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "40 bin TL 30 ay vade toplam maliyet",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Kredi taksit hesaplama nasıl yapılır",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Faiz dahil toplam geri ödeme ne kadar",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Aylık taksit miktarı nasıl hesaplanır",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Memur ihtiyaç kredisi faiz oranı",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Emekli ihtiyaç kredisi faizi ne kadar",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Maaş müşterisi ihtiyaç kredisi faiz indirimi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Kredi notuna göre faiz değişir mi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Düşük kredi notu için faiz oranı",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Yüksek kredi notu avantajı faizde",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Öğrenci ihtiyaç kredisi faizi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Esnaf ihtiyaç kredisi faiz oranları",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Kamuda çalışanlara özel faiz oranı",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Sağlık çalışanları ihtiyaç kredisi faizi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "İhtiyaç kredisinde BSMV ne kadar",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "KKDF oranı ihtiyaç kredisinde",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Faize ek masraflar nelerdir",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Dosya masrafı faize dahil mi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Hayat sigortası zorunlu mu ihtiyaç kredisinde",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Döviz faizleri ihtiyaç kredisinde",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Enflasyon oranına göre ihtiyaç kredisi faizi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "TCMB faiz kararı ihtiyaç kredisi faizlerini etkiler mi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Politika faizi ile ihtiyaç kredisi faizi arasındaki ilişki",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Kredi faizleri ne zaman düşer",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "İhtiyaç kredisi faiz hesaplama formülü",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Bileşik faiz mi basit faiz mi ihtiyaç kredisinde",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Akdi faiz ile gecikme faizi farkı",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "İhtiyaç kredisi erken ödemede faiz indirimi",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Yapılandırmada faiz nasıl hesaplanır",
+    "label": "ihtiyac_kredisi_faiz"
+  },
+  {
+    "text": "Ev almak için konut kredisi çekmek istiyorum",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi başvurusu yapmak istiyorum",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Mortgage kredisi başvurusu nasıl yapılır",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Ev kredisi için başvuruda bulunmak istiyorum",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi talebinde bulunacağım",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "İpotekli konut kredisi başvurusu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Online konut kredisi başvurusu yapabilir miyim",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Mobil uygulamadan konut kredisi başvurusu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "İnternet şubesinden konut kredisi başvuru formu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi için ön başvuru yapmak istiyorum",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Ev alımı için kredi başvurusu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Yeni evim için konut kredisi lazım",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut finansmanı başvurusu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Ev kredisi çekmek istiyorum yardım",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi başvuru ekranı nerede",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Sıfır konut için kredi başvurusu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "İkinci el ev için konut kredisi alabilir miyim",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "İnşaat halindeki eve kredi çıkar mı",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Müstakil ev için konut kredisi",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Apartman dairesi için kredi başvurusu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "TOKİ konutları için kredi başvurusu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Lüks konut kredisi başvuru şartları",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Devlet destekli konut kredisi var mı",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Sosyal konut projesi için kredi",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Yazlık ev için konut kredisi",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "500 bin TL konut kredisi çekmek istiyorum",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "1 milyon TL ev kredisi alabilir miyim",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Evin %80'ine kadar kredi veriyor musunuz",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "300 bin TL konut kredisi başvurusu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "750 bin TL mortgage kredisi",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Ekspertiz değerinin yüzde kaçı kredi veriliyor",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "250 bin TL ev kredisi için başvuru",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "400 bin TL konut kredisi çekmek istiyorum",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "600 bin TL ev kredisi alabilir miyim",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisinde kredi oranı ne kadar",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "10 yıl vadeli konut kredisi başvurusu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "15 yıl vade ile ev kredisi almak istiyorum",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "20 yıl konut kredisi var mı",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "En uzun konut kredisi vadesi kaç yıl",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "5 yıl vadeli konut kredisi",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "120 ay konut kredisi başvurusu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "180 ay vade ev kredisi",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "240 ay konut kredisi çekmek istiyorum",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Uzun vadeli konut kredisi avantajları",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Vade seçenekleri nelerdir konut kredisinde",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi başvuru şartları nelerdir",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Ev kredisi için gerekli belgeler",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi için kefil şart mı",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "İpotek nasıl tesis edilir",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Ekspertiz raporu zorunlu mu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi için gelir şartı nedir",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi notu kaç olmalı konut kredisinde",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Ev kredisi için yaş sınırı var mı",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Sigorta zorunluluğu konut kredisinde",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi masrafları nelerdir",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "İlk evim için konut kredisi kampanyası",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Evini yenilemek için konut kredisi",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Kentsel dönüşüm kredisi başvurusu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Tapu harcı dahil konut kredisi",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Ev alırken hayat sigortası zorunlu mu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi yapılandırma başvurusu",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi transferi için konut kredisi",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Ev değiştireceğim konut kredisi lazım",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Yatırım amaçlı konut kredisi",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Kira getirisi olan ev için kredi",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi başvurum reddedildi neden",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Ev kredisi onay süreci ne kadar sürer",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi sonuçlandı mı",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi başvuru takibi nasıl yapılır",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Ekspertiz sonucu ne zaman belli olur",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi başvurusunda hata düzeltme",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Ev kredisi onaylandı para ne zaman yatar",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi dosyası hangi aşamada",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi başvurusu iptal etme",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Ekspertiz değeri düşük çıktı ne yapmalıyım",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi mi yoksa kiraya vermek mi mantıklı",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Değişken faizli konut kredisi var mı",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Sabit faizli konut kredisi avantajları",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Dövize endeksli konut kredisi",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi hesaplama nasıl yapılır",
+    "label": "konut_kredisi_basvuru"
+  },
+  {
+    "text": "Konut kredisi faiz oranları ne kadar",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Ev kredisi faizi kaç",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Güncel konut kredisi faizleri nedir",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Mortgage faiz oranları",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Aylık konut kredisi faiz oranı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Yıllık ev kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Konut kredisinde faiz nasıl hesaplanır",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "En uygun konut kredisi faizi hangisi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Kampanyalı konut kredisi faiz oranları",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Bugün itibarıyla konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Konut kredisi faiz tablosu nerede",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Düşük faizli konut kredisi var mı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Konut kredisi faiz indirimi var mı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Hoş geldin faizi konut kredisinde",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "En düşük konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "5 yıl vadeli konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "10 yıl vade ev kredisi faiz oranı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "15 yıl konut kredisi faizi ne kadar",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "20 yıl vadeli mortgage faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "120 ay konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "180 ay ev kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "240 ay konut kredisi faiz oranı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Kısa vadeli konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Uzun vadeli konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Vadeye göre faiz oranları değişir mi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "100 bin TL konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "200 bin TL ev kredisi faiz oranı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "300 bin TL mortgage faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "500 bin TL konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "1 milyon TL ev kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Geçen aya göre konut kredisi faizi değişti mi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Bankalar arası konut kredisi faiz karşılaştırması",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "En düşük konut kredisi faizi hangi bankada",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Rakiplere göre konut kredisi faiziniz",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Konut kredisi faizi mi ihtiyaç kredisi faizi mi yüksek",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Döviz kuru konut kredisi faizini etkiler mi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Enflasyon karşısında konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "TCMB faiz kararı sonrası konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Geçen yıl bu zamanlar konut kredisi faizi neydi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Faizler düşecek mi yükselişe geçecek mi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "100 bin TL konut kredisi 120 ay aylık taksit",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "200 bin TL ev kredisi 10 yıl toplam geri ödeme",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "300 bin TL mortgage 15 yıl faiz hesaplama",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "500 bin TL konut kredisi aylık taksit ne kadar",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Konut kredisi hesaplama robotu",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Ev kredisi taksit hesaplama formülü",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Faiz dahil toplam geri ödeme hesaplama",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Aylık taksit miktarı nasıl hesaplanır",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Konut kredisi geri ödeme tablosu",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Ödeme planı nasıl oluşturulur",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Konut kredisinde ekspertiz ücreti ne kadar",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "İpotek tesis ücreti kaç TL",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Dosya masrafı konut kredisinde",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Konut kredisi masrafları toplamı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Hayat sigortası zorunlu mu konut kredisinde",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "DASK ve konut sigortası dahil mi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Tapu harcı ne kadar konut kredisinde",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Konut kredisi faizine ek masraflar",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Yıllık maliyet oranı nedir",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Masraflar faize dahil edilir mi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Memur konut kredisi faiz oranı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Emekli ev kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Maaş müşterisi konut kredisi faiz indirimi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Kamuda çalışanlara özel konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Gençlere özel konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "İlk evim kampanyası faiz oranı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Kredi notu yüksek faiz indirimi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Düşük kredi notu için konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Sabit gelirli konut kredisi faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Esnaf konut kredisi faiz oranı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "BSMV oranı konut kredisinde",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "KKDF konut kredisinde var mı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Akdi faiz ile gecikme faizi farkı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Değişken faizli konut kredisi riskleri",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Sabit faizli konut kredisi avantajları",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Konut kredisi erken kapama faizi",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Yapılandırmada faiz nasıl hesaplanır",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Kredi transferinde faiz avantajı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Refinansman faiz oranları",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Erken ödeme cezası var mı",
+    "label": "konut_kredisi_faiz"
+  },
+  {
+    "text": "Araba almak için taşıt kredisi çekmek istiyorum",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Taşıt kredisi başvurusu yapmak istiyorum",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araç kredisi için başvuruda bulunacağım",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Otomobil kredisi başvurusu nasıl yapılır",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Taşıt finansmanı başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Online taşıt kredisi başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Mobil uygulamadan araç kredisi başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "İnternet şubesinden taşıt kredisi başvuru formu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araç kredisi talebinde bulunmak istiyorum",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Yeni araba alımı için kredi lazım",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Taşıt kredisi çekmek istiyorum yardım",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araba kredisi başvuru ekranı nerede",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Motorlu taşıt kredisi başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araç alım kredisi başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Taşıt kredisi için ön başvuru",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "0 km araç için taşıt kredisi başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "İkinci el araç kredisi alabilir miyim",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Sıfır araba kredisi başvuru şartları",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "2. el otomobil kredisi çekmek istiyorum",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Hafif ticari araç kredisi başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Motosiklet kredisi çekmek istiyorum",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "SUV araç kredisi veriyor musunuz",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Elektrikli araç kredisi başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Hibrit araç kredisi avantajları",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Yerli araba kredisi kampanyası",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "İthal araç kredisi başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Pick-up kredisi",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Minibüs kredisi çekmek istiyorum",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Kamyonet kredisi başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Engelli raporu ile araç kredisi",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "100 bin TL taşıt kredisi çekmek istiyorum",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "150 bin TL araç kredisi alabilir miyim",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araç fiyatının yüzde kaçı kredi veriliyor",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "200 bin TL otomobil kredisi başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "50 bin TL motosiklet kredisi",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "300 bin TL taşıt kredisi verir misiniz",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araç değerinin %70'i kadar kredi",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "80 bin TL ikinci el araç kredisi",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "250 bin TL sıfır araç kredisi",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "120 bin TL taşıt kredisi çekmek",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "24 ay vadeli taşıt kredisi başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "36 ay araç kredisi çekmek istiyorum",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "48 ay vade taşıt kredisi var mı",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "60 ay otomobil kredisi",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "En uzun taşıt kredisi vadesi kaç ay",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "12 ay vadeli araç kredisi",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "18 ay vade ile taşıt kredisi",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Vade seçenekleri nelerdir",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Kısa vadeli taşıt kredisi avantajları",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Uzun vadeli araç kredisi dezavantajları",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Taşıt kredisi başvuru şartları nelerdir",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araç kredisi için gerekli belgeler",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Taşıt kredisi için kefil şart mı",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araç rehini nasıl tesis edilir",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Ekspertiz raporu zorunlu mu taşıt kredisinde",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araç kredisi için yaş sınırı",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Kasko zorunlu mu taşıt kredisinde",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araç sigortası şart mı",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Taşıt kredisi masrafları nelerdir",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Kredi notu kaç olmalı taşıt kredisinde",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Bayiden araç kredisi kampanyası",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Sıfır araç bayii kredisi başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "İkinci el araç alım kredisi",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Ticari araç kredisi başvurusu",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Özel araç kredisi kampanyaları",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Taşıt kredisi başvurum reddedildi neden",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araç kredisi onay süreci ne kadar sürer",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Ekspertiz sonucu ne zaman çıkar",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Taşıt kredisi ne aşamada",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araç kredisi başvurusunda hata düzeltme",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "5 yaşındaki araca kredi çıkar mı",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "10 yaş üzeri araç için kredi",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "150 bin km üzeri araca kredi var mı",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araç yaşı kredi oranını etkiler mi",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Eski model araç kredisi",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Yüksek km araç kredisi çıkar mı",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Araç yaşına göre kredi oranı",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "0-3 yaş araç kredisi avantajları",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "4-7 yaş araç kredisi şartları",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "7+ yaş araç kredisi mümkün mü",
+    "label": "tasit_kredisi_basvuru"
+  },
+  {
+    "text": "Taşıt kredisi faiz oranları ne kadar",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Araç kredisi faizi kaç",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Güncel taşıt kredisi faizleri",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Otomobil kredisi faiz oranı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Aylık araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Yıllık taşıt kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Taşıt kredisinde faiz nasıl hesaplanır",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "En uygun araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Kampanyalı taşıt kredisi faizleri",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Düşük faizli araç kredisi var mı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Taşıt kredisi faiz tablosu",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Bugün itibarıyla araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Hoş geldin faizi taşıt kredisinde",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "En düşük taşıt kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Promosyonlu araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "0 km araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "İkinci el araç kredisi faiz oranı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Sıfır araba faizi kaç",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "2. el otomobil faiz oranı yüksek mi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Motosiklet kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Ticari araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Elektrikli araç kredisi faiz indirimi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Hibrit araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Yerli araba kredisi faiz kampanyası",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "İthal araç kredisi faizi farklı mı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "12 ay taşıt kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "24 ay araç kredisi faiz oranı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "36 ay taşıt kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "48 ay araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "60 ay taşıt kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Kısa vadeli araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Uzun vadeli taşıt kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Vadeye göre faiz oranları",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "24 ay mı 36 ay mı daha avantajlı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Vade uzadıkça faiz değişir mi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "50 bin TL taşıt kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "100 bin TL araç kredisi faiz oranı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "150 bin TL otomobil kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "200 bin TL taşıt kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "250 bin TL araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Taşıt kredisi mi ihtiyaç kredisi mi avantajlı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Araç kredisi faizi ile ihtiyaç kredisi faizi karşılaştırması",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Bankalar arası taşıt kredisi faiz karşılaştırması",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Geçen aya göre araç kredisi faizi değişti mi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Rakiplere göre taşıt kredisi faiziniz",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Döviz kuru taşıt kredisi faizini etkiler mi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Enflasyon karşısında araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "TCMB faiz kararı sonrası taşıt kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Geçen yıl bu zamanlar araç kredisi faizi neydi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Faizler düşecek mi yükselecek mi taşıt kredisinde",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "50 bin TL taşıt kredisi 24 ay aylık taksit",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "100 bin TL araç kredisi 36 ay toplam geri ödeme",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "150 bin TL otomobil kredisi 48 ay faiz hesaplama",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "200 bin TL taşıt kredisi aylık ödeme",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Taşıt kredisi hesaplama robotu nerede",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Araç kredisi taksit hesaplama",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Faiz dahil toplam geri ödeme",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Aylık taksit miktarı nasıl hesaplanır",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Taşıt kredisi geri ödeme tablosu",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Ödeme planı oluşturma",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "0-3 yaş araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "4-7 yaş araç kredisi faiz oranı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "7 yaş üzeri araç kredisi faizi var mı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Araç yaşı faizi etkiler mi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Düşük km araç kredisi faiz avantajı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Yüksek km araç faizi yüksek mi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Eski model araç faiz oranı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Araç yaşına göre faiz skalası",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "5 yaş araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "10 yaş araç için kredi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Taşıt kredisinde ekspertiz ücreti",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Araç kredisi dosya masrafı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Kasko zorunlu mu taşıt kredisinde",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Araç sigortası dahil mi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Taşıt kredisi masrafları toplamı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Memur taşıt kredisi faiz oranı",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Emekli araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Maaş müşterisi taşıt kredisi faiz indirimi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Gençlere özel araç kredisi faizi",
+    "label": "tasit_kredisi_faiz"
+  },
+  {
+    "text": "Kredi notuna göre faiz değişir mi",
+    "label": "tasit_kredisi_faiz"
+  }
+]
