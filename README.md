@@ -13,7 +13,7 @@
 - 🔍 RAG (Retrieval-Augmented Generation) ile güncel bankacılık bilgileri
 - 🖥️ Gradio ile kullanıcı dostu web arayüzü
 
-> ⚠️ Bu proje, asıl bitirme projesi olan **Akıllı Router Tabanlı AI Asistanı** sisteminin teknik altyapısını oluşturan bir **ön çalışma (prototip)** niteliğindedir.
+
 
 ---
 
