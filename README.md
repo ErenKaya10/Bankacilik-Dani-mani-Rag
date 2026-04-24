@@ -208,6 +208,17 @@ Confusion matrix görseli: [`confusion_matrix.png`](confusion_matrix.png)
 | Gradio | Web arayüzü |
 | Scikit-learn | Performans metrikleri |
 
+## Önemli 
+## 🔧 Notebook Görüntüleme Sorunu
+
+Eğer GitHub'da `Invalid Notebook` hatası alıyorsanız, lütfen aşağıdaki linkleri kullanın:
+
+- [Model_Egitimi.ipynb (NBSanity ile görüntüle)](https:nbsanity.com/ErenKaya10/Bankacilik-Dani-mani-Rag/blob/main/Model_Egitimi.ipynb)
+- [son_model.ipynb (NBSanity ile görüntüle)](https://nbsanity.com/ErenKaya10/Bankacilik-Dani-mani-Rag/blob/main/son_model.ipynb)
+
+Bu bağlantılar notebook'ları sorunsuz şekilde gösterecektir.
+
+
 ---
 
 ## 📄 Lisans
